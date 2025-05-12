@@ -1,4 +1,4 @@
-# A large-scale analysis of food market spatial accessibility in Africa
+# Unequal Journeys to Food Markets: Continental‑Scale Evidence from Open Data in Africa
 
 ## Table of Contents
 1. [Citing](#citing)
@@ -66,7 +66,7 @@ We use the friction surfaces from the [Malaria Atlas Project](https://malariaatl
 For the analysis on the relation between rurality and market access we use a 30-arcsec raster from the [Urban-Rural Catchment Areas (URCA)](https://figshare.com/articles/dataset/Urban-rural_continuum/12579572) Project, with a 30-level classificaiton.
 
 ## 5. Usage
-
+First download the Walking-only and Motorized Friction Surfaces from the [Malaria Atlas Project](https://malariaatlas.org/project-resources/accessibility-to-healthcare/) or this Dropbox [link](https://www.dropbox.com/scl/fo/pw2v7d9r83defz5i9vqix/AGclONfbO4FDRqDX_4wvSI8?rlkey=yaduklz0gwa143nu3eguxa3o9&st=w21lt95y&dl=0)
 To call `compute_accessibilities.py`, you need to input three variables:
 - **country_code**: A string with the iso3 code of the country (e.g. `'eth'` for Ethiopia)
 - **threshold**: The travel time threshold (in minutes) for the cumulative accessibility in `str` format (e.g. `'30'`for 30 minutes)
