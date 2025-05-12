@@ -1,0 +1,14 @@
+.DS_Store
+acc_sparse.pickle
+sparse_x.pickle
+sparse_y.pickle
+eth_ppp_2017_cropped.tif
+eth_ppp_2017_rescaled_sum.tif
+data/
+figs/
+prev_codes/
+ethiopia/
+nigeria/
+__pycache__/
+.ipynb_checkpoints/
+shared_data/rwi/rwi_tif/*.tif
