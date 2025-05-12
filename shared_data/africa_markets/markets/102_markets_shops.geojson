@@ -1,0 +1,8 @@
+{"type":"FeatureCollection","features":[
+{"type":"Feature","geometry":{"type":"Point","coordinates":[28.4375156,9.6093988]},"properties":{"amenity":"marketplace","name":"Abyei New Market سوق أبيي الجديد","name:ar":"سوق أبيي الجديد","name:en":"Abyei New Market"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[27.8960161,10.0935935]},"properties":{"name":"تدامه","shop":"supermarket"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[28.1158263,9.8345849]},"properties":{"name":"سوريك","shop":"supermarket"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[28.0831332,9.9119475]},"properties":{"name":"شقي","shop":"supermarket"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[28.0844388,9.9133852]},"properties":{"name":"شقي","shop":"supermarket"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[28.2215478,9.7082885]},"properties":{"name":"شارو","shop":"supermarket"}}
+]}

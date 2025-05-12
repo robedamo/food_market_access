@@ -1,0 +1,2 @@
+2020_motorized_friction_surface.geotiff filter=lfs diff=lfs merge=lfs -text
+2020_walking_only_friction_surface.geotiff filter=lfs diff=lfs merge=lfs -text

@@ -1,0 +1,2755 @@
+MarketId,Country,Admin 1,Admin 2,Market Name,Latitude,Longitude,Population
+1794,Algeria,Alger,Hydra,Algiers,36.7529,3.042,818201
+1902,Algeria,Tindouf,Tindouf,Awserd,27.631,-7.876,4878
+1901,Algeria,Tindouf,Tindouf,Boujdour,27.51,-8.01,4355
+1797,Algeria,Tindouf,Tindouf,Dakhla,26.8274,-6.8699,3823
+1903,Algeria,Tindouf,Tindouf,Laayoun,27.74,-8.014,5942
+1796,Algeria,Tindouf,Tindouf,Smara,27.4923,-7.8284,8222
+1795,Algeria,Tindouf,Tindouf,Tindouf,27.6761,-8.1277,52539
+2305,Angola,Lunda Norte,Chitato,Kaxinde,-7.3838,20.8274,129814
+2593,Angola,Luanda,Luanda,Luanda,-8.838,13.234,2659062
+1787,Armenia,Lori,Spitak,Armavir,40.9146,44.1536,519
+1886,Armenia,Ararat,Artashat,Artashat,39.9614,44.5445,45033
+2756,Armenia,Aragatsotn,Ashtarak,Ashtarak,40.2928,44.3493,30980
+644,Armenia,Tavush,Taush,Berd,40.8808,45.3917,10141
+642,Armenia,Gegharkunik,Gavar,Gavar,40.3589,45.1267,29609
+2757,Armenia,Shirak,Akhuryan,Gyumri,40.7932,43.8438,108835
+2758,Armenia,Kotayk,Hrazdan,Hrazdan,40.5367,44.7696,36700
+2759,Armenia,Tavush,Ijevan,Ijevan,40.8999,45.1523,26584
+1595,Armenia,Syunik,Kapan,Kapan,39.2011,46.415,33889
+2760,Armenia,Armavir,Echmiadzin,Vagharshapat,40.1635,44.2918,57834
+643,Armenia,Lori,Gugark,Vanadzor,40.8128,44.4883,72453
+1594,Armenia,Vayotz Dzor,Yeghegnadzor,Yeghegnadzor,39.76,45.33,13081
+641,Armenia,Yerevan,Yerevan,Yerevan,40.1811,44.5136,613718
+2562,Benin,Zou,Abomey,Abomey,7.18,1.99,73503
+2761,Benin,Oueme,Bonou,Affamè,6.9059,2.4687,21034
+2762,Benin,Oueme,Porto-novo,Ahidahomè (Porto-Novo),6.4995,2.6193,438804
+1766,Benin,Couffo,Aplahoue,Azovè,6.9474,1.7028,115870
+2554,Benin,Oueme,Adjohoun,Azowlissè,6.6669,2.4919,25949
+1749,Benin,Alibori,Banikoara,Banikoara,11.2935,2.4357,21221
+2763,Benin,Donga,Bassila,Bassila,9.0085,1.6661,21867
+2764,Benin,Borgou,Bembereke,Bembèrèkè,10.2248,2.6692,13290
+1761,Benin,Zou,Bohicon,Bohicon,7.1798,2.0714,199556
+2555,Benin,Atakora,Kobli,Cobly,10.4793,0.8799,6636
+2556,Benin,Mono,Come,Comé,6.4045,1.8826,59311
+2765,Benin,Zou,Cove,Covè,7.2175,2.3425,50356
+2766,Benin,Oueme,Dangbo,Dangbo,6.5857,2.5503,106165
+124,Benin,Littoral,Cotonou,Dantokpa,6.3749,2.4308,623128
+2767,Benin,Collines,Dassa,Dassa-Zoumè,7.7774,2.1983,41660
+2768,Benin,Zou,Ouinhi,Dasso,7.0122,2.4649,20162
+1758,Benin,Donga,Djougou,Djougou,9.7081,1.6664,94676
+2769,Benin,Couffo,Dogbo-tota,Dogbo,6.8046,1.7862,37343
+1760,Benin,Collines,Glazoue,Glazoué,7.9737,2.2446,38951
+2770,Benin,Oueme,Dangbo,Hozin,6.603,2.5464,80992
+2557,Benin,Plateau,Adja-ouere,Ikpenlè,6.8929,2.6211,49591
+1751,Benin,Borgou,Kalale,Kalalé,10.2901,3.3817,11314
+2771,Benin,Alibori,Karimama,Karimama,12.0685,3.1828,10695
+2558,Benin,Donga,Ouake,Kassoua-Allah,9.6733,1.371,23724
+1755,Benin,Atakora,Kerou,Kérou,10.8323,2.1107,12707
+1762,Benin,Plateau,Ketou,Kétou,7.3603,2.604,55174
+2772,Benin,Couffo,Klouekanme,Klouékanmè,7.0663,1.8773,11208
+2559,Benin,Zou,Zangnanado,Kpedekpo,7.2319,2.5001,17506
+1044,Benin,Alibori,Malanville,Malanville (CBM),11.86,3.38,57821
+1757,Benin,Atakora,Natitingou,Natitingou,10.2964,1.3807,46987
+1753,Benin,Borgou,Ndali,N'Dali,9.863,2.7133,16916
+1752,Benin,Borgou,Nikki,Nikki,9.9368,3.2131,25925
+1764,Benin,Oueme,Porto-novo,Ouando,6.4981,2.5901,269964
+2773,Benin,Atlantique,Toffo,Ouègbo,6.8045,2.1711,20866
+2560,Benin,Collines,Ouesse,Ouesse,8.4929,2.4222,32087
+1754,Benin,Borgou,Parakou,Parakou,9.3467,2.609,223673
+2774,Benin,Atakora,Pehonko,Péhunco,10.2291,2.0025,18546
+1763,Benin,Plateau,Pobe,Pobè,6.9832,2.6636,81293
+1759,Benin,Collines,Savalou,Savalou,7.9301,1.971,38783
+2776,Benin,Atlantique,Ze,Sèdjè-Dénou,6.724,2.3782,11494
+2561,Benin,Atlantique,Toffo,Sehoue,6.8403,2.1104,9743
+2777,Benin,Atlantique,Allada,Sékou,6.6328,2.2223,39810
+1750,Benin,Borgou,Sinende,Sinendé,10.3438,2.3838,18420
+2775,Benin,Atlantique,So-ava,So-Ava,6.4662,2.3916,66758
+1756,Benin,Atakora,Tanguieta,Tanguiéta,10.6228,1.265,25869
+2778,Benin,Plateau,Adja-ouere,Tatonnoukon,6.9654,2.5744,20793
+2779,Benin,Borgou,Tchaourou,Tchaourou,8.8884,2.5963,21469
+2780,Benin,Plateau,Sakete,Yoko,6.7125,2.6123,32729
+2783,Benin,Atlantique,Ze,Zè,6.6826,2.3242,21103
+2781,Benin,Atlantique,Abomey-calavi,Zinvié,6.6149,2.3566,40772
+2782,Benin,Zou,Zogbodome,Zogbodomey,7.0572,2.2482,5163
+3361,Burkina Faso,SAHEL,SOUM,Arbinda,14.2307,-0.859,6212
+129,Burkina Faso,CASCADES,COMOÉ,Banfora,10.6333,-4.7667,87636
+3362,Burkina Faso,SUD-OUEST,NOUMBIEL,Batié,9.8771,-2.9229,9565
+2569,Burkina Faso,HAUTS-BASSINS,HOUET,Bobo Dioulasso,11.183,-4.283,426201
+3363,Burkina Faso,EST,GNAGNA,Bogandé,12.9743,-0.1436,17417
+3364,Burkina Faso,BOUCLE DU MOUHOUN,BALÉ,Boromo,11.7507,-2.9284,16649
+3365,Burkina Faso,CENTRE-NORD,NAMENTENGA,Boulsa,12.6605,-0.5732,21436
+130,Burkina Faso,PLATEAU-CENTRAL,KOURWÉOGO,Bousse,12.6606,-1.8922,22121
+3366,Burkina Faso,SUD-OUEST,IOBA,Dano,11.1462,-3.0611,18023
+1892,Burkina Faso,BOUCLE DU MOUHOUN,MOUHOUN,Dedougou,12.4503,-3.47,46607
+3367,Burkina Faso,EST,TAPOA,Diapaga,12.0321,1.8198,4844
+131,Burkina Faso,SUD-OUEST,BOUGOURIBA,Diebougou,10.9667,-3.25,18816
+3368,Burkina Faso,BOUCLE DU MOUHOUN,KOSSI,Djibasso,13.1183,-4.1589,12681
+132,Burkina Faso,SAHEL,SOUM,Djibo,14.1012,-1.6279,27522
+133,Burkina Faso,SAHEL,SÉNO,Dori,14.0317,-0.0346,26938
+3369,Burkina Faso,CASCADES,LÉRABA,Douna,10.6129,-5.1076,8654
+134,Burkina Faso,EST,GOURMA,Fada N'Gourma,12.0622,0.3578,55259
+3370,Burkina Faso,BOUCLE DU MOUHOUN,BALÉ,Fara,11.5329,-2.7653,13294
+3371,Burkina Faso,HAUTS-BASSINS,HOUET,Faramana,12.0502,-4.6683,11219
+3372,Burkina Faso,HAUTS-BASSINS,TUY,Founza,11.455,-3.2286,12295
+3373,Burkina Faso,SUD-OUEST,PONI,Gaoua,10.3284,-3.1843,29647
+3374,Burkina Faso,BOUCLE DU MOUHOUN,NAYALA,Gassan,12.8202,-3.2007,11237
+3375,Burkina Faso,EST,KOMANDJARI,Gayéri,12.6373,0.5192,7726
+135,Burkina Faso,SAHEL,OUDALAN,Gorom Gorom,14.4423,-0.2354,14473
+3376,Burkina Faso,CENTRE,KADIOGO,Gounghin,12.3561,-1.5461,793747
+136,Burkina Faso,NORD,ZONDOMA,Gourcy,13.2078,-2.3589,37527
+1805,Burkina Faso,CENTRE-SUD,NAHOURI,Guelwongo,11.0094,-0.8708,14092
+3377,Burkina Faso,EST,KOMANDJARI,Haaba,13.0183,0.7941,2793
+3378,Burkina Faso,SUD-OUEST,IOBA,Hamélé,11.0081,-2.7489,3680
+3379,Burkina Faso,HAUTS-BASSINS,TUY,Houndé,11.4938,-3.5203,40188
+1042,Burkina Faso,EST,TAPOA,Kantchari (CBM),12.47,1.51,10335
+1803,Burkina Faso,CENTRE-NORD,SANMATENGA,Kaya,13.0917,-1.0844,75321
+3380,Burkina Faso,CENTRE-SUD,BAZÈGA,Kombissiri,12.0648,-1.3392,26517
+3381,Burkina Faso,EST,KOMPIENGA,Kompienga,11.0806,0.7225,19319
+137,Burkina Faso,CENTRE-NORD,BAM,Kongoussi,13.3258,-1.5347,38044
+138,Burkina Faso,CENTRE-OUEST,BOULKIEMDÉ,Koudougou,12.25,-2.3667,103598
+3382,Burkina Faso,CENTRE-EST,KOURITTENGA,Koupela,12.1819,-0.3532,44170
+1804,Burkina Faso,CENTRE-OUEST,SISSILI,Leo,11.1,-2.1,35261
+3383,Burkina Faso,CENTRE-SUD,ZOUNDWÉOGO,Manga,11.6641,-1.0718,25861
+3384,Burkina Faso,SAHEL,OUDALAN,Markoye,14.6425,0.0709,4147
+3385,Burkina Faso,PLATEAU-CENTRAL,GANZOURGOU,Mogtédo,12.2795,-0.8359,25029
+1043,Burkina Faso,EST,TAPOA,Namouno (CBM),11.86,1.69,20781
+3387,Burkina Faso,HAUTS-BASSINS,KÉNÉDOUGOU,N'Dorola,11.7658,-4.8194,9777
+1806,Burkina Faso,HAUTS-BASSINS,HOUET,Nieneta,11.198,-4.2888,393351
+2595,Burkina Faso,BOUCLE DU MOUHOUN,KOSSI,Nouna,12.733,-3.867,26067
+3388,Burkina Faso,HAUTS-BASSINS,KÉNÉDOUGOU,Orodara,10.9819,-4.9142,27969
+139,Burkina Faso,CENTRE,KADIOGO,Ouagadougo (Sankaryare),12.3646,-1.5339,762862
+1893,Burkina Faso,NORD,YATENGA,Ouahigouya,13.5668,-2.411,107590
+3389,Burkina Faso,CENTRE-EST,KOULPÉLOGO,Ouargaye,11.477,0.0893,16435
+3390,Burkina Faso,CENTRE-SUD,NAHOURI,Po,11.1666,-1.1453,19982
+1802,Burkina Faso,CENTRE-EST,KOURITTENGA,Pouytenga,12.2172,-0.4461,69587
+3391,Burkina Faso,CENTRE-OUEST,SANGUIÉ,Réo,12.3191,-2.4703,27596
+3392,Burkina Faso,CENTRE-OUEST,ZIRO,Sapouy,11.5488,-1.7741,15798
+3393,Burkina Faso,SAHEL,YAGHA,Sebba,13.4357,0.5461,8426
+3394,Burkina Faso,SAHEL,SÉNO,Seytenga,13.9703,0.3125,7324
+3395,Burkina Faso,BOUCLE DU MOUHOUN,BANWA,Solenzo,12.1795,-4.0848,24624
+140,Burkina Faso,CENTRE-EST,BOULGOU,Tenkodogo,11.78,-0.3697,48095
+3396,Burkina Faso,CENTRE-OUEST,SANGUIÉ,Tita,11.9212,-2.5248,19094
+3397,Burkina Faso,NORD,LOROUM,Titao,13.7707,-2.07,16558
+3398,Burkina Faso,BOUCLE DU MOUHOUN,NAYALA,Toma,12.7605,-2.8963,13726
+141,Burkina Faso,BOUCLE DU MOUHOUN,SOUROU,Tougan,13.0725,-3.0694,17960
+3399,Burkina Faso,NORD,PASSORÉ,Yako,12.9595,-2.2613,34458
+3400,Burkina Faso,CENTRE-NORD,NAMENTENGA,Yalgo,13.5839,-0.2667,16487
+3401,Burkina Faso,CENTRE-EST,BOULGOU,Zabré,11.1791,-0.6323,26607
+3402,Burkina Faso,PLATEAU-CENTRAL,OUBRITENGA,Ziniaré,12.5817,-1.2967,36132
+3403,Burkina Faso,PLATEAU-CENTRAL,GANZOURGOU,Zorgho,12.2472,-0.6193,24315
+2422,Burundi,Kayanza,Matongo,Bandaga,-3.0657,29.6107,60572
+2423,Burundi,Ruyigi,Butaganzwa1,Biyogwa,-3.472,30.1123,18242
+3045,Burundi,Ruyigi,Butaganzwa1,Biyorwa,-3.4646,30.0945,17839
+2424,Burundi,Bubanza,Bubanza,Bubanza,-3.0809,29.3898,43992
+2465,Burundi,Karuzi,Buhiga,Buhiga,-3.0253,30.1708,33048
+201,Burundi,Bujumbura Mairie,Ntahangwa,Bujumbura,-3.3643,29.3579,666618
+2425,Burundi,Muramvya,Bukeye,Bukeye,-3.1914,29.6346,53506
+2426,Burundi,Gitega,Bukirasazi,Bukirasazi,-3.7022,29.964,34920
+3047,Burundi,Rumonge,Burambi,Burambi,-3.75,29.4166,20223
+2427,Burundi,Bururi,Bururi,Bururi,-3.9498,29.6253,23294
+2428,Burundi,Kirundo,Busoni,Busoni,-2.527,30.2175,44318
+2429,Burundi,Rumonge,Buyengero,Buyengero,-3.8148,29.5423,31391
+2466,Burundi,Cankuzo,Cankuzo,Cankuzo,-3.217,30.5503,20635
+2464,Burundi,Bujumbura Mairie,Ntahangwa,Chez Siyoni,-3.364,29.3569,657487
+3049,Burundi,Cibitoke,Rugombo,Cibitoke,-2.8965,29.1265,54106
+2430,Burundi,Cibitoke,Buganda,Gasenyi,-2.9641,29.1942,42687
+2431,Burundi,Muyinga,Gasorwe,Gasorwe,-2.8546,30.2198,59471
+2467,Burundi,Muramvya,Kiganda,Gatabo,-3.2816,29.7018,54910
+2432,Burundi,Gitega,Itaba,Gihamagara,-3.6171,30.0227,26461
+3046,Burundi,Rutana,Giharo,Giharo,-3.7811,30.2342,27028
+2433,Burundi,Karuzi,Gihogazi,Gihogazi,-3.1243,30.0033,38213
+2468,Burundi,Ruyigi,Gisuru,Gisuru,-3.4588,30.4984,41369
+2469,Burundi,Bujumbura Rural,Muhuta,Gitaza,-3.6147,29.3473,52621
+202,Burundi,Gitega,Itaba,Gitega,-3.6375,30.0401,23066
+3051,Burundi,Gitega,Gitega,Gitega Centre,-3.4321,29.9257,139201
+2470,Burundi,Muyinga,Giteranyi,Giteranyi,-2.5169,30.4573,113118
+2434,Burundi,Kirundo,Gitobe,Gitobe,-2.6485,30.2012,33688
+2435,Burundi,Kayanza,Kabarore,Jene,-2.8525,29.6105,60484
+2436,Burundi,Bujumbura Mairie,Ntahangwa,Kamenge,-3.3467,29.3826,700830
+2437,Burundi,Bujumbura Mairie,Muha,Kanyosha,-3.4315,29.3607,276221
+2471,Burundi,Kayanza,Kayanza,Kayanza,-2.9271,29.6285,120523
+2438,Burundi,Rutana,Mpinga-Kayove,Kayero,-3.81,30.118,16412
+2439,Burundi,Makamba,Kayogoro,Kayogoro,-4.1192,29.9478,31813
+2440,Burundi,Ruyigi,Bweru,Kayongozi,-3.2727,30.3362,13843
+2441,Burundi,Cankuzo,Kigamba,Kigamba,-3.0671,30.542,16496
+2442,Burundi,Bujumbura Rural,Mubimbi,Kinama,-3.298,29.5165,63724
+2472,Burundi,Ruyigi,Kinyinya,Kinyinya,-3.66,30.355,35424
+3055,Burundi,Muyinga,Buhinyuza,Kirehe,-2.9479,30.3484,29480
+203,Burundi,Kirundo,Kirundo,Kirundo,-2.5847,30.0972,65104
+2443,Burundi,Bubanza,Musigati,Kivyuka,-3.027,29.453,46628
+2473,Burundi,Muyinga,Butihinda,Kobero,-2.6533,30.4069,32530
+2444,Burundi,Makamba,Mabanda,Mabanda,-4.2748,29.7742,21715
+2445,Burundi,Cibitoke,Mabayi,Mabayi,-2.7165,29.2441,43287
+2474,Burundi,Makamba,Makamba,Makamba,-4.1388,29.802,47257
+2446,Burundi,Ngozi,Marangara,Marangara,-2.7423,29.9942,37485
+2447,Burundi,Ngozi,Kiremba,Masanganzira,-2.8137,30.0978,41868
+2475,Burundi,Bururi,Matana,Matana,-3.7657,29.6908,29554
+2476,Burundi,Ngozi,Busiga,Mihigo,-2.8498,29.7451,46404
+2448,Burundi,Cankuzo,Mishiha,Mishiha,-3.0097,30.781,16714
+2449,Burundi,Kayanza,Muhanga,Muhanga,-3.0286,29.8311,89677
+2477,Burundi,Kirundo,Bwambarangwe,Mukenke,-2.582,30.334,43668
+2451,Burundi,Muramvya,Muramvya,Muramvya,-3.2699,29.6168,59063
+1827,Burundi,Bubanza,Mpanda,Musenyi,-3.1714,29.4045,70573
+2452,Burundi,Gitega,Mutaho,Mutaho,-3.1443,29.8667,51356
+2478,Burundi,Makamba,Nyanza-Lac,Muyange,-4.3075,29.6852,49545
+204,Burundi,Muyinga,Muyinga,Muyinga,-2.8494,30.3361,84288
+2453,Burundi,Bubanza,Rugazi,Muzinda,-3.2617,29.4208,59566
+2454,Burundi,Muyinga,Mwakiro,Mwakiro,-3.131,30.2899,34067
+2455,Burundi,Mwaro,Kayokwe,Mwaro,-3.5164,29.7063,40058
+206,Burundi,Ngozi,Ngozi,Ngozi,-2.9083,29.8278,177086
+2457,Burundi,Mwaro,Nyabihanga,Nyabihanga,-3.4709,29.8098,45345
+2458,Burundi,Karuzi,Nyabikere,Nyabikere,-3.2647,30.1145,39972
+2459,Burundi,Bururi,Mugamba,Nyagasasa,-3.5917,29.5909,27559
+2460,Burundi,Rutana,Giharo,Rubaho,-3.8539,30.2203,38791
+1826,Burundi,Cibitoke,Rugombo,Rugombo,-2.8149,29.0792,52494
+2461,Burundi,Kirundo,Bugabira,Ruhehe,-2.4356,30.0345,56089
+2479,Burundi,Rumonge,Rumonge,Rumonge,-3.9778,29.4411,94884
+2462,Burundi,Mwaro,Rusaka,Rusaka,-3.4399,29.6321,29226
+2480,Burundi,Rutana,Rutana,Rutana,-3.9301,29.9914,34682
+205,Burundi,Ruyigi,Ruyigi,Ruyigi,-3.4764,30.2486,30774
+2463,Burundi,Bujumbura Rural,Mugongomanga,Rwibaga,-3.4682,29.5458,31309
+2481,Burundi,Cankuzo,Cendajuru,Twinkwavu,-3.26,30.6538,24869
+2482,Burundi,Mwaro,Bisoro,Wimpfizi,-3.6131,29.7859,35376
+1580,Cameroon,Nord,Bénoué,Adoumri,9.25,13.8,12235
+7625,Cameroon,Extrême-Nord,Mayo-Sava,Amchidé,11.2392,14.1433,25062
+2566,Cameroon,Ouest,Mifi,Bafoussam,5.476,10.422,207222
+2567,Cameroon,Nord-Ouest,Mezam,Bamenda,5.9574,10.1479,236206
+5528,Cameroon,Nord-Ouest,Mezam,Bamenda-Nkwen,5.962,10.169,240727
+8559,Cameroon,Adamaoua,Vina,Bamyanga,7.2933,13.5766,112323
+7603,Cameroon,Adamaoua,Mayo-Banyo,Banyo,6.7539,11.7968,23101
+6705,Cameroon,Sud-Ouest,Meme,Barombi Kang,4.5931,9.4674,85273
+2257,Cameroon,Adamaoua,Mbéré,Batoua Godolé,6.9499,14.9001,336
+2253,Cameroon,Est,Kadey,Batouri,4.4359,14.3641,24722
+2247,Cameroon,Est,Lom-et-Djérem,Bertoua 1,4.5796,13.6769,124414
+2246,Cameroon,Est,Lom-et-Djérem,Bertoua 2,4.5735,13.6877,124379
+2248,Cameroon,Est,Lom-et-Djérem,Betare Oya,5.5946,14.0831,8979
+4251,Cameroon,Sud-Ouest,Fako,Buea,4.1597,9.2716,186549
+5260,Cameroon,Littoral,Wouri,Douala-Bonaberi,4.0777,9.6509,569566
+2579,Cameroon,Littoral,Wouri,Douala-Congo,4.044,9.698,996151
+5261,Cameroon,Littoral,Wouri,Douala-Marché Central,4.0241,9.7149,1101536
+5262,Cameroon,Littoral,Wouri,Douala-Sandaga,4.0615,9.7025,1061513
+7622,Cameroon,Extrême-Nord,Mayo-Kani,Doukoula,10.3029,14.6942,11709
+1585,Cameroon,Nord,Mayo-Louti,Figuil,9.75,13.9667,26752
+7616,Cameroon,Extrême-Nord,Logone-et-Chari,Fotokol,12.3832,14.223,20182
+5263,Cameroon,Nord-Ouest,Boyo,Fundong,6.2798,10.2841,21615
+7601,Cameroon,Adamaoua,Faro-et-Déo,Galim tignère,7.0959,12.475,5018
+1593,Cameroon,Nord,Bénoué,Garoua,9.3,13.4,175471
+2258,Cameroon,Est,Lom-et-Djérem,Garoua Boulaï,5.8952,14.5522,31977
+7614,Cameroon,Extrême-Nord,Diamaré,Gazawa,10.5387,14.141,14708
+2254,Cameroon,Est,Kadey,Gbiti,4.6816,14.7157,5166
+7623,Cameroon,Extrême-Nord,Mayo-Danay,Gobo,10.002,15.4187,16126
+1582,Cameroon,Nord,Faro,Godé,8.5333,13.0833,706
+1584,Cameroon,Nord,Mayo-Louti,Guider,9.9342,13.9486,64318
+2249,Cameroon,Est,Lom-et-Djérem,Guiwa Yangamo,4.9668,14.05,3474
+6549,Cameroon,Nord-Ouest,Momo,Guzang,5.8327,9.904,21664
+2309,Cameroon,Extrême-Nord,Mayo-Kani,Kaele,10.1122,14.4479,44814
+2255,Cameroon,Est,Kadey,Kentzou,4.1751,15.031,10307
+2256,Cameroon,Est,Kadey,Kétté,4.9643,14.5631,1859
+7628,Cameroon,Extrême-Nord,Mayo-Sava,Kolofata,11.1609,14.0144,10507
+1590,Cameroon,Extrême-Nord,Logone-et-Chari,Kousseri,12.0783,15.0308,100707
+7631,Cameroon,Extrême-Nord,Mayo-Tsanaga,Koza,10.868,13.8816,50700
+5264,Cameroon,Sud-Ouest,Meme,Kumba,4.6421,9.4538,197430
+5275,Cameroon,Nord-Ouest,Bui,Kumbo,6.2131,10.6805,62409
+5266,Cameroon,Sud-Ouest,Fako,Limbé,4.0192,9.1741,148404
+1591,Cameroon,Extrême-Nord,Logone-et-Chari,Logone-Birni,11.7795,15.1034,8560
+1592,Cameroon,Extrême-Nord,Mayo-Tsanaga,Mada,10.7958,13.9419,24521
+1589,Cameroon,Nord,Mayo-Rey,Madingring,8.4559,15.0071,16500
+5267,Cameroon,Sud-Ouest,Manyu,Mamfé,5.7581,9.3107,31146
+2250,Cameroon,Est,Lom-et-Djérem,Mandjou,4.6004,13.7326,54053
+4332,Cameroon,Extrême-Nord,Logone-et-Chari,Mara,12.3856,14.9009,7445
+2307,Cameroon,Extrême-Nord,Diamaré,Maroua,10.6043,14.3313,172548
+4336,Cameroon,Extrême-Nord,Diamaré,Maroua-Dougoy,10.609,14.3486,151893
+7604,Cameroon,Adamaoua,Mayo-Banyo,Mayo Darlé,6.5018,11.5541,8985
+7639,Cameroon,Nord,Mayo-Rey,Mayo galke,8.3963,14.2332,11241
+1586,Cameroon,Nord,Mayo-Louti,Mayo Oulo,9.9594,13.6222,16477
+1587,Cameroon,Nord,Mayo-Rey,Mbaiboum,7.544,15.4472,11994
+7605,Cameroon,Adamaoua,Vina,Mbé,7.8567,13.5929,9421
+2259,Cameroon,Adamaoua,Mbéré,Meiganga,6.5147,14.2865,39814
+7632,Cameroon,Extrême-Nord,Mayo-Tsanaga,Mogode,10.61,13.5694,12581
+2311,Cameroon,Extrême-Nord,Mayo-Tsanaga,Mokolo,10.7429,13.8022,72164
+2310,Cameroon,Extrême-Nord,Mayo-Sava,Mora,11.0478,14.1371,48705
+6702,Cameroon,Sud-Ouest,Fako,Muea,4.1706,9.3018,155462
+6703,Cameroon,Sud-Ouest,Fako,Mutengene,4.0951,9.3136,76173
+2251,Cameroon,Est,Lom-et-Djérem,Ndokayo,5.5138,14.1227,7406
+5268,Cameroon,Nord-Ouest,Ngo-Ketunjia,Ndop,5.9867,10.4356,55210
+2260,Cameroon,Adamaoua,Mbéré,Ngaoui,6.7476,14.9451,8661
+7607,Cameroon,Adamaoua,Vina,Ngaoundéré,7.3285,13.5845,133954
+1578,Cameroon,Nord,Bénoué,Ngong,9.0244,13.5101,48472
+5269,Cameroon,Nord-Ouest,Donga-Mantung,Nkambe,6.5781,10.7082,16403
+1581,Cameroon,Nord,Faro,Pintchoumba,8.4833,13.45,7372
+1579,Cameroon,Nord,Bénoué,Pitoa,9.3833,13.5333,33909
+1583,Cameroon,Nord,Faro,Poli,8.4691,13.2446,9313
+1588,Cameroon,Nord,Mayo-Rey,Rey Bouba,8.6667,14.1833,12478
+7615,Cameroon,Extrême-Nord,Diamaré,Salak,10.4571,14.2404,14710
+7599,Cameroon,Adamaoua,Djérem,Tibati,6.4654,12.6303,21369
+7602,Cameroon,Adamaoua,Faro-et-Déo,Tignère,7.3686,12.6534,8901
+6704,Cameroon,Sud-Ouest,Fako,Tiko,4.068,9.3682,70998
+7626,Cameroon,Extrême-Nord,Mayo-Sava,Tokombere,10.8679,14.1461,25581
+2252,Cameroon,Est,Lom-et-Djérem,Tongo Gandima,5.1833,14,4651
+5270,Cameroon,Nord-Ouest,Menchum,Wum,6.3871,10.0758,29236
+2308,Cameroon,Extrême-Nord,Mayo-Danay,Yagoua,10.344,15.2275,32678
+2261,Cameroon,Adamaoua,Vina,Yamba,6.8906,14.0971,5449
+5272,Cameroon,Centre,Mfoundi,Yaoundé-Marché 8e,3.8889,11.497,883210
+2613,Cameroon,Centre,Mfoundi,Yaoundé-Mfoundi,3.861,11.522,1903142
+5271,Cameroon,Centre,Mfoundi,Yaoundé-Mokolo,3.8738,11.5001,1355963
+5529,Cameroon,Extrême-Nord,Mayo-Tsanaga,Zamay,10.63,13.9,18088
+535,Cape Verde,Santiago,Sao Domingos,Santiago,14.992,-23.52,6242
+533,Cape Verde,Santo Antao,Concelho de Porto Novo,Santo Antao,17.0225,-25.0652,2111
+534,Cape Verde,Sao Vicente,Sao Vicente,Sao Vicente,16.88,-24.98,71249
+686,Central African Republic,Ouaka,Bambari,Bambari,5.7619,20.6672,56205
+1856,Central African Republic,Mbomou,Bangassou,Bangassou,4.7333,22.8167,40925
+685,Central African Republic,Bangui,Bangui,Bangui,4.3667,18.5833,424741
+2073,Central African Republic,Nana-Mambéré,Baoro,Baoro,5.6947,15.9549,15343
+2203,Central African Republic,Ouham,Batangafo,Batangafo,7.2985,18.2849,22890
+2382,Central African Republic,Sangha-Mbaéré,Bayanga,Bayanga,2.9104,16.2748,5901
+2080,Central African Republic,Ombella M'Poko,Bimbo,Bégoua,4.4494,18.5357,197484
+2066,Central African Republic,Mambéré-Kadéï,Berbérati,Berbérati,4.2555,15.7875,15090
+2058,Central African Republic,Ombella M'Poko,Bimbo,Bimbo,4.3296,18.523,304535
+2198,Central African Republic,Vakaga,Birao,Birao,10.2952,22.7836,4705
+2209,Central African Republic,Ombella M'Poko,Boali,Boali,4.6699,18.2088,4793
+2071,Central African Republic,Ouham Pendé,Bocaranga,Bocaranga,6.9833,15.6462,26508
+2218,Central African Republic,Lobaye,Boda,Boda,4.3196,17.4643,24490
+2217,Central African Republic,Lobaye,Boganangone,Boganangone,4.8865,17.15,5144
+1792,Central African Republic,Ouham,Bossangoa,Bossangoa,6.4977,17.4499,45245
+2059,Central African Republic,Ombella M'Poko,Bossembélé,Bossembélé,5.2662,17.6466,10830
+2070,Central African Republic,Ombella M'Poko,Yaloké,Bossemptélé,5.6663,16.649,8625
+1791,Central African Republic,Nana-Mambéré,Bouar,Bouar,5.95,15.6,47350
+2062,Central African Republic,Ouham,Bouca,Bouca,6.5026,18.2793,12775
+2061,Central African Republic,Ouham Pendé,Bozoum,Bozoum,6.3186,16.3709,26522
+1857,Central African Republic,Haute-Kotto,Bria,Bria,6.5333,21.9833,38319
+2078,Central African Republic,Mambéré-Kadéï,Carnot,Carnot,4.94,15.8685,50324
+2803,Central African Republic,Ombella M'Poko,Bimbo,Combattant,4.4009,18.5312,646296
+2207,Central African Republic,Ombella M'Poko,Damara,Damara,4.9573,18.6984,6219
+2219,Central African Republic,Kémo,Dékoa,Dekoa,6.3198,19.0779,15003
+2064,Central African Republic,Mambéré-Kadéï,Gamboula,Gamboula,4.1211,15.1374,13763
+2805,Central African Republic,Bangui,Bangui,Gobongo,4.419,18.5482,478722
+2383,Central African Republic,Ouaka,Ippy,Ippy,6.2601,21.1966,15954
+1790,Central African Republic,Nana-Gribizi,Kaga-Bandoro,Kaga-Bandoro,7,19.1833,28899
+2063,Central African Republic,Lobaye,Mbaïki,Mbaïki,3.8739,17.9922,24465
+2211,Central African Republic,Nana-Gribizi,Mbrès,Mbres,6.6692,19.7959,9015
+2220,Central African Republic,Bamingui-Bangoran,Ndélé,Ndélé,8.4085,20.6484,16694
+2200,Central African Republic,Ouham Pendé,Bocaranga,Ngaoundaye,6.9858,15.6166,25116
+2060,Central African Republic,Sangha-Mbaéré,Nola,Nola,3.524,16.0449,31858
+2079,Central African Republic,Haut-Mbomou,Obo,Obo,5.4039,26.4946,10359
+1793,Central African Republic,Ouham Pendé,Paoua,Paoua,7.25,16.4333,24733
+2804,Central African Republic,Bangui,Bangui,Pétévo,4.3485,18.5425,576555
+2806,Central African Republic,Bangui,Bangui,PK5,4.362,18.5866,337098
+2082,Central African Republic,Kémo,Sibut,Sibut,5.7275,19.0819,28741
+2196,Central African Republic,Vakaga,Birao,Sikikede,9.9033,21.3407,52
+2065,Central African Republic,Ombella M'Poko,Yaloké,Yaloké,5.3204,17.0924,18929
+2068,Central African Republic,Haut-Mbomou,Zémio,Zemio,5.0243,25.1294,15043
+2302,Chad,Ouaddai,Abdi,Abdi,12.8075,21.3044,7801
+228,Chad,Ouaddai,Ouara,Abeche,13.8167,20.8167,75142
+2286,Chad,Salamat,Aboudeia,Aboudeia,11.4487,19.2793,4637
+1962,Chad,Salamat,Barh-Azoum,Am Timan,11.0411,20.285,41360
+2301,Chad,Sila,Djourouf Al Ahmar,Amdam,12.7635,20.4668,3752
+4517,Chad,Ennedi Est,Amdjarass,Amdjarass,16.1667,22.8333,3069
+2707,Chad,Wadi Fira,Biltine,Am-Zoer,14.2184,21.3865,7505
+2279,Chad,Batha,Batha-Ouest,Ati,13.2149,18.3324,34932
+6103,Chad,Tibesti,Tibesti-Est,Bardai,21.3544,17.0019,4136
+2708,Chad,Logone Oriental,La Nya,Bebedja,8.6748,16.5744,35871
+2709,Chad,Logone Oriental,Kouh-Ouest,Beboto,8.2643,16.9339,13228
+2292,Chad,Logone Occidental,Ngourkoussou,Benoye,8.9853,16.3184,17149
+2294,Chad,Wadi Fira,Biltine,Biltine,14.5357,20.9142,24389
+2719,Chad,Guera,Abtouyour,Bitkine,11.9792,18.2144,20658
+2710,Chad,Logone Oriental,Kouh-Est,Bodo,8.2888,17.1432,15501
+2296,Chad,Hadjer Lamis,Dababa,Bokoro,12.3762,17.0571,13034
+229,Chad,Lac,Mamdi,Bol,13.5,14.6833,10311
+1964,Chad,Mayo Kebbi Est,Mayo Boneye,Bongor,10.2757,15.3853,43843
+2287,Chad,Chari Baguirmi,Loug-Chari,Bousso,10.4834,16.7105,15517
+2293,Chad,Logone Oriental,La Pend,Doba,8.6659,16.8551,49016
+6104,Chad,Ennedi Ouest,Fada,Fada,17.1839,21.5843,11441
+4498,Chad,Borkou,Borkou,Faya,17.9244,19.1127,114249
+2711,Chad,Mayo Kebbi Est,Mont Illi,Fianga,9.9202,15.124,20544
+236,Chad,Logone Oriental,La Nya Pendm,Gore,7.92,16.63,23538
+2290,Chad,Sila,Kimiti,Goz Beida,12.2271,21.413,14855
+2712,Chad,Mayo Kebbi Est,Mayo-Lemi,Gueledeng,10.9202,15.5439,19953
+2713,Chad,Wadi Fira,Dar-Tama,Guereda,14.517,22.0917,7749
+2720,Chad,Salamat,Haraze Mangueigne,Haraze Mangueigne,9.9476,20.9064,7725
+2300,Chad,Wadi Fira,Iriba,Iriba,15.1271,22.2497,14292
+4493,Chad,Tibesti,Tibest-Ouest,Kalait,20.8443,15.8507,1
+1963,Chad,Tandjile,Tandjile-Ouest,Kélo,9.3084,15.8021,51842
+2282,Chad,Mandoul,Mandoul Oriental,Koumra,8.9182,17.5483,43899
+2714,Chad,Logone Occidental,Gueni,Krim Krim,8.9749,15.7992,13340
+2281,Chad,Moyen Chari,Lac Iro,Kyabe,9.4545,18.9431,25917
+2289,Chad,Tandjile,Tandjile-Est,Laï,9.3993,16.3053,24473
+2721,Chad,Mayo Kebbi Ouest,Lac-LBrn,Lere,9.6569,14.2225,25553
+2299,Chad,Chari Baguirmi,Chari,Mandelia,11.7289,15.2448,6983
+2715,Chad,Guera,Mangalma,Mangalme,12.3646,19.6099,10332
+230,Chad,Kanem,Kanem,Mao,14.1212,15.3103,28482
+2285,Chad,Moyen Chari,Grande Sido,Maro,8.4164,18.7693,17288
+2716,Chad,Hadjer Lamis,Haraze-Al-Biar,Massaguet,12.4798,15.436,15828
+2295,Chad,Hadjer Lamis,Dagana,Massakory,12.997,15.7339,16946
+2717,Chad,Chari Baguirmi,Baguirmi,Massenya,11.4028,16.1716,2701
+2303,Chad,Logone Oriental,Monts de Lam,Mbaïbokoum,7.7447,15.6936,10950
+2298,Chad,Logone Occidental,Dodje,Mbaïnamar,8.6693,15.3831,15076
+2755,Chad,Guera,Barh-Signaka,Melfi,11.062,17.933,9388
+2283,Chad,Mandoul,Barh-Sara,Moissala,8.3378,17.7614,20206
+2718,Chad,Kanem,Wadi-Bissam,Mondo,13.7823,15.5325,6714
+231,Chad,Guera,Guera,Mongo,12.1844,18.693,46132
+232,Chad,Logone Occidental,Lac Wey,Moundou,8.5667,16.0833,103382
+233,Chad,Barh El Gazal,Barh El Gazel Sud,Moussoro,13.6408,16.4901,29130
+234,Chad,Ndjaména,Ndjamena,Ndjamena,12.11,15.04,322559
+2297,Chad,Lac,Wayi,Ngouri,13.6368,15.3689,23597
+2291,Chad,Kanem,Nord-Kanem,Nokou,14.5829,14.7799,6773
+2280,Chad,Batha,Batha-Est,Oum Hadjer,13.2944,19.6914,17685
+5623,Chad,Batha,Batha-Est,Oumhadjer,13.2342,19.2395,2370
+2288,Chad,Mayo Kebbi Ouest,Mayo-Dallah,Pala,9.3659,14.91,37503
+2284,Chad,Mandoul,Mandoul Occidental,Peni,8.7975,17.297,21356
+235,Chad,Moyen Chari,Barh-K h,Sarh,9.1429,18.3923,87669
+2722,Chad,Batha,Fitri,Yao,12.8536,17.5591,4396
+6102,Chad,Tibesti,Tibest-Ouest,Zouar,20.4568,16.526,3882
+704,Congo,Likouala,Impfondo,Bakandi,1.6381,18.0667,146048
+3743,Congo,Likouala,Betou,Betou Centre,3.0571,18.5177,99724
+7775,Congo,Brazzaville,Brazzaville,Brazzaville,-4.2587,15.2605,1261707
+707,Congo,Point-Noire,Pointe-Noire,Grand marché/Fond Ntié-Ntié/Nkouikou,-4.7947,11.8461,95966
+2095,Congo,Pool,Kinkala,Kinkala,-4.3614,14.7644,620
+703,Congo,Brazzaville,Brazzaville,Mikalou,-4.2592,15.2847,1099172
+705,Congo,Likouala,Betou,Monzombo,3.4311,18.5969,16776
+701,Congo,Brazzaville,Brazzaville,Moungali,-4.2592,15.2847,1099172
+1821,Congo,Bouenza,Nkayi,Nkayi,-4.1828,13.2866,28315
+702,Congo,Brazzaville,Brazzaville,Ouenzé,-4.2452,15.2809,1273653
+1822,Congo,Cuvette,Owando,Owando,-0.483,15.8936,22092
+1820,Congo,Lekoumou,Sibiti,Sibiti,-3.6847,13.3501,46010
+706,Congo,Brazzaville,Brazzaville,Total,-4.2592,15.2847,1099172
+839,Côte d'Ivoire,Comoe,Indenie-Djuablin,Abengourou,6.7297,-3.4964,113402
+834,Côte d'Ivoire,Abidjan,Abidjan,Adjame,5.36,-4.02,863137
+125,Côte d'Ivoire,Vallee Du Bandama,Gbêke,Bouake,7.6833,-5.0331,414242
+2808,Côte d'Ivoire,Savanes,Bagoue,Boundiali,9.5225,-6.4787,43035
+835,Côte d'Ivoire,Sassandra-Marahoue,Haut-Sassandra,Daloa,6.8747,-6.4519,256811
+836,Côte d'Ivoire,Montagnes,Tonkpi,Danane,7.2628,-8.1597,79159
+837,Côte d'Ivoire,Montagnes,Guemon,Duekoue,6.7381,-7.3431,150682
+2807,Côte d'Ivoire,Savanes,Tchologo,Ferkessedougou,9.5948,-5.1957,55328
+838,Côte d'Ivoire,Montagnes,Cavally,Guiglo,6.5403,-7.4858,47376
+126,Côte d'Ivoire,Vallee Du Bandama,Hambol,Katiola,8.1333,-5.1,40521
+1807,Côte d'Ivoire,Savanes,Poro,Korhogo,9.4589,-5.6309,276484
+127,Côte d'Ivoire,Montagnes,Tonkpi,Man,7.4053,-7.5475,183425
+128,Côte d'Ivoire,Denguele,Kabadougou,Odienne,9.51,-7.5692,41709
+2809,Côte d'Ivoire,Savanes,Tchologo,Ouangolodougou,9.968,-5.1533,51041
+2271,Democratic Republic of the Congo,Haut-Uele,Aba,Aba,3.8652,30.2345,28451
+3036,Democratic Republic of the Congo,Nord-Kivu,Goma,Alanine,-1.6625,29.2042,496279
+9870,Democratic Republic of the Congo,Nord-Kivu,Lubero,Alimbogo,-0.3712,29.1534,40187
+9875,Democratic Republic of the Congo,Nord-Kivu,Oicha,Aloya,0.5087,29.1429,5077
+2274,Democratic Republic of the Congo,Ituri,Aru city,Aru,2.8594,30.8242,47149
+9048,Democratic Republic of the Congo,Ituri,Mahagi,Aungba,2.55,30.51,19233
+9872,Democratic Republic of the Congo,Ituri,Djugu,Ba,1.7044,30.62,18034
+9046,Democratic Republic of the Congo,Tshopo,Bafwasende,Bafwasende,1.0004,27.1556,27611
+1596,Democratic Republic of the Congo,Kwilu,Bandundu,Bandundu ville,-3.31,17.37,177898
+2315,Democratic Republic of the Congo,Kasai,Ilebo,Banga Lubaka,-5.4614,20.4664,18220
+2304,Democratic Republic of the Congo,Sud-Kivu,Fizi,Baraka,-4.1021,29.0958,52550
+2798,Democratic Republic of the Congo,Haut-Uele,Faradje,Bele,3.5946,30.1725,3251
+1607,Democratic Republic of the Congo,Nord-Kivu,Beni,Beni,0.5,29.4667,1554834
+2414,Democratic Republic of the Congo,Kasai,Ilebo,Bipongo,-5.7828,20.7411,8415
+3037,Democratic Republic of the Congo,Nord-Kivu,Goma,Birere,-1.6803,29.2411,309963
+2273,Democratic Republic of the Congo,Ituri,Aru,Biringi,2.7999,30.3378,2979
+1598,Democratic Republic of the Congo,Kongo-Central,Boma,Boma,-5.82,13.05,204420
+10234,Democratic Republic of the Congo,Nord-Ubangi,Bosobolo,Bosobolo,4.1861,19.8735,9703
+3034,Democratic Republic of the Congo,Sud-Ubangi,Libenge,Boyabu,3.7175,18.77,17065
+2791,Democratic Republic of the Congo,Ituri,Djugu,Bule,1.5452,30.3028,45948
+9873,Democratic Republic of the Congo,Ituri,Djugu,Bule Centre,1.9171,30.6087,36993
+9089,Democratic Republic of the Congo,Sud-Kivu,Kalehe,Bulenga - Kagarama,-1.6669,29.0751,29502
+151,Democratic Republic of the Congo,Ituri,Bunia,Bunia,1.5667,30.25,197311
+3217,Democratic Republic of the Congo,Kasai-Central,Dibaya,Bunkonde Centre,-6.3068,22.522,25043
+9874,Democratic Republic of the Congo,Nord-Kivu,Beni,Bunzi,0.506,29.3877,119241
+10236,Democratic Republic of the Congo,Nord-Ubangi,Businga,Businga,3.3441,20.8761,28605
+9036,Democratic Republic of the Congo,Bas-Uele,Buta city,Buta,2.8222,24.743,98999
+1650,Democratic Republic of the Congo,Nord-Kivu,Butembo,Butembo,0.15,29.2833,201822
+8934,Democratic Republic of the Congo,Nord-Kivu,Masisi,Bweremana,-1.6741,29.0175,68048
+4150,Democratic Republic of the Congo,Kasai-Central,Demba,Central de Demba,-5.4961,22.271,104401
+2668,Democratic Republic of the Congo,Tanganyika,Kabalo,Centrale,-6.0549,26.9247,46936
+2265,Democratic Republic of the Congo,Kasai,Tshikapa,Dibumba,-6.4147,20.7928,423801
+8775,Democratic Republic of the Congo,Ituri,Mahagi,Djalasiga,2.589,30.5452,20261
+1610,Democratic Republic of the Congo,Lualaba,Mutshatsha,Dungu,-11.0783,24.5137,50
+1649,Democratic Republic of the Congo,Nord-Ubangi,Gbadolite,Gbadolite,4.2833,21.0167,74618
+10238,Democratic Republic of the Congo,Sud-Ubangi,Gemena city,Gemena,3.2532,19.7763,111415
+152,Democratic Republic of the Congo,Nord-Kivu,Goma,Goma,-1.6792,29.2228,388307
+9087,Democratic Republic of the Congo,Sud-Kivu,Kalehe,Ihusi,-2.0847,28.9029,53035
+2262,Democratic Republic of the Congo,Nord-Ubangi,Mobayi-Mbongo,Inke,4.0817,20.7627,2914
+1609,Democratic Republic of the Congo,Haut-Uele,Isiro,Isiro,2.7667,27.6167,64125
+148,Democratic Republic of the Congo,Tanganyika,Kabalo,Kabalo,-6.05,26.9167,47794
+3042,Democratic Republic of the Congo,Sud-Kivu,Kabare,Kabamba,-2.1725,28.8542,35355
+9043,Democratic Republic of the Congo,Kasai-Oriental,Kabeya-Kamwanga,Kabeya Kamuanga,-6.0035,23.2508,29529
+3975,Democratic Republic of the Congo,Sud-Kivu,Bukavu,Kadutu,-2.5201,28.8516,678639
+2415,Democratic Republic of the Congo,Kwango,Kahemba,Kahemba,-7.2911,18.96,69333
+2277,Democratic Republic of the Congo,Kasai-Central,Dimbelenge,Kajiba,-5.6944,22.9944,1566
+2416,Democratic Republic of the Congo,Kwango,Kahemba,Kajiji,-7.6486,18.4903,17093
+9041,Democratic Republic of the Congo,Kasai,Mweka,Kakenge,-4.8656,21.9102,42308
+3973,Democratic Republic of the Congo,Sud-Kivu,Walungu,Kakinda,-2.6966,28.5484,46565
+143,Democratic Republic of the Congo,Tanganyika,Kalemie,Kalemie,-5.923,29.1946,324506
+9042,Democratic Republic of the Congo,Kasai-Central,Kazumba,Kalomba,-6.7003,21.716,17698
+2278,Democratic Republic of the Congo,Kasai-Central,Dimbelenge,Kalombo,-5.0194,22.8889,20502
+9877,Democratic Republic of the Congo,Sud-Kivu,Kalehe,Kalungu,-1.7568,28.9842,61032
+2417,Democratic Republic of the Congo,Kasai,Kamonia,Kamako,-7.2386,20.8872,45991
+2267,Democratic Republic of the Congo,Kasai,Kamonia,Kamalenga,-6.4567,20.7928,246744
+1604,Democratic Republic of the Congo,Haut-Lomami,Kamina city,Kamina,-8.7386,24.9906,312640
+3215,Democratic Republic of the Congo,Kasai,Kamonia,Kamonia,-6.8814,20.9235,40482
+2266,Democratic Republic of the Congo,Kasai,Kamonia,Kamwesha,-6.2172,21.4154,24794
+1602,Democratic Republic of the Congo,Kasai-Central,Kananga,Kananga,-5.8958,22.4178,918756
+3962,Democratic Republic of the Congo,Sud-Kivu,Walungu,Kaniola,-2.5944,28.617,46776
+9878,Democratic Republic of the Congo,Nord-Kivu,Lubero,Kaseghe,-0.4824,29.1741,31657
+2797,Democratic Republic of the Congo,Ituri,Irumu,Kasenyi,1.3924,30.4395,20807
+9879,Democratic Republic of the Congo,Sud-Kivu,Walungu,Kashanja Nabukungu,-2.6353,28.6961,92003
+9880,Democratic Republic of the Congo,Nord-Kivu,Lubero,Kasinzwe,-0.1693,29.3158,33123
+3041,Democratic Republic of the Congo,Kasai-Central,Dimbelenge,Kasongo Mule,-4.9158,22.5942,9126
+9047,Democratic Republic of the Congo,Sud-Kivu,Fizi,Katanga,-4.1883,29.0546,26084
+4521,Democratic Republic of the Congo,Haut-Katanga,Mitwaba,Katanga Kivu,-8.8906,26.8735,1
+9881,Democratic Republic of the Congo,Nord-Kivu,Lubero,Katolo/Musienene,0.0174,29.2513,56793
+2669,Democratic Republic of the Congo,Tanganyika,Kabalo,Katutu,-6.2163,26.3452,8073
+8932,Democratic Republic of the Congo,Nord-Kivu,Lubero,Kayna,-0.6119,29.1735,46412
+9882,Democratic Republic of the Congo,Nord-Kivu,Oicha,Kianzaba,0.5247,29.3174,5753
+4522,Democratic Republic of the Congo,Sud-Kivu,Mwenga,Kibumba,-2.9998,28.4663,15865
+9883,Democratic Republic of the Congo,Nord-Kivu,Lubero,Kikuvo,-0.6557,29.1814,48495
+1597,Democratic Republic of the Congo,Kwilu,Kikwit,Kikwit,-5.0386,18.8181,362246
+9655,Democratic Republic of the Congo,Sud-Kivu,Fizi,Kilembwe,-4.0426,27.9917,11349
+9044,Democratic Republic of the Congo,Nord-Kivu,Beni,Kilokwa,0.487,29.4633,1516538
+9884,Democratic Republic of the Congo,Sud-Kivu,Uvira,Kilomoni,-3.3563,29.1561,97862
+9885,Democratic Republic of the Congo,Nord-Kivu,Lubero,Kimbulu,-0.0544,29.2288,26850
+149,Democratic Republic of the Congo,Maniema,Kindu,Kindu,-2.95,25.95,172376
+144,Democratic Republic of the Congo,Kinshasa,Kinshasa,Kinshasa,-4.3,15.3,628935
+9871,Democratic Republic of the Congo,Nord-Kivu,Lubero,Kirumba,-0.562,29.1799,84603
+1608,Democratic Republic of the Congo,Tshopo,Kisangani,Kisangani,0.5167,25.2,475984
+9886,Democratic Republic of the Congo,Nord-Kivu,Lubero,Kitsumbiro,-0.2595,29.1942,41430
+8929,Democratic Republic of the Congo,Nord-Kivu,Goma,Kituku,-1.62,29.16,201373
+2670,Democratic Republic of the Congo,Tanganyika,Kabalo,Kitule gare,-5.7425,26.9471,5609
+8949,Democratic Republic of the Congo,Nord-Kivu,Rutshuru,Kiwanja,-1.04,29.1,19901
+1605,Democratic Republic of the Congo,Lualaba,Kolwezi,Kolwezi,-10.7167,25.4725,93955
+2795,Democratic Republic of the Congo,Ituri,Mambasa,Komanda,1.2153,29.454,14
+8782,Democratic Republic of the Congo,Ituri,Irumu,Kparnganza,1.6679,30.4332,18300
+9887,Democratic Republic of the Congo,Ituri,Mahagi city,Kulieto,2.2849,31.0268,68257
+2792,Democratic Republic of the Congo,Ituri,Djugu,Largu,1.4439,30.3256,14555
+2306,Democratic Republic of the Congo,Sud-Ubangi,Libenge,Libenge,3.649,18.6352,24086
+1606,Democratic Republic of the Congo,Haut-Katanga,Likasi,Likasi,-10.9814,26.7333,492719
+9888,Democratic Republic of the Congo,Nord-Kivu,Lubero,Lubero,-0.1599,29.2308,53598
+145,Democratic Republic of the Congo,Haut-Katanga,Lubumbashi,Lubumbashi,-11.6667,27.4667,1074470
+3216,Democratic Republic of the Congo,Kasai,Luebo city,Luebo,-5.3495,21.4235,85326
+3219,Democratic Republic of the Congo,Kasai-Central,Luiza,Luiza Centre,-7.2014,22.3951,67675
+9889,Democratic Republic of the Congo,Nord-Kivu,Lubero,Lukanga,-0.0765,29.2954,51422
+9890,Democratic Republic of the Congo,Nord-Kivu,Lubero,Luotu,-0.011,29.3488,58882
+2268,Democratic Republic of the Congo,Sud-Kivu,Fizi,Lusenda,-3.7821,29.0935,24008
+3210,Democratic Republic of the Congo,Nord-Kivu,Masisi,Lushebere,-1.4051,28.8598,49062
+9891,Democratic Republic of the Congo,Nord-Kivu,Lubero,Magheria,-0.0674,29.3645,55435
+2794,Democratic Republic of the Congo,Ituri,Djugu,Mahagi,1.98,30.5848,40358
+8785,Democratic Republic of the Congo,Ituri,Mahagi city,Mahagi Centre,2.3039,30.9796,70409
+2793,Democratic Republic of the Congo,Ituri,Mambasa,Mambasa,1.2153,29.454,14
+9892,Democratic Republic of the Congo,Nord-Kivu,Oicha,Mangina,0.6019,29.3121,11316
+2276,Democratic Republic of the Congo,Kasai-Central,Dimbelenge,Mashala,-5.1417,22.9056,3783
+3211,Democratic Republic of the Congo,Nord-Kivu,Masisi,Masisi Centre,-1.3963,28.8198,54435
+8787,Democratic Republic of the Congo,Ituri,Djugu,Masumbuko,1.761,30.592,42828
+1599,Democratic Republic of the Congo,Kongo-Central,Matadi,Matadi,-5.8167,13.45,128553
+2418,Democratic Republic of the Congo,Kasai,Ilebo,Mayimbi,-5.5717,20.8456,14726
+9893,Democratic Republic of the Congo,Nord-Kivu,Oicha,Mayi-Moya,0.7737,29.5693,4340
+146,Democratic Republic of the Congo,Equateur,Bomongo,Mbandaka,0.0667,18.2667,223489
+9876,Democratic Republic of the Congo,Nord-Kivu,Oicha,Mbau,0.649,29.4995,11964
+1651,Democratic Republic of the Congo,Kasai-Oriental,Mbuji-Mayi,Mbuji-mayi,-6.15,23.6,1846566
+2270,Democratic Republic of the Congo,Haut-Uele,Aba,Meri (Aba),3.8481,30.2017,26606
+3043,Democratic Republic of the Congo,Sud-Kivu,Idjwi,Minova,-2.1732,29.0169,44562
+9037,Democratic Republic of the Congo,Haut-Katanga,Mitwaba,Mitwaba,-8.6457,27.3525,41878
+1395,Democratic Republic of the Congo,Tanganyika,Kaoze,Moba,-7.04,29.76,56446
+10237,Democratic Republic of the Congo,Nord-Ubangi,Mobayi-Mbongo city,Mobayi Centre,4.2885,21.1841,10062
+2263,Democratic Republic of the Congo,Sud-Ubangi,Zongo,Mole,4.1451,18.7915,14518
+10235,Democratic Republic of the Congo,Nord-Ubangi,Gbadolite,Molegbe,4.23,20.9057,12804
+2671,Democratic Republic of the Congo,Tanganyika,Kabalo,Mosantu premier,-6.1905,26.8901,7456
+9045,Democratic Republic of the Congo,Nord-Kivu,Walikale,Mubi,-1.2964,27.8606,27313
+4132,Democratic Republic of the Congo,Sud-Kivu,Kabare,Mudaka,-2.4016,28.8122,46593
+3959,Democratic Republic of the Congo,Sud-Kivu,Walungu,Mugogo,-2.5822,28.7542,66625
+3038,Democratic Republic of the Congo,Nord-Kivu,Nyiragongo,Mugunga3,-1.6097,29.1556,150368
+9079,Democratic Republic of the Congo,Sud-Kivu,Fizi,Mukera,-4.0591,28.9136,1797
+2419,Democratic Republic of the Congo,Kwango,Feshi,Mukoso,-6.25,19.1603,8435
+9080,Democratic Republic of the Congo,Sud-Kivu,Fizi,Mulima,-4.2972,28.9429,16541
+9894,Democratic Republic of the Congo,Nord-Kivu,Lubero,Munoli,0.0739,29.2212,25286
+2420,Democratic Republic of the Congo,Kasai,Kamonia,Mutena,-6.4567,20.7928,246930
+1603,Democratic Republic of the Congo,Lomami,Mwene-Ditu,Mwene-Ditu,-7,23.45,254230
+2312,Democratic Republic of the Congo,Nord-Kivu,Rutshuru,Mweso,-1.1326,29.0424,42414
+2275,Democratic Republic of the Congo,Kasai-Central,Dimbelenge,Mwetshi,-4.7278,22.6399,13442
+9895,Democratic Republic of the Congo,Sud-Kivu,Fizi,Namisha,-4.3786,28.9281,1718
+3040,Democratic Republic of the Congo,Kasai,Luebo,Ndjoko Punda,-5.4453,20.9983,57071
+9038,Democratic Republic of the Congo,Ituri,Mahagi,Ngote,2.2225,30.7908,31081
+2672,Democratic Republic of the Congo,Tanganyika,Kabalo,Ngwena gare,-6.4037,26.7217,8112
+9040,Democratic Republic of the Congo,Ituri,Mambasa,Nia-Nia,1.4074,27.6074,10062
+9896,Democratic Republic of the Congo,Nord-Kivu,Lubero,Nyabili,-0.1405,29.3162,44394
+2313,Democratic Republic of the Congo,Nord-Kivu,Rutshuru,Nyanzale,-1.0213,29.1135,23542
+150,Democratic Republic of the Congo,Sud-Kivu,Bukavu,Nyawera,-2.5058,28.8629,619554
+3039,Democratic Republic of the Congo,Nord-Kivu,Nyiragongo,Nyiragongo,-1.5114,29.3244,82345
+10239,Democratic Republic of the Congo,Tanganyika,Nyunzu,Nyunzu,-5.9565,28.0158,57529
+8926,Democratic Republic of the Congo,Nord-Kivu,Oicha city,Oicha,0.6985,29.5191,25768
+10233,Democratic Republic of the Congo,Sud-Ubangi,Zongo,Pambwa,4.3437,18.5946,24564
+2673,Democratic Republic of the Congo,Tanganyika,Kabalo,Pongo,-6.0608,26.9364,46485
+2272,Democratic Republic of the Congo,Haut-Katanga,Pweto,Pweto,-8.4685,28.8979,73448
+4524,Democratic Republic of the Congo,Ituri,Mahagi,Ramogi,2.0444,31.0555,35486
+8953,Democratic Republic of the Congo,Nord-Kivu,Rutshuru city,Rutshuru,-1.1856,29.447,111295
+9897,Democratic Republic of the Congo,Nord-Kivu,Butembo,Ruwenda,0.1025,29.3195,192357
+8788,Democratic Republic of the Congo,Ituri,Djugu,Saliboko,1.7185,30.4866,17115
+9081,Democratic Republic of the Congo,Sud-Kivu,Fizi,Sebele,-4.3098,29.0442,19465
+9039,Democratic Republic of the Congo,Ituri,Djugu,Simbi,1.6636,30.509,29820
+2796,Democratic Republic of the Congo,Ituri,Irumu,Tchomia,1.4457,30.4643,35233
+9898,Democratic Republic of the Congo,Ituri,Mahagi,Teru-Toro,2.2896,30.7274,21520
+2314,Democratic Republic of the Congo,Kasai-Central,Dimbelenge,Tshibamba,-4.9083,22.5061,9698
+1601,Democratic Republic of the Congo,Kasai,Tshikapa,Tshikapa,-6.4167,20.8,406082
+3218,Democratic Republic of the Congo,Kasai-Central,Kazumba,Tshikele,-6.1825,22.4188,6031
+4147,Democratic Republic of the Congo,Kasai-Oriental,Tshilenge city,Tshilenge,-6.2351,23.7557,64026
+4523,Democratic Republic of the Congo,Kasai-Central,Tshimbulu,Tshimbulu,-6.4742,22.8662,79414
+147,Democratic Republic of the Congo,Sud-Kivu,Uvira city,Uvira,-3.4067,29.1419,115328
+3035,Democratic Republic of the Congo,Nord-Kivu,Goma,Virunga,-1.6675,29.2342,421690
+9051,Democratic Republic of the Congo,Nord-Kivu,Walikale,Walikale Centre,-1.4267,28.0803,46530
+9656,Democratic Republic of the Congo,Sud-Kivu,Uvira,Zairois,-3.3842,29.142,137069
+2264,Democratic Republic of the Congo,Kasai,Tshikapa,Zkele,-6.415,20.7975,411284
+1648,Democratic Republic of the Congo,Bas-Uele,Bondo,Zongo,3.9715,23.3978,392
+1829,Djibouti,Ali Sabieh,Ali Addeh,Ali Addeh,11.131,42.8911,14206
+537,Djibouti,Ali Sabieh,Ali Sabieh,Ali Sabieh,11.15,42.71,53190
+536,Djibouti,Arta,Arta,Arta,11.5222,42.8419,10508
+538,Djibouti,Dikhill,Dickil,Dikhil,11.1086,42.3739,23962
+2576,Djibouti,Djibouti,Boulhoas 2eme,Djibouti,11.5806,43.1425,377191
+539,Djibouti,Obock,Obock ville,Obock,11.9631,43.2906,27537
+540,Djibouti,Tadjourah,Tadjourah,Tadjourah,11.7853,42.8844,27525
+10254,Egypt,Cairo,Abdin,Cairo (national average),30.0492,31.2447,2988741
+2655,Eswatini,Hhohho,MAYIWANE,Hhohho,-26,31.5,5738
+2656,Eswatini,Lubombo,DVOKODVWENI,Lubombo,-26.42,31.75,8154
+2654,Eswatini,Manzini,MANZINI NORTH,Manzini,-26.48,31.37,87522
+2657,Eswatini,Lubombo,SITHOBELA,Shiselweni,-27,31.67,1351
+511,Ethiopia,Afar,ZONE2,Abaala,13.3564,39.7575,20808
+466,Ethiopia,Tigray,C. TIGRAY,Abi Adi,13.5608,38.9739,12118
+467,Ethiopia,Amhara,N. SHEWA (R3),Abomsa,9.9833,39.9833,5057
+480,Ethiopia,Addis Ababa,AA ZONE1,Addis Ababa,9.0243,38.7492,1892081
+7562,Ethiopia,Tigray,NW. TIGRAY,Adighageray,14.4541,37.9851,10199
+508,Ethiopia,Tigray,E. TIGRAY,Adigrat,14.2739,39.4622,123116
+507,Ethiopia,Tigray,C. TIGRAY,Adwa,14.1594,38.9007,88033
+489,Ethiopia,Amhara,S. WELLO,Ajeber,10.6333,38.7833,16983
+3079,Ethiopia,SNNPR,ALABA SW,Alaba,7.4553,38.1372,45005
+458,Ethiopia,Tigray,S. TIGRAY,Alamata,12.4183,39.5575,77389
+3650,Ethiopia,SNNPR,SIDAMA,Aleta Wondo,6.6005,38.4207,142534
+490,Ethiopia,SNNPR,AMARO SW,Amaro,5.8349,37.8978,41012
+481,Ethiopia,Oromia,WEST SHEWA,Ambo,8.9833,37.85,120505
+3657,Ethiopia,SNNPR,GAMO GOFA,Arba Minch,6.011,37.538,127503
+513,Ethiopia,SNNPR,SIDAMA,Aroresa,6.2167,39.0167,31898
+1831,Ethiopia,Afar,ZONE1,Asayta,11.5636,41.4394,32235
+491,Ethiopia,Oromia,ARSI,Assela,7.95,39.1333,158473
+1832,Ethiopia,B. Gumuz,ASOSA,Assosa,10.0667,34.5333,84160
+3666,Ethiopia,Afar,ZONE3,Awash arba,9.1307,40.1647,13173
+7548,Ethiopia,Tigray,C. TIGRAY,Axum,14.1221,38.7322,88891
+462,Ethiopia,Somali,JIJIGA,Babile,9.2256,42.6,18377
+482,Ethiopia,Amhara,Administrative unit not available,Baher Dar,11.6,37.3833,383532
+469,Ethiopia,Amhara,OROMIYA,Bati,11.1833,40.0167,42961
+463,Ethiopia,Oromia,E. HARERGE,Beddenno,9.1167,41.6167,51796
+470,Ethiopia,Oromia,W. HARERGE,Bedessa,8.9,40.7833,76563
+9866,Ethiopia,Somali,SHINILE,Biki,9.529,41.1958,26107
+6166,Ethiopia,Amhara,S. WELLO,Bistima,11.3407,39.7717,46707
+3080,Ethiopia,Amhara,E. GOJAM,Bitchena,10.4478,38.2027,62250
+503,Ethiopia,Amhara,W. GOJAM,Bure,10.7,37.0667,60932
+4630,Ethiopia,Somali,AFDER,Charati,5.3397,41.8825,21630
+3672,Ethiopia,Afar,ZONE1,Chifra,11.6016,40.016,26306
+3077,Ethiopia,Oromia,W. HARERGE,Chiro,9.0833,40.8667,119666
+3669,Ethiopia,Afar,ZONE5,Dalifagi,10.625,40.307,18046
+3664,Ethiopia,SNNPR,SELTI,Dalocha,7.7901,38.2455,45451
+510,Ethiopia,Amhara,N. GONDER,Debark,13.1581,37.9003,55868
+504,Ethiopia,Amhara,N. SHEWA (R3),Debre Birhan,9.6833,39.5333,109092
+502,Ethiopia,Amhara,E. GOJAM,Debre Markos,10.3336,37.7299,114939
+464,Ethiopia,Oromia,E. HARERGE,Deder,9.3167,41.4167,69525
+3061,Ethiopia,Amhara,E. GOJAM,Dejen,10.168,38.1448,40050
+3649,Ethiopia,Somali,LIBEN,Dekasuftu,5.1984,40.0198,7794
+471,Ethiopia,Oromia,BALE,Delo,7.25,40.4667,22753
+514,Ethiopia,Oromia,GUJI,Derashe,5.6667,39.4333,2707
+484,Ethiopia,Amhara,S. WELLO,Dessie,11.1333,39.6333,257372
+3659,Ethiopia,SNNPR,GEDEO,Dila,6.4124,38.312,204868
+472,Ethiopia,Dire Dawa,DIRE DAWA,Diredawa,9.5931,41.8661,326918
+3108,Ethiopia,Somali,LIBEN,Dolo Ado,4.4167,41.4167,631
+492,Ethiopia,Amhara,S. GONDER,Ebinat,12.1333,38.05,26933
+4108,Ethiopia,SNNPR,GURAGE,Enseno,8.0666,38.4666,58598
+8347,Ethiopia,Somali,SHINILE,Erer,9.5547,41.3834,44823
+3063,Ethiopia,Oromia,ARSI,Eteya,8.1289,39.2314,52956
+3655,Ethiopia,Somali,LIBEN,Filtu,5.1127,40.6543,23003
+7814,Ethiopia,Amhara,N. WELLO,Flakit,11.6667,38.8,27556
+506,Ethiopia,Gambela,ZONE 1,Gambela,8.25,34.5833,93148
+473,Ethiopia,SNNPR,GAMO GOFA,Gamo Gofa,6.6167,37.15,11391
+3671,Ethiopia,B. Gumuz,METEKEL,Gilgelbeles,11.1591,36.3438,17791
+3663,Ethiopia,Oromia,BALE,Ginnir,7.1259,40.7175,38060
+3667,Ethiopia,Oromia,E. HARERGE,Girawa,9.1322,41.8359,65759
+460,Ethiopia,Somali,GODE,Gode,6.0225,43.1303,3631
+3652,Ethiopia,Oromia,N. SHEWA (R4),Gohatsiyon/GebreGuracha,10.0041,38.2454,37073
+485,Ethiopia,Amhara,N. GONDER,Gonder,12.6,37.4667,257958
+515,Ethiopia,Oromia,BALE,Gordamole,6.108,40.7552,527
+3647,Ethiopia,Afar,ZONE4,Gubiya/yalo,12.3658,39.8824,13034
+3075,Ethiopia,Harari,HARAR/HUNDENE,Harar,9.3139,42.1181,174202
+3064,Ethiopia,Amhara,S. WELLO,Harbu,10.9225,39.7841,28973
+3076,Ethiopia,Oromia,E. HARERGE,Haromaya,9.4217,42.0333,95556
+516,Ethiopia,SNNPR,SIDAMA,Hawassa,7.05,38.4667,267313
+509,Ethiopia,Tigray,E. TIGRAY,Hawzien,14.0333,39.45,20050
+474,Ethiopia,SNNPR,HADIYA,Hossana,7.5833,37.8833,114020
+505,Ethiopia,Tigray,W. TIGRAY,Humera,14.2906,36.6081,33495
+3069,Ethiopia,Amhara,W. GOJAM,Jiga,10.678,37.3754,29581
+461,Ethiopia,Somali,JIJIGA,Jijiga,9.3333,42.8167,208177
+486,Ethiopia,Oromia,JIMMA,Jimma,7.6667,36.8333,240537
+3661,Ethiopia,SNNPR,SOUTH OMO,Jinka,5.7878,36.5673,53319
+493,Ethiopia,SNNPR,KONSO SW,Karati,5.25,37.4833,4345
+3662,Ethiopia,Somali,KORAHE,Kebri Dehar,6.7372,44.2797,52085
+5064,Ethiopia,B. Gumuz,KAMASHI,Kemashi,9.4847,35.9141,895
+3065,Ethiopia,Amhara,OROMIYA,Kemise,10.7196,39.873,69124
+494,Ethiopia,Oromia,JIMMA,Kersa,7.6667,36.8333,240537
+3656,Ethiopia,SNNPR,SOUTH OMO,Key Afer,5.5198,36.7304,5716
+475,Ethiopia,Amhara,N. WELLO,Kobo,12.15,39.6333,70091
+459,Ethiopia,Tigray,S. TIGRAY,Korem,12.5058,39.5228,53235
+3651,Ethiopia,Gambela,ZONE 3,Kowerneng/Korgang,8.3267,33.9534,25668
+7569,Ethiopia,Tigray,S. TIGRAY,Maichow,12.7829,39.5446,65108
+3066,Ethiopia,Amhara,S. WELLO,Masha,11.23,39.0633,18821
+3653,Ethiopia,Tigray,NW. TIGRAY,May Tsemre,13.5609,38.1301,16676
+3665,Ethiopia,Oromia,W. HARERGE,Mechara,8.6012,40.3243,32049
+3673,Ethiopia,Tigray,S. TIGRAY,Mehoni,12.8037,39.6462,33695
+487,Ethiopia,Tigray,MEKELE,Mekele,13.4967,39.4753,141083
+3067,Ethiopia,Amhara,N. WELLO,Mersa,11.6663,39.6576,43741
+495,Ethiopia,Oromia,ARSI,Merti,8.4865,39.8314,26570
+517,Ethiopia,Gambela,GODERE,Meti,7.2333,35.3167,45697
+496,Ethiopia,Amhara,E. GOJAM,Mota,11.0833,37.8667,47242
+3654,Ethiopia,Oromia,BORENA,Moyale,3.535,39.0404,24751
+512,Ethiopia,Oromia,E. SHEWA,Nazareth,8.55,39.2667,427912
+7813,Ethiopia,Amhara,S. GONDER,Nefas Mewcha,11.7333,38.4667,44095
+3660,Ethiopia,Oromia,GUJI,Negele,5.3384,39.5688,71450
+499,Ethiopia,Oromia,E. WELLEGA,Nekempt,9.0833,36.55,151993
+3078,Ethiopia,Gambela,ZONE 2,Punido,7.7495,34.4268,171
+3674,Ethiopia,Tigray,MEKELE,Quiha,13.5024,39.4803,143532
+483,Ethiopia,Oromia,BALE,Robe,7.1333,40,110957
+465,Ethiopia,Amhara,N. WELLO,Robit,12.0167,39.6333,18788
+3648,Ethiopia,SNNPR,GAMO GOFA,Sawla,6.3008,36.8785,57861
+3068,Ethiopia,Amhara,S. WELLO,Segno Gebeya,11.102,39.6272,203671
+497,Ethiopia,Amhara,W. HAMRA,Sekota,12.6306,39.0347,29686
+9129,Ethiopia,Afar,ZONE2,Shahigubi,13.6897,39.8897,17536
+488,Ethiopia,Oromia,E. SHEWA,Shashemene,7.1833,38.5833,289432
+3675,Ethiopia,Tigray,NW. TIGRAY,Sheraro,14.4,37.9333,6690
+3668,Ethiopia,B. Gumuz,ASOSA,Sherkole,10.5981,34.8713,717
+3070,Ethiopia,Amhara,N. WELLO,Shewa Robit,12.0167,39.6333,18788
+3107,Ethiopia,Tigray,NW. TIGRAY,Shire,14.1,38.2833,99595
+856,Ethiopia,Tigray,S. TIGRAY,Sik'ela,13.0887,39.0099,6805
+476,Ethiopia,SNNPR,WELAYITA,Sodo,6.85,37.75,164748
+498,Ethiopia,SNNPR,SOUTH OMO,Turmi,4.9667,36.4833,6101
+477,Ethiopia,Tigray,C. TIGRAY,Wekro,14.1067,38.5403,29359
+6706,Ethiopia,Afar,ZONE3,Werer,9.6667,40.3333,1673
+468,Ethiopia,Oromia,E. SHEWA,Wolenchiti,8.6667,39.4333,35493
+500,Ethiopia,Oromia,S.W. SHEWA,Woliso,8.5333,37.9833,98057
+478,Ethiopia,SNNPR,GEDEO,Wonago,6.3167,38.2667,131603
+7574,Ethiopia,Tigray,E. TIGRAY,Wukro,13.7907,39.6011,66697
+479,Ethiopia,Oromia,BORENA,Yabelo,4.8833,38.0833,24938
+501,Ethiopia,Oromia,E. SHEWA,Ziway,7.9333,38.7167,87124
+277,Gambia,Kanifing Municipal Council,Kombo Saint Mary,Bakau,13.4781,-16.6819,261642
+278,Gambia,Kanifing Municipal Council,Banjul,Banjul,13.4531,-16.5775,31437
+279,Gambia,Central River,Sami,Bansang,13.4333,-14.65,18017
+280,Gambia,Upper River,Wuli,Basse Santa su,13.3167,-14.2167,49143
+281,Gambia,West Coast,Kombo Central,Brikama,13.2675,-16.6461,153239
+916,Gambia,Central River,Fulladu West,Brikamaba,13.5333,-14.9333,23134
+282,Gambia,North Bank,Lower Niumi,Essau / Barra,13.4828,-16.5456,42815
+283,Gambia,North Bank,Upper Baddibu,Farafenni,13.5667,-15.6,30115
+3737,Gambia,North Bank,Lower Niumi,Fass Njaga Choi,13.5645,-16.4276,12894
+3736,Gambia,Upper River,Kantora,Fatoto,13.4012,-13.891,11600
+1355,Gambia,West Coast,Kombo South,Gunjur,13.1817,-16.7583,31811
+1356,Gambia,Central River,Niamina East,Jarreng,13.6167,-15.1833,8613
+1514,Gambia,West Coast,Foni Jarrol,Kalagi,13.24,-15.83,7163
+284,Gambia,Central River,Lower Saloum,Kaur Wharf Town,13.7,-15.3167,9262
+286,Gambia,North Bank,Central Baddibu,Ker Pate Kore,13.5855,-15.9707,8693
+285,Gambia,North Bank,Lower Baddibu,Kerewan,13.4894,-16.0911,9198
+287,Gambia,Central River,Niani,Kuntaur,13.65,-14.8667,10561
+288,Gambia,Lower River,Kiang Central,Kwinella Nya Kunda,13.4,-15.8,4235
+289,Gambia,North Bank,Upper Niumi,Lamin,13.3522,-16.4339,5217
+290,Gambia,Kanifing Municipal Council,Kombo Saint Mary,Latri kunda,13.4486,-16.6853,495297
+919,Gambia,North Bank,Lower Niumi,Ndugu Kebbeh,13.5403,-16.3219,12511
+918,Gambia,Upper River,Fulladu East,Sare Bojo,13.3167,-14.5333,7256
+917,Gambia,Upper River,Sandu,Sare Ngai,13.5,-14.4333,4616
+912,Gambia,Kanifing Municipal Council,Kombo Saint Mary,Serrekunda,13.4383,-16.6781,540278
+913,Gambia,West Coast,Foni Bintang Karenai,Sibanor,13.2081,-16.1964,9596
+914,Gambia,Lower River,Jarra West,Soma,13.4333,-15.5333,24647
+920,Gambia,Central River,Niani,Wassu,13.6833,-14.8833,11515
+915,Gambia,Central River,Niamina East,Wellingara,13.6333,-15.0333,10908
+2007,Gaza,Gaza Strip,Gaza,Gaza,31.5061,34.4627,888888
+2006,Gaza,Gaza Strip,North Gaza,Gaza North,31.5351,34.4836,880746
+8215,Gaza,Gaza Strip,Kan Younis,Gaza Strip,31.3461,34.3257,320206
+2010,Gaza,Gaza Strip,Rafah,Rafah,31.2702,34.2562,226273
+209,Ghana,GREATER ACCRA,ACCRA METROPOLIS,Accra,5.55,-0.2167,1021658
+1711,Ghana,BRONG AHAFO,TAIN,Badu,7.692,-2.23,12186
+1712,Ghana,NORTHERN,KPANDAI,Banda,8.3153,-0.1317,11602
+1713,Ghana,UPPER EAST,BAWKU MUNICIPAL,Bawku,11.0541,-0.2385,53973
+1714,Ghana,NORTHERN,NANUMBA NORTH,Bimbilla,8.8497,0.063,37326
+221,Ghana,UPPER EAST,BOLGATANGA MUNICIPAL,Bolga,10.7856,-0.8514,83415
+1715,Ghana,UPPER EAST,BONGO,Bongo,10.909,-0.808,26378
+1717,Ghana,NORTHERN,BUNKPURUGU YONYO,Bunkprugu,10.5127,0.098,29988
+213,Ghana,CENTRAL,CAPE COAST METRO,Cape Coast,5.1057,-1.2413,146472
+1718,Ghana,VOLTA,KRACHI EAST,Dambai,8.0601,0.1846,23942
+223,Ghana,ASHANTI,EJURA SEKYE DUMASE,Ejura,7.3833,-1.3667,21542
+1719,Ghana,UPPER EAST,BUILSA SOUTH,Fumbisi,10.4511,-1.306,7094
+1720,Ghana,UPPER EAST,GARU TEMPANE,Garu,10.8536,-0.1799,34981
+1721,Ghana,NORTHERN,GUSHIEGU,Gushegu,9.9213,-0.2174,17394
+219,Ghana,VOLTA,HO MUNICIPAL,Ho,6.6,0.4667,181954
+2802,Ghana,VOLTA,HOHOE MUNICIPAL,Hohoe,7.1518,0.4736,123062
+1722,Ghana,UPPER WEST,JIRAPA,Jirapa,10.5238,-2.7034,24450
+1723,Ghana,VOLTA,KADJEBI,Kadjebi,7.5299,0.4738,16084
+1724,Ghana,BRONG AHAFO,SENE EAST,Kajeji,7.784,-0.229,7045
+1725,Ghana,VOLTA,KRACHI WEST,Kete Krachi,7.8014,-0.0513,21446
+1726,Ghana,BRONG AHAFO,KINTAMPO NORTH,Kintampo,8.0593,-1.7296,44939
+212,Ghana,EASTERN,NEW JUABEN MUNICIPAL,Koforidua,6.0833,-0.25,181758
+1727,Ghana,NORTHERN,KPANDAI,Kpandai,8.4705,-0.0117,18013
+1728,Ghana,VOLTA,NKWANTA SOUTH,Kpassa,8.4654,0.3592,8270
+215,Ghana,ASHANTI,KMA,Kumasi,6.6833,-1.6167,1453802
+1729,Ghana,UPPER WEST,LAWRA,Lawra,10.6459,-2.8827,17413
+214,Ghana,CENTRAL,MFANTSIMAN,Mankessim,5.2667,-1.0167,60288
+1730,Ghana,UPPER WEST,NADOWLI-KALEO,Nadowli,10.3669,-2.6636,9213
+1731,Ghana,NORTHERN,MAMPRUSI EAST,Nalerigu,10.5238,-0.3701,24916
+1732,Ghana,UPPER EAST,KASENA NANKANA EAST,Navrongo,10.894,-1.0921,44056
+1733,Ghana,VOLTA,NKWANTA SOUTH,Nkwanta,8.2603,0.5221,26932
+216,Ghana,ASHANTI,OBUASI MUNICIPAL,Obuasi,6.2,-1.6667,132351
+1734,Ghana,NORTHERN,SABOBA,Saboba,9.7064,0.3137,11331
+211,Ghana,WESTERN,SEKONDI TAKORADI,Sekondi/Takoradi,4.9333,-1.7,200497
+217,Ghana,BRONG AHAFO,SUNYANI MUNICIPAL,Sunyani,7.3333,-2.3333,94936
+220,Ghana,NORTHERN,TAMALE NORTH SUB METRO,Tamale,9.4,-0.8333,191637
+218,Ghana,BRONG AHAFO,TECHIMAN MUNICIPAL,Techiman,7.5833,-1.9333,94258
+210,Ghana,GREATER ACCRA,TEMA METROPOLIS,Tema,5.6167,-0.0167,112195
+1736,Ghana,UPPER WEST,SISSALA EAST,Tumu,10.8783,-1.9833,15778
+222,Ghana,UPPER WEST,WA MUNICIPAL,Wa,10.05,-2.4833,48131
+1737,Ghana,UPPER WEST,WA WEST,Wichau,9.826,-2.6804,4185
+1738,Ghana,BRONG AHAFO,PRU,Yeji,8.2167,-0.65,36467
+1739,Ghana,NORTHERN,YENDI MUNICIPAL,Yendi,9.445,-0.0093,62241
+1740,Ghana,NORTHERN,ZABZUGU,Zabzugu,9.295,0.3701,24370
+2050,Guinea,Nzerekore,Beyla,Beyla,8.6884,-8.6436,31834
+1639,Guinea,Boke,Boke,Boke,10.9333,-14.3,62289
+356,Guinea,Kindia,Conakry,Conakry-Concasseur,9.5833,-13.65,418731
+1571,Guinea,Kindia,Conakry,Conakry-Madina,9.5432,-13.6634,121815
+2572,Guinea,Kindia,Conakry,Conakry-Niger,9.509,-13.712,13260
+354,Guinea,Kindia,Conakry,Conakry-Yéguéma,9.5667,-13.6333,453900
+355,Guinea,Kindia,Conakry,Conakry-Yimbaya,9.5861,-13.5956,701806
+357,Guinea,Kankan,Kankan,Dibida (Kankan),10.3833,-9.3,231155
+1769,Guinea,Faranah,Faranah,Faranah,10.0451,-10.7492,94289
+358,Guinea,Nzerekore,Nzerekore,Grand marché (Nzerekore),7.7472,-8.8239,259328
+2052,Guinea,Nzerekore,Gueckedou,Gueckedou,8.5667,-10.1333,63455
+1767,Guinea,Kindia,Kindia,Kindia,10.0407,-12.863,182554
+1770,Guinea,Faranah,Kissidougou,Kissidougou,9.1915,-10.1143,116520
+1574,Guinea,Boke,Koundara,Koundara,12.4833,-13.3,32033
+2049,Guinea,Nzerekore,Lola,Lola,7.8022,-8.5337,35304
+2051,Guinea,Nzerekore,Macenta,Macenta,8.5383,-9.4728,71831
+1768,Guinea,Mamou,Mamou,Mamou,10.3727,-12.087,86830
+1573,Guinea,Labe,Labe,Marché central (Labé),11.3218,-12.2902,177686
+1771,Guinea,Boke,Boke,Tanène,11.0128,-14.241,5340
+4568,Guinea-Bissau,Bafata,Bambadinca,Bambadinca,12.0237,-14.8604,10632
+4597,Guinea-Bissau,Tombali,Bedanda,Bedanda,11.2809,-15.1196,5545
+4576,Guinea-Bissau,Cacheu,Bigene,Bigene,12.4399,-15.5372,7123
+4599,Guinea-Bissau,Sector Autonomo De Bissau,Sector Autonomo De Bissau,Bissau-Bairro Militar,11.8703,-15.6191,509565
+227,Guinea-Bissau,Sector Autonomo De Bissau,Sector Autonomo De Bissau,Bissau-Bandim,11.85,-15.6,402963
+4584,Guinea-Bissau,Sector Autonomo De Bissau,Sector Autonomo De Bissau,Bissau-Caracol,11.8531,-15.5998,424505
+4567,Guinea-Bissau,Sector Autonomo De Bissau,Sector Autonomo De Bissau,Bissau-Pefine,11.8678,-15.5944,475356
+4566,Guinea-Bissau,Biombo,Safim,Bissau-Plack,11.8812,-15.645,325768
+3101,Guinea-Bissau,Oio,Bissora,Bissora,12.2232,-15.4499,19850
+4583,Guinea-Bissau,Gabu,Boe,Boe,11.8401,-13.9334,1270
+3106,Guinea-Bissau,Bolama,Bolama,Bolama,11.5779,-15.4821,7224
+4587,Guinea-Bissau,Bolama,Bubaque,Bubaque,11.2996,-15.8271,4688
+4571,Guinea-Bissau,Cacheu,Bula,Bula,12.1084,-15.7115,12204
+3105,Guinea-Bissau,Cacheu,Cacheu,Cacheu,12.2775,-16.1649,4870
+4573,Guinea-Bissau,Tombali,Cacine,Cacine,11.1287,-15.0205,2024
+4570,Guinea-Bissau,Cacheu,Caio,Caio,11.9306,-16.2011,3400
+4572,Guinea-Bissau,Cacheu,Canchungo,Canchungo,12.0657,-16.0291,19812
+4575,Guinea-Bissau,Bolama,Caravela,Caravela,11.4924,-16.3029,393
+3099,Guinea-Bissau,Tombali,Catio,Catio,11.2827,-15.2551,9767
+4588,Guinea-Bissau,Gabu,Sonaco,Contuboel,12.3768,-14.56,6542
+4592,Guinea-Bissau,Bafata,Galomaro,Cosse,11.9533,-14.6388,2634
+3100,Guinea-Bissau,Quinara,Buba,Cruzamento,11.5964,-14.9797,10539
+4594,Guinea-Bissau,Quinara,Empada,Empada,11.5423,-15.225,5600
+4579,Guinea-Bissau,Oio,Farim,Farim,12.4815,-15.2212,14386
+4581,Guinea-Bissau,Quinara,Fulacunda,Fulacunda,11.775,-15.1718,2595
+3104,Guinea-Bissau,Gabu,Gabu,Gabu,12.2766,-14.2212,61614
+4577,Guinea-Bissau,Bafata,Gamamudo,Gamamudo,12.2716,-14.7259,4381
+1922,Guinea-Bissau,Bafata,Bafata,Kirintim,12.1791,-14.6479,47980
+4580,Guinea-Bissau,Tombali,Komo,Komo,11.1905,-15.3309,4916
+4578,Guinea-Bissau,Oio,Mansaba,Mansaba,12.2936,-15.1706,9990
+4595,Guinea-Bissau,Oio,Mansoa,Mansoa,12.0678,-15.3184,10967
+4589,Guinea-Bissau,Sector Autonomo De Bissau,Sector Autonomo De Bissau,Mercado Central-Bissau-Velho,11.8592,-15.5824,348337
+4598,Guinea-Bissau,Oio,Nhacra,Nhacra,11.9594,-15.5385,3969
+1923,Guinea-Bissau,Bafata,Bafata,Nhambane,12.1718,-14.6517,47982
+4593,Guinea-Bissau,Gabu,Pirada,Pirada,12.6666,-14.1547,3642
+4591,Guinea-Bissau,Gabu,Pitche,Pitche,12.3263,-13.9539,8594
+4585,Guinea-Bissau,Biombo,Prabis,Prabis,11.801,-15.7411,24367
+4569,Guinea-Bissau,Tombali,Quebo,Quebo,11.5371,-14.7667,6990
+3102,Guinea-Bissau,Biombo,Quinhamel,Quinhamel,11.8861,-15.8646,12727
+4590,Guinea-Bissau,Biombo,Safim,Safim,11.9541,-15.6488,10874
+4596,Guinea-Bissau,Cacheu,Sao Domingos,Sao Domingos,12.4053,-16.199,8329
+4574,Guinea-Bissau,Gabu,Sonaco,Sonaco,12.3961,-14.4839,6185
+4586,Guinea-Bissau,Quinara,Tite,Tite,11.7795,-15.4001,3609
+4582,Guinea-Bissau,Bolama,Uno,Uno,11.2457,-16.1717,3069
+4600,Guinea-Bissau,Bafata,Xitole,Xitole,11.7336,-14.8112,3036
+1652,Iran (Islamic Republic of),Tehran,Tehran,Tehran Market,35.72,51.4,1464404
+1464,Iraq,Anbar,Ramadi,Anbar,33.4163,43.3021,145197
+1495,Iraq,Babil,Al-Musayab,Babylon,32.4832,44.4374,208885
+1493,Iraq,Baghdad,Al-Resafa,Baghdad,33.3386,44.3939,637137
+1496,Iraq,Basrah,Basrah,Basrah,30.5349,47.7888,675459
+1465,Iraq,Diyala,Al-Muqdadiya,Diyala,33.7477,44.6394,76583
+1492,Iraq,Dahuk,Dahuk,Dohuk,36.8695,42.994,331597
+1474,Iraq,Erbil,Erbil,Erbil,36.1911,44.0092,357893
+8360,Iraq,Ninewa,Mosul,Jadaa town,35.7487,43.283,193847
+1469,Iraq,Kerbala,Kerbala,Kerbela,32.6114,44.0085,592913
+1513,Iraq,Kirkuk,Kirkuk,Kirkuk,35.4681,44.3922,399925
+1468,Iraq,Missan,Amara,Maysan,31.8322,47.1561,407455
+1471,Iraq,Muthanna,Al-Samawa,Muthanna,31.3139,45.2871,343326
+1475,Iraq,Ninewa,Mosul,Nainawa,36.335,43.1189,455319
+1470,Iraq,Najaf,Najaf,Najaf,32.0005,44.3308,618368
+1472,Iraq,Qadissiya,Diwaniya,Qadisiya,31.9877,44.9302,442265
+1466,Iraq,Salah al-Din,Tikrit,Salah al-deen,34.5972,43.6857,47144
+1494,Iraq,Sulaymaniyah,Sulaymaniya,Sulaimaniyah,35.5611,45.4375,354571
+1473,Iraq,Thi-Qar,Nassriya,Thi-Qar,31.0483,46.2718,537066
+1467,Iraq,Wassit,Kut,Wasit,32.5102,45.8136,309809
+2085,Jordan,Ajloun,Qasabet Ajloun District,Ajloun,32.3236,35.7181,116357
+2089,Jordan,Al  Aqaba,Al_Qwaira District,Al Aqaba,29.8095,35.351,4412
+2086,Jordan,Al Balqa,Qasabet As_Salt District,Al Balqa,32.0343,35.7011,123405
+2088,Jordan,Al Karak,Qasabet Al_Karak District,Al Karak,31.1555,35.7988,5472
+2084,Jordan,Al Mafraq,Qasabet Al-Mafraq District,Al Mafraq,32.3417,36.202,122685
+2092,Jordan,Al Tafilah,Qasabet At_Tafilah District,Al Tafilah,30.7912,35.6919,155
+2087,Jordan,Amman,Al_Qwaismeh District,Amman,31.9133,35.9679,715494
+2083,Jordan,Irbid,Qasabet Irbid District,Irbid,32.5461,35.8017,287595
+2094,Jordan,Jarash,Qasabet Jerash District,Jarash,32.2619,35.8681,145106
+2093,Jordan,Maan,Ma'an District,Maan,30.3545,36.5677,1
+2090,Jordan,Madaba,Qasabet Madaba District,Madaba,31.7193,35.7932,165963
+2091,Jordan,Zarqa,Qasabet Az_Zarqa District,Zarqa,32.0608,36.0943,636022
+4238,Kenya,Coast,Mombasa,Bangladesh (Mombasa),-4.0118,39.6335,396290
+3243,Kenya,North Eastern,Garissa,Dadaab town,0.0563,40.3073,138455
+3252,Kenya,North Eastern,Garissa,Dagahaley (Daadab),0.1857,40.2916,61260
+4628,Kenya,Nairobi,Nairobi,Dandora (Nairobi),-1.25,36.9,1788340
+185,Kenya,Rift Valley,Uasin Gishu,Eldoret town (Uasin Gishu),0.5167,35.2833,253558
+3253,Kenya,Rift Valley,Turkana,Ethiopia (Kakuma),3.7229,34.8482,64133
+1855,Kenya,North Eastern,Garissa,Garissa,-0.4564,39.646,265257
+3356,Kenya,North Eastern,Garissa,Garissa town (Garissa),-0.4597,39.6414,263932
+3254,Kenya,North Eastern,Garissa,Hagadera (Daadab),0.0055,40.3678,139012
+1854,Kenya,Coast,Tana River,Hola (Tana River),-1.5039,40.0274,22700
+3250,Kenya,Rift Valley,Turkana,HongKong (Kakuma),3.7472,34.8393,61999
+3255,Kenya,North Eastern,Garissa,IFO (Daadab),0.1108,40.3161,76491
+5664,Kenya,Rift Valley,Kajiado,Illbissil Food Market (Kajiado),-2.0991,36.793,6221
+3262,Kenya,Eastern,Isiolo,Isiolo town,0.3471,37.5808,65537
+4235,Kenya,Coast,Mombasa,Junda (Mombasa),-4.0071,39.6776,531469
+5668,Kenya,Eastern,Meru South,Kaanwa (Tharaka Nithi),-0.3212,37.7191,26297
+1853,Kenya,Rift Valley,Kajiado,Kajiado,-1.8415,36.7913,16214
+3248,Kenya,Rift Valley,Turkana,Kakuma 2,3.7526,34.8234,50567
+3251,Kenya,Rift Valley,Turkana,Kakuma 3,3.7681,34.8218,41168
+3249,Kenya,Rift Valley,Turkana,Kakuma 4,3.7431,34.8064,45394
+4239,Kenya,Coast,Mombasa,Kalahari (Mombasa),-4.0314,39.6305,423032
+3244,Kenya,Rift Valley,Turkana,Kalobeyei (Village 1),3.7685,34.728,16438
+3246,Kenya,Rift Valley,Turkana,Kalobeyei (Village 2),3.7609,34.7528,15901
+3247,Kenya,Rift Valley,Turkana,Kalobeyei (Village 3),3.7139,34.8575,52454
+4626,Kenya,Nairobi,Nairobi,Kangemi (Nairobi),-1.2693,36.7442,679766
+5670,Kenya,Central,Nyeri,Karatina (Nyeri),-0.4817,37.1251,74440
+5666,Kenya,Eastern,Makueni,Kathonzweni (Makueni),-1.9135,37.7317,11586
+4625,Kenya,Nairobi,Nairobi,Kawangware (Nairobi),-1.2844,36.7436,707109
+4627,Kenya,Nairobi,Nairobi,Kibra (Nairobi),-1.3166,36.7833,613000
+5671,Kenya,Nyanza,Kisumu,Kibuye (Kisumu),-0.0927,34.7691,336408
+1852,Kenya,Coast,Kilifi,Kilifi,-3.6301,39.8511,76207
+186,Kenya,Nyanza,Kisumu,Kisumu,-0.1,34.75,302130
+4245,Kenya,Coast,Mombasa,Kisumu Ndogo (Mombasa),-4.04,39.6934,554913
+5697,Kenya,Nairobi,Nairobi,Kitengela (Kajiado),-1.2855,36.8556,1753378
+187,Kenya,Eastern,Kitui,Kitui,-1.3667,38.0167,55973
+5892,Kenya,Eastern,Kitui,Kitui town (Kitui),-1.3566,38.0082,57977
+5672,Kenya,Coast,Mombasa,Kongowea (Mombasa),-4.0572,39.6626,515619
+188,Kenya,Rift Valley,Turkana,Lodwar (Turkana),3.1167,35.6,56423
+3360,Kenya,Rift Valley,Turkana,Lodwar town,3.119,35.5983,55607
+5896,Kenya,Rift Valley,West Pokot,Lomut (West Pokot),1.4352,35.5744,7514
+5667,Kenya,Eastern,Makueni,Makueni,-1.8062,37.6214,25735
+5897,Kenya,Rift Valley,West Pokot,Makutano (West Pokot),1.2531,35.0767,48335
+189,Kenya,North Eastern,Mandera,Mandera,3.9368,41.8584,165357
+1851,Kenya,Rift Valley,Baringo,Marigat (Baringo),0.4647,35.9601,9773
+3355,Kenya,Rift Valley,Baringo,Marigat town (Baringo),0.4696,35.9807,12602
+190,Kenya,Eastern,Marsabit,Marsabit,2.3333,37.9833,25633
+3358,Kenya,Eastern,Marsabit,Marsabit town,2.3302,37.9892,26444
+4624,Kenya,Nairobi,Nairobi,Mathare (Nairobi),-1.256,36.8572,1598349
+3245,Kenya,Rift Valley,Turkana,Mogadishu (Kakuma),3.7171,34.8503,58392
+191,Kenya,Coast,Mombasa,Mombasa,-4.05,39.6667,536974
+4236,Kenya,Coast,Mombasa,Moroto (Mombasa),-4.0338,39.6562,582265
+4629,Kenya,Nairobi,Nairobi,Mukuru (Nairobi),-1.3027,36.8844,1369565
+184,Kenya,Nairobi,Nairobi,Nairobi,-1.2833,36.8167,1073834
+1850,Kenya,Rift Valley,Nakuru,Nakuru,-0.283,36.0744,390420
+4242,Kenya,Coast,Mombasa,Shonda (Mombasa),-4.1066,39.6467,229698
+3267,Kenya,North Eastern,Mandera,Takaba (Mandera),3.3946,40.2259,58288
+5665,Kenya,Eastern,Machakos,Tala Centre Market (Machakos),-1.267,37.3201,65296
+5893,Kenya,Coast,Kwale,Vanga (Kwale),-4.6597,39.2167,5909
+3271,Kenya,North Eastern,Wajir,Wajir town,1.7508,40.0585,192398
+5698,Kenya,Nairobi,Nairobi,Wakulima (Nairobi),-1.2874,36.8317,1186686
+5669,Kenya,Rift Valley,Nakuru,Wakulima (Nakuru),-0.3031,36.08,372000
+6352,Kenya,Eastern,Makueni,Wote town (Makueni),-1.788,37.6333,24449
+1684,Lebanon,Akkar,Akkar,Akkar,34.5329,36.0772,22943
+1685,Lebanon,Mount Lebanon,Aley,Aley,33.8101,35.5974,117889
+1686,Lebanon,Mount Lebanon,Baabda,Baabda,33.8338,35.5441,1432234
+1687,Lebanon,Baalbek-El Hermel,Baalbek,Baalbek-El Hermel,34.0047,36.211,81091
+1688,Lebanon,North,El Batroun,Batroun,34.2505,35.6675,52937
+1691,Lebanon,North,Bcharre,Bechare,34.2511,36.0111,12570
+1689,Lebanon,Beirut,Beirut,Beirut,33.8886,35.4955,1743803
+1708,Lebanon,Bekaa,Zahle,Bekaa,33.8463,35.902,116960
+1690,Lebanon,El Nabatieh,Bint Jubail,Bint Jbeil,33.1172,35.4289,25289
+1692,Lebanon,Mount Lebanon,Chouf,Chouf,33.6483,35.5877,62425
+1693,Lebanon,Mount Lebanon,El Meten,El Metn,33.9169,35.7188,66595
+1702,Lebanon,El Nabatieh,El Nabatiye,El Nabatieh,33.3772,35.4838,138546
+1694,Lebanon,El Nabatieh,Hasbaiya,Hasbaya,33.3979,35.6852,17512
+1695,Lebanon,Baalbek-El Hermel,El Hermel,Hermel,34.3971,36.3872,28837
+1696,Lebanon,Mount Lebanon,Jbeil,Jbeil,34.123,35.6519,31769
+1697,Lebanon,South,Jezzine,Jezzine,33.5408,35.5862,37741
+1698,Lebanon,Mount Lebanon,Kasrouane,Kesrwane,33.9685,35.6093,169690
+1699,Lebanon,North,El Koura,Koura,34.3149,35.8062,30226
+1700,Lebanon,El Nabatieh,Marjaayoun,Marjayoun,33.3579,35.5931,32574
+1701,Lebanon,North,El Minieh-Danieh,Minieh-Dannieh,34.3814,36.0676,42379
+10076,Lebanon,Mount Lebanon,Baabda,Mount Lebanon,33.8539,35.536,2269668
+1705,Lebanon,North,Tripoli,North,34.4381,35.8308,347139
+1703,Lebanon,Bekaa,Rachiaya,Rashaya,33.5347,35.8716,15099
+1706,Lebanon,South,Sour,Sour,33.2722,35.2033,144209
+1704,Lebanon,South,Saida,South,33.5608,35.3779,268607
+1707,Lebanon,Bekaa,West Bekaa,West Beqaa,33.6295,35.7625,10202
+1709,Lebanon,North,Zgharta,Zgharta,34.3963,35.8958,61944
+525,Lesotho,Berea,Kanana,Berea,-29.23,27.61,11116
+523,Lesotho,Butha-Buthe,Butha-Buthe,Butha Buthe,-28.7694,28.26,34134
+524,Lesotho,Leribe,Leribe,Leribe,-28.8833,28.05,29356
+526,Lesotho,Mafeteng,Mafeteng,Mafeteng,-29.8167,27.25,32580
+522,Lesotho,Maseru,Maseru,Maseru,-29.3167,27.4833,128779
+527,Lesotho,Mohale's Hoek,Mohale's Hoek,Mohale's Hoek,-30.15,27.46,27639
+531,Lesotho,Mokhotlong,Mokhotlong,Mokhotlong,-29.2833,29.0833,13460
+530,Lesotho,Qacha's Nek,Qacha's Nek,Qacha's Nek,-30.1167,28.6833,13274
+528,Lesotho,Quthing,Quthing,Quthing,-30.4,27.7167,19132
+529,Lesotho,Thaba-Tseka,Thaba-Tseka,Thaba Tseka,-29.53,28.59,12116
+2616,Liberia,Nimba,Zoe-Gbao,Bahn,7.0254,-8.7209,15080
+1808,Liberia,Grand Kru,Barclayville,Barclayville,4.6765,-8.2335,5515
+242,Liberia,Grand Cape Mount,Tewor,Bo Waterside,7.0106,-11.3725,2952
+1809,Liberia,Gbarpolu,Bopolu,Bopolu,7.0667,-10.4875,5633
+241,Liberia,Grand Bassa,Commonwealth2,Buchanan,5.9111,-10.0625,46788
+1810,Liberia,Rivercess,Zarflahn,Cestos City,5.46,-9.5828,6455
+1742,Liberia,Montserrado,Greater Monrovia,Duala,6.3774,-10.7844,326952
+1745,Liberia,River Gee,Potupo,Fish Town,5.1968,-7.8747,8560
+243,Liberia,Lofa,Foya,Foya,8.2731,-10.31,5286
+1744,Liberia,Nimba,Garr-Bain,Ganta,7.235,-8.9844,57486
+1811,Liberia,Gbarpolu,Gbarma,Gbarma,6.9947,-10.7883,6835
+240,Liberia,Bong,Jorquelleh,Gbarnga,6.9956,-9.4722,45174
+1748,Liberia,Sinoe,Greenville,Greenville,5.0111,-9.0389,21024
+1747,Liberia,Maryland,Harper,Harper,4.3758,-7.7173,30681
+1743,Liberia,Margibi,Kakata,Kakata,6.5303,-10.3573,41536
+244,Liberia,Maryland,Pleebo,Pleebo,4.5892,-7.6725,46631
+245,Liberia,Montserrado,Greater Monrovia,Red Light,6.2756,-10.7178,499338
+246,Liberia,Nimba,Leewehpea-Mahn,Saclepea,7.1094,-8.8406,5272
+631,Liberia,Grand Gedeh,B'hai,Toe Town,6.4,-8.55,8611
+237,Liberia,Bomi,Senjeh,Tubmanburg,6.8708,-10.8172,15623
+1746,Liberia,River Gee,Tuobo,Tuobo-Gbaweeleken,5.0235,-7.6583,2056
+238,Liberia,Lofa,Voinjama,Voinjama,8.4219,-9.7478,16600
+2617,Liberia,River Gee,Nyenebo,Webbo Konowroken,4.885,-7.627,4913
+239,Liberia,Grand Gedeh,Tchien,Zwedru,6.0667,-8.1281,36431
+2316,Libya,West,Tripoli,Abusliem,32.8703,13.2283,198363
+2509,Libya,West,Tripoli,Ain Zara,32.8133,13.2697,173322
+2321,Libya,West,Aljfara,Al Aziziya,32.5331,13.0176,16036
+2322,Libya,East,Al Jabal Al Akhdar,Albayda,32.761,21.7577,98974
+2323,Libya,South,Murzuq,Algatroun,24.8889,14.5315,3955
+2352,Libya,South,Aljufra,Aljufra,27.9835,16.9123,1
+2350,Libya,West,Almargeb,Alkhums,32.647,14.2635,42606
+2324,Libya,East,Alkufra,Alkufra,24.1988,23.2932,29707
+2341,Libya,East,Almarj,AlMarj,32.4857,20.8338,106303
+2510,Libya,West,Al Jabal Al Gharbi,Ashshgega,31.65,12.817,1940
+2353,Libya,West,Azzawya,Azzawya,32.763,12.7365,66322
+2340,Libya,West,Al Jabal Al Gharbi,Azzintan,31.9304,12.2484,40513
+2318,Libya,West,Misrata,Bani Waleed,31.7976,14.0537,19901
+2325,Libya,East,Benghazi,Benghazi,32.1288,20.0817,133098
+2328,Libya,East,Derna,Derna,32.7594,22.6383,38504
+2320,Libya,East,Ejdabia,Ejdabia,30.755,20.2233,71536
+2329,Libya,West,Nalut,Ghadamis,30.1258,9.4901,11720
+2342,Libya,South,Ghat,Ghat,24.9626,10.1797,12336
+2330,Libya,West,Al Jabal Al Gharbi,Ghiryan,32.1716,13.0211,50482
+2335,Libya,West,Tripoli,Hai Alandalus,32.8751,13.1283,124747
+2511,Libya,West,Aljfara,Janzour,32.8256,13.0261,37560
+2354,Libya,West,Misrata,Misrata,32.3257,15.099,86149
+2512,Libya,West,Almargeb,Msallata,32.5799,14.0417,31677
+2336,Libya,South,Murzuq,Murzuq,25.9141,13.9197,32709
+2339,Libya,West,Nalut,Nalut,31.8642,10.983,20856
+2338,Libya,West,Zwara,Sabratha,32.7906,12.4827,39416
+2332,Libya,South,Sebha,Sebha,27.0373,14.4253,110590
+2331,Libya,West,Sirt,Sirt,31.206,16.5836,38567
+2317,Libya,West,Tripoli,Suq Aljumaa,32.8385,13.1831,210237
+2513,Libya,West,Tripoli,Tajoura,32.8834,13.3525,125086
+2319,Libya,West,Almargeb,Tarhuna,32.4279,13.6419,84173
+2333,Libya,East,Tobruk,Tobruk,32.0774,23.96,108521
+2334,Libya,West,Tripoli,Tripoli center,32.8526,13.2293,203012
+2337,Libya,South,Ubari,Ubari,26.5885,12.7661,22574
+2326,Libya,South,Wadi Ashshati,Wadi Alshati,27.5516,14.2721,22672
+2688,Libya,South,Murzuq,Wadi Etba,26.0866,13.5098,3231
+2514,Libya,West,Al Jabal Al Gharbi,Yefren,32.0638,12.5277,18012
+2327,Libya,West,Misrata,Zliten,32.4676,14.5656,108113
+2351,Libya,West,Zwara,Zwara,32.9191,12.078,24196
+754,Madagascar,Alaotra Mangoro,Ambatondrazaka,Alaotra Mangoro (Region),-17.8441,48.4139,12103
+7205,Madagascar,Anosy,Betroka,Ambatomivary,-23.8418,45.5713,3641
+7209,Madagascar,Androy,Bekily,Ambatosola,-24.0865,45.334,3303
+6840,Madagascar,Atsimo Andrefana,Betioky Atsimo,Ambatry,-23.8519,44.4102,6226
+737,Madagascar,Anosy,Amboasary-Atsimo,Amboasary Sud,-25.0413,46.384,19186
+4643,Madagascar,Androy,Ambovombe-Androy,Ambondro,-25.25,45.8333,23401
+6560,Madagascar,Atsimo Andrefana,Ampanihy Ouest,Amboropotsy,-24.8046,44.7984,8119
+736,Madagascar,Androy,Ambovombe-Androy,Ambovombe-androy,-25.1769,46.0869,49496
+760,Madagascar,Amoron I Mania,Ambositra,Amoron'I Mania (Region),-20.5167,47.25,6624
+6557,Madagascar,Androy,Ambovombe-Androy,Ampamata,-24.4745,45.6357,4073
+733,Madagascar,Atsimo Andrefana,Ampanihy Ouest,Ampanihy,-24.696,44.746,8247
+6872,Madagascar,Vatovavy Fitovinany,Manakara Atsimo,Ampasimanjeva,-21.7384,48.0338,16276
+753,Madagascar,Analamanga,Antananarivo Renivohitra,Analamanga (Region),-18.9333,47.5167,609298
+7861,Madagascar,Anosy,Betroka,Analamary,-23.2259,45.8447,1101
+758,Madagascar,Analanjirofo,Fenerive Est,Analanjirofo (Region),-17.3874,49.4145,18517
+6561,Madagascar,Atsimo Andrefana,Ampanihy Ouest,Anavoha,-23.997,44.9153,4018
+4972,Madagascar,Androy,Ambovombe-Androy,Andalantanosy,-24.6695,45.5969,5910
+7855,Madagascar,Atsimo Andrefana,Betioky Atsimo,Andranomangatsiaka,-23.3972,44.5103,2533
+6562,Madagascar,Atsimo Andrefana,Ampanihy Ouest,Androipano,-24.8792,44.0517,5401
+749,Madagascar,Androy,Ambovombe-Androy,Androy (Region),-25.1769,46.0869,49496
+6568,Madagascar,Atsimo Andrefana,Betioky Atsimo,Ankazomanga,-23.655,44.1345,3156
+7201,Madagascar,Atsimo Andrefana,Betioky Atsimo,Ankazombalala,-23.5934,44.6897,6030
+4618,Madagascar,Atsimo Andrefana,Toliary-II,Ankililoaka,-22.7667,43.6167,15793
+6563,Madagascar,Atsimo Andrefana,Ampanihy Ouest,Ankilimivory,-24.47,44.9746,3368
+759,Madagascar,Anosy,Taolagnaro,Anosy (Region),-25.0333,46.9833,35317
+740,Madagascar,Analamanga,Antananarivo Renivohitra,Antananarivo,-18.9167,47.5167,704353
+4644,Madagascar,Androy,Ambovombe-Androy,Antanimora,-24.8208,45.6545,6823
+7862,Madagascar,Atsinanana,Brickaville,Antsapanana,-18.9814,48.9405,6516
+757,Madagascar,Atsimo Andrefana,Toliary-I,Atsimo Andrefana (Region),-23.3514,43.6687,51992
+752,Madagascar,Atsimo Atsinanana,Farafangana,Atsimo Atsinanana (Region),-22.8167,47.8167,54559
+750,Madagascar,Atsinanana,Toamasina I,Atsinanana (Region),-18.1492,49.4023,44136
+7200,Madagascar,Atsimo Andrefana,Betioky Atsimo,Beantake,-23.7925,44.3132,4464
+6576,Madagascar,Atsimo Andrefana,Toliary-II,Beheloka,-23.9071,43.6781,2387
+738,Madagascar,Androy,Bekily,Bekily,-24.2219,45.3199,2349
+4645,Madagascar,Androy,Bekily,Bekitro,-24.5585,45.301,8947
+7206,Madagascar,Anosy,Betroka,Bekorobo,-23.7339,45.7721,2675
+6564,Madagascar,Atsimo Andrefana,Ampanihy Ouest,Belafika,-24.3003,44.6734,3413
+734,Madagascar,Androy,Beloha,Beloha,-25.1732,45.0604,14361
+7199,Madagascar,Atsimo Andrefana,Ampanihy Ouest,Beroy,-23.9975,44.6681,3266
+732,Madagascar,Atsimo Andrefana,Betioky Atsimo,Betioky,-23.722,44.3828,8605
+762,Madagascar,Betsiboka,Maevatanana,Betsiboka (Region),-16.9555,46.8333,25148
+6849,Madagascar,Androy,Bekily,Bevitiky,-24.614,45.3834,8487
+741,Madagascar,Boeny,Mahajanga I,Boeny (Region),-15.7166,46.3166,62297
+748,Madagascar,Bongolava,Tsiroanomandidy,Bongolava (Region),-18.7698,46.05,16749
+746,Madagascar,Diana,Antsiranana I,Diana (Region),-12.2766,49.29,31991
+6850,Madagascar,Anosy,Amboasary-Atsimo,Ebelo,-24.4823,46.0262,4033
+6577,Madagascar,Atsimo Andrefana,Toliary-II,Efoetse,-24.0779,43.6989,2608
+4639,Madagascar,Atsimo Andrefana,Ampanihy Ouest,Ejeda,-24.35,44.5167,7069
+7202,Madagascar,Anosy,Amboasary-Atsimo,Esira,-24.33,46.7044,1051
+6853,Madagascar,Atsimo Atsinanana,Farafangana,Farafangana,-22.8199,47.8308,53527
+739,Madagascar,Anosy,Taolagnaro,Fort-Dauphin,-25.0266,46.9744,36303
+4640,Madagascar,Atsimo Andrefana,Ampanihy Ouest,Fotadrevo,-24.05,45.0167,3566
+6565,Madagascar,Atsimo Andrefana,Ampanihy Ouest,Gogogogo,-24.2666,44.8053,4400
+755,Madagascar,Haute Matsiatra,Fianarantsoa I,Haute Matsiatra (Region),-21.4536,47.0858,45278
+7203,Madagascar,Anosy,Betroka,Ianabinda,-23.5211,45.9385,1935
+6855,Madagascar,Anosy,Amboasary-Atsimo,Ifotaka,-24.8015,46.1381,5545
+742,Madagascar,Ihorombe,Ihosy,Ihorombe (Region),-22.4036,46.1258,11657
+6857,Madagascar,Vatovavy Fitovinany,Ikongo,Ikongo,-21.8799,47.436,25547
+6558,Madagascar,Androy,Ambovombe-Androy,Imanombo,-24.4353,45.8226,7603
+6566,Madagascar,Atsimo Andrefana,Ampanihy Ouest,Itampolo,-24.6821,43.9499,7649
+756,Madagascar,Itasy,Miarinarivo,Itasy (Region),-18.9608,46.9036,20119
+6559,Madagascar,Androy,Ambovombe-Androy,Jafaro,-24.9234,45.4402,6500
+6569,Madagascar,Atsimo Andrefana,Betioky Atsimo,Lazarivo,-23.9009,44.9573,4463
+7204,Madagascar,Anosy,Amboasary-Atsimo,Mahabo,-24.6001,46.2587,1174
+7863,Madagascar,Anosy,Betroka,Mahabo Betroka,-23.6634,46.1398,9922
+4619,Madagascar,Vatovavy Fitovinany,Manakara Atsimo,Manakara,-22.1504,48.0038,74682
+6567,Madagascar,Atsimo Andrefana,Ampanihy Ouest,Maniry,-24.5001,44.8197,2902
+7537,Madagascar,Androy,Ambovombe-Androy,Maroalomainty,-25.1988,46.1901,14806
+7207,Madagascar,Androy,Ambovombe-Androy,Maroalopoty,-25.173,46.2544,7820
+6570,Madagascar,Atsimo Andrefana,Betioky Atsimo,Maroarivo,-23.7976,44.097,3273
+6862,Madagascar,Vatovavy Fitovinany,Manakara Atsimo,Marofarihy,-22.025,47.9696,15392
+7860,Madagascar,Anosy,Amboasary-Atsimo,Maromby,-24.3563,46.5705,1042
+6571,Madagascar,Atsimo Andrefana,Betioky Atsimo,Marosavoa,-23.2883,44.3584,1159
+7859,Madagascar,Anosy,Amboasary-Atsimo,Marotsiraka,-24.2836,45.9931,2957
+6572,Madagascar,Atsimo Andrefana,Betioky Atsimo,Masiaboay,-23.9012,44.4635,3805
+743,Madagascar,Melaky,Maintirano,Melaky (Region),-18.0544,44.0344,17994
+761,Madagascar,Menabe,Morondava,Menabe (Region),-20.2976,44.3202,59402
+7208,Madagascar,Androy,Bekily,Mikaikarivo Ambatomainty,-24.1589,45.1569,3484
+7110,Madagascar,Atsimo Atsinanana,Midongy-Atsimo,Nosifeno,-23.5889,47.014,9773
+6864,Madagascar,Vatovavy Fitovinany,Nosy-Varika,Nosy Varika,-20.5827,48.5313,4302
+6579,Madagascar,Atsimo Andrefana,Betioky Atsimo,Sakamasay,-23.9688,44.6052,2741
+744,Madagascar,Sava,Sambava,Sava (Region),-14.2667,50.1667,26909
+6573,Madagascar,Atsimo Andrefana,Betioky Atsimo,Soamanonga,-23.8783,44.7915,2671
+6574,Madagascar,Atsimo Andrefana,Betioky Atsimo,Soaserana,-23.8806,44.9084,3871
+747,Madagascar,Sofia,Antsohihy,Sofia (Region),-14.8787,47.9864,18386
+6575,Madagascar,Atsimo Andrefana,Betioky Atsimo,Tameantsoa,-23.5433,44.3014,4752
+7210,Madagascar,Androy,Bekily,Tanandava,-24.2128,45.4887,2905
+4617,Madagascar,Atsimo Andrefana,Toliary-I,Toliara,-23.3474,43.68,56358
+735,Madagascar,Androy,Tsihombe,Tsihombe,-25.317,45.4833,15960
+751,Madagascar,Vakinankaratra,Antsirabe I,Vakinakaratra (Region),-19.8689,47.0383,51190
+6868,Madagascar,Atsimo Atsinanana,Vangaindrano,Vangaindrano,-23.3505,47.6045,13169
+745,Madagascar,Vatovavy Fitovinany,Manakara Atsimo,Vatovavy Fitovinany (Region),-22.155,48.0066,67699
+2111,Malawi,Central Region,Lilongwe,Area 23,-14.031,33.4859,36933
+763,Malawi,Southern Region,Balaka,Balaka Boma,-14.9903,34.9587,61856
+764,Malawi,Southern Region,Nsanje,Bangula,-16.5715,35.1195,26674
+765,Malawi,Central Region,Dedza,Bembeke turn off,-14.3953,34.3946,17051
+2229,Malawi,Northern Region,Rumphi,Bolero,-10.9846,33.7405,21532
+766,Malawi,Central Region,Dowa,Bowe,-13.3,33.7167,18002
+767,Malawi,Southern Region,Blantyre City,Bvumbwe,-15.93,35.0793,57814
+1710,Malawi,Central Region,Kasungu,Chamama,-12.928,33.8018,17850
+768,Malawi,Central Region,Kasungu,Chatoloma,-13.3167,33.4833,18697
+769,Malawi,Southern Region,Nsanje,Chikhwawa,-16.7667,35.2833,19104
+8488,Malawi,Southern Region,Blantyre,Chikuli,-15.6665,34.8848,24896
+2119,Malawi,Southern Region,Machinga,Chikweo,-14.766,35.6705,28257
+2120,Malawi,Southern Region,Phalombe,Chilinga,-15.7765,35.7684,25279
+770,Malawi,Northern Region,Mzimba,Chilumba,-11.1,33.6833,7069
+771,Malawi,Central Region,Ntcheu,Chimbiya,-15.08,34.58,8230
+2121,Malawi,Southern Region,Mulanje,Chinakanaka,-15.9852,35.401,42800
+2122,Malawi,Southern Region,Zomba,Chinamwali,-15.3796,35.3608,104936
+772,Malawi,Northern Region,Nkhata Bay,Chintheche,-11.8333,34.1667,17536
+9643,Malawi,Southern Region,Mangochi,Chiponde,-14.3692,35.6013,22056
+773,Malawi,Southern Region,Chiradzulu,Chiradzulu Boma,-15.7109,35.1751,33467
+2123,Malawi,Southern Region,Mulanje,Chitakale,-16.0121,35.4908,44490
+774,Malawi,Northern Region,Chitipa,Chitipa Boma,-9.7167,33.2667,39793
+825,Malawi,Central Region,Dowa,Dowa Boma,-13.6833,33.9833,19183
+775,Malawi,Central Region,Nkhotakota,Dwangwa,-12.5667,34.15,11696
+2124,Malawi,Southern Region,Chikwawa,Dyelatu,-16.0431,34.802,31003
+2421,Malawi,Central Region,Dowa,Dzaleka,-13.6587,33.8714,35190
+9645,Malawi,Central Region,Dowa,Dzaleka (inside Camp),-13.6586,33.871,35090
+776,Malawi,Northern Region,Mzimba,Embangweni,-12.1667,33.4667,18527
+2227,Malawi,Northern Region,Mzimba,Euthini,-11.451,33.4166,16434
+2224,Malawi,Central Region,Ntcheu,Golomoti,-14.4258,34.5932,23516
+777,Malawi,Northern Region,Mzimba,Hewe,-11.2,33.4667,4369
+778,Malawi,Southern Region,Zomba,Jali,-15.4951,35.4683,31001
+828,Malawi,Northern Region,Mzimba,Jenda,-12.35,33.55,17341
+2112,Malawi,Central Region,Ntcheu,Kambilonje,-15,34.6737,5931
+2117,Malawi,Northern Region,Chitipa,Kameme,-9.5703,33.0915,3768
+2125,Malawi,Central Region,Ntchisi,Kamsonga,-13.2804,33.7965,18497
+2225,Malawi,Central Region,Salima,Kamuzu Road,-13.7709,34.4401,71154
+2223,Malawi,Central Region,Lilongwe,Kamwendo,-13.8167,34.0167,15708
+779,Malawi,Northern Region,Karonga,Karonga Boma,-9.9333,33.9333,61489
+829,Malawi,Central Region,Kasungu,Kasiya,-12.8,33.7167,8081
+780,Malawi,Central Region,Kasungu,Kasungu Boma,-13.0333,33.4833,75450
+2113,Malawi,Central Region,Ntchisi,Khuwi,-13.4329,33.83,22083
+827,Malawi,Central Region,Lilongwe City,Lilongwe,-13.9833,33.7833,408771
+781,Malawi,Southern Region,Blantyre City,Limbe,-15.8167,35.05,348101
+2126,Malawi,Southern Region,Mulanje,Limbuli,-16.0742,35.7148,47665
+2230,Malawi,Southern Region,Blantyre,Lirangwe,-15.5284,35.0234,24938
+782,Malawi,Southern Region,Machinga,Liwonde,-15.0674,35.2281,44973
+826,Malawi,Central Region,Ntcheu,Lizulu,-14.5167,34.4667,19069
+783,Malawi,Southern Region,Thyolo,Luchenza,-16.0077,35.3116,52257
+3627,Malawi,Southern Region,Thyolo,Luncheza,-16.0184,35.3143,53015
+784,Malawi,Southern Region,Blantyre,Lunzu,-15.6528,35.0208,45196
+785,Malawi,Central Region,Dowa,Madisi,-13.4167,33.6,29689
+1920,Malawi,Southern Region,Mangochi,Makanjila,-13.7096,35.0448,21879
+3628,Malawi,Southern Region,Mangochi,Makanjira,-13.7094,35.0445,21882
+8505,Malawi,Southern Region,Nsanje,Makhanga,-16.5237,35.1638,17114
+786,Malawi,Central Region,Ntchisi,Malomo,-13.15,33.8333,19251
+2127,Malawi,Southern Region,Machinga,Mangamba,-14.7935,35.4396,23746
+787,Malawi,Southern Region,Mangochi,Mangochi Boma,-14.4804,35.2618,82353
+1921,Malawi,Southern Region,Machinga,Mangochi Turn Off,-15.0447,35.1893,34678
+2228,Malawi,Northern Region,Mzimba,Manyamula,-11.9379,33.4522,15605
+2128,Malawi,Southern Region,Nsanje,Marka,-17.1234,35.2285,14816
+788,Malawi,Southern Region,Zomba,Mayaka,-15.5783,35.3684,35272
+2234,Malawi,Southern Region,Balaka,Mbela,-14.913,35.055,19685
+2191,Malawi,Southern Region,Machinga,Mbonechela,-14.8875,35.477,19420
+789,Malawi,Central Region,Mchinji,Mchinji Boma,-13.8,32.9,42806
+830,Malawi,Southern Region,Phalombe,Migowi,-15.7206,35.6838,39325
+790,Malawi,Northern Region,Chitipa,Misuku,-9.6667,33.5167,9468
+791,Malawi,Central Region,Lilongwe,Mitundu,-14.25,33.7667,51581
+792,Malawi,Central Region,Mchinji,Mkanda,-13.5167,32.95,24886
+793,Malawi,Southern Region,Mangochi,Monkey Bay,-14.0922,34.9118,15630
+794,Malawi,Northern Region,Nkhata Bay,Mpamba,-11.5456,34.1892,16773
+2129,Malawi,Southern Region,Machinga,Mpita,-15.1878,35.4704,32355
+795,Malawi,Central Region,Dowa,Mponela,-13.5167,33.7167,45459
+796,Malawi,Central Region,Dedza,Mtakataka,-14.2333,34.5167,28451
+3629,Malawi,Southern Region,Nsanje,Mtowe,-17.0843,35.2153,21280
+2130,Malawi,Southern Region,Mulanje,Mulanje Boma,-16.0265,35.5048,44289
+2233,Malawi,Southern Region,Zomba,Mulomba,-15.7648,35.5192,36433
+797,Malawi,Southern Region,Mulanje,Muloza,-16.0778,35.7329,42292
+798,Malawi,Central Region,Nkhotakota,Mwansambo,-13.3,34.1167,19448
+799,Malawi,Southern Region,Mwanza,Mwanza Boma,-15.6037,34.5188,44469
+800,Malawi,Northern Region,Mzimba,Mzimba,-11.9,33.6,39298
+801,Malawi,Northern Region,Mzimba,Mzuzu,-11.45,33.9167,11227
+831,Malawi,Central Region,Dowa,Nambuma,-13.7035,33.5976,35867
+802,Malawi,Southern Region,Mangochi,Namwera,-14.3641,35.4992,32549
+803,Malawi,Central Region,Lilongwe,Nanjiri,-14.0715,33.8371,65608
+2131,Malawi,Southern Region,Machinga,Nayuchi,-14.9782,35.8722,10174
+804,Malawi,Southern Region,Chikwawa,Nchalo,-16.2656,34.8712,42240
+805,Malawi,Southern Region,Neno,Neno Boma,-15.4,34.65,16255
+806,Malawi,Southern Region,Nsanje,Ngabu,-16.4671,34.874,30827
+807,Malawi,Central Region,Kasungu,Nkhamenya,-12.5667,33.5167,22123
+808,Malawi,Northern Region,Nkhata Bay,Nkhatabay Boma,-11.6082,34.2986,27681
+2192,Malawi,Southern Region,Chikwawa,Nkhate,-16.1458,34.9571,24211
+809,Malawi,Central Region,Kasungu,Nkhoma,-12.7167,33.4,10605
+810,Malawi,Central Region,Nkhotakota,Nkhotakota Boma,-12.9167,34.3,44322
+2132,Malawi,Southern Region,Machinga,Nsanama,-14.9961,35.4915,32315
+2193,Malawi,Southern Region,Nsanje,Nsanje Boma,-16.9304,35.259,32540
+2133,Malawi,Southern Region,Machinga,Nserema,-14.7168,35.5513,37087
+2114,Malawi,Central Region,Dedza,Nsikawanjala,-14.3886,34.3356,34615
+812,Malawi,Central Region,Ntchisi,Nsundwe,-13.3833,33.95,22394
+2115,Malawi,Central Region,Dowa,Nsungwi,-13.53,33.461,14342
+813,Malawi,Southern Region,Machinga,Ntaja,-14.8719,35.5272,33985
+3630,Malawi,Central Region,Dedza,Ntakataka,-14.2151,34.5112,21864
+814,Malawi,Central Region,Ntcheu,Ntcheu Boma,-14.8167,34.6333,38776
+815,Malawi,Central Region,Ntchisi,Ntchisi Boma,-13.3667,33.9184,30762
+816,Malawi,Northern Region,Chitipa,Nthalire,-10.35,33.65,9536
+832,Malawi,Central Region,Ntcheu,Ntonda,-14.9833,34.75,16701
+2194,Malawi,Southern Region,Nsanje,Ntowe,-17.0856,35.2153,21226
+817,Malawi,Southern Region,Phalombe,Phalombe Boma,-15.806,35.6471,39544
+8508,Malawi,Southern Region,Phalombe,Phaloni,-15.6241,35.7579,27272
+2235,Malawi,Southern Region,Balaka,Phalula,-15.2242,34.8898,10057
+818,Malawi,Northern Region,Rumphi,Rumphi Boma,-11.0167,33.8667,24691
+819,Malawi,Central Region,Salima,Salima,-13.7833,34.4333,68701
+820,Malawi,Central Region,Lilongwe,Santhe,-13.9333,33.4333,24118
+821,Malawi,Central Region,Ntcheu,Sharpevaley,-14.6167,34.7333,19146
+2134,Malawi,Southern Region,Zomba,Songani,-15.3172,35.3931,39438
+9644,Malawi,Central Region,Lilongwe City,Songwe,-13.9561,33.7832,354606
+811,Malawi,Southern Region,Nsanje,Sorgin,-16.5433,35.0123,29353
+2226,Malawi,Central Region,Salima,Thavite,-13.4978,34.2617,20701
+2231,Malawi,Southern Region,Thyolo,Thekerani,-16.322,35.2049,42664
+822,Malawi,Central Region,Dedza,Thete,-14.3,34.0833,35520
+823,Malawi,Southern Region,Zomba,Thondwe,-15.4883,35.2353,30992
+2232,Malawi,Southern Region,Thyolo,Thyolo Boma,-16.0672,35.1453,32563
+2135,Malawi,Southern Region,Chikwawa,Tomali,-16.1782,34.7716,15076
+833,Malawi,Central Region,Ntcheu,Tsangano turnoff,-14.8167,34.6333,38776
+2118,Malawi,Northern Region,Karonga,Uliwa,-10.4533,34.209,28688
+2236,Malawi,Southern Region,Balaka,Ulongwe,-14.8488,35.1729,29734
+3735,Malawi,Northern Region,Mzuzu City,Vigwagwa,-11.4404,34.011,191796
+2116,Malawi,Central Region,Mchinji,Waliranji,-13.978,33.2755,31036
+824,Malawi,Southern Region,Zomba City,Zomba Boma,-15.3872,35.3188,125039
+2515,Mali,Kidal,Kidal,Abeibara,18.4411,1.4156,27541
+2516,Mali,Kidal,Kidal,Adjelhoc,18.4419,1.4131,27532
+3633,Mali,Gao,Menaka,Agazrahane,15.9115,2.4045,12631
+3638,Mali,Tombouctou,Tombouctou,Aglal,16.7567,-3.0029,94698
+2517,Mali,Kidal,Kidal,Amachach,18.4418,1.4132,27532
+2011,Mali,Gao,Menaka,Anderamboukane,15.4237,3.0193,4237
+2518,Mali,Kidal,Kidal,Annefif,18.4464,1.3999,27579
+857,Mali,Gao,Ansongo,Ansongo,15.6597,0.5022,24701
+2519,Mali,Tombouctou,Niafunke,Attara,15.6589,-4.3561,7175
+858,Mali,Bamako,Bamako,Badalabougou,12.6235,-7.9838,1162663
+859,Mali,Kayes,Kita,Badinko,12.9667,-9.2167,12890
+3643,Mali,Kayes,Bafoulabe,Bafoulabé,13.8034,-10.8323,9364
+247,Mali,Bamako,Bamako,Bamako,12.65,-8,780363
+3634,Mali,Gao,Bourem,Bamba,16.9981,-0.956,8693
+2012,Mali,Tombouctou,Tombouctou,Bambara Maoude,16.7657,-2.9906,94469
+3642,Mali,Koulikoro,Banamba,Banamba,13.5485,-7.4465,20467
+860,Mali,Mopti,Bandiagara,Bandiagara,14.348,-3.6088,19531
+861,Mali,Mopti,Bankass,Bankass,14.0775,-3.5159,19805
+2033,Mali,Tombouctou,Gourma-Rharous,Bankoma,16.8092,-2.0553,3346
+3637,Mali,Tombouctou,Tombouctou,Ber,16.8374,-2.5217,20619
+3639,Mali,Tombouctou,Goundam,Bintagoungou,16.4152,-3.6644,15241
+862,Mali,Segou,Bla,Bla,12.9501,-5.7602,36664
+2013,Mali,Mopti,Douentza,Boni,15.078,-2.2292,7240
+863,Mali,Sikasso,Bougouni,Bougouni,11.417,-7.479,71925
+2014,Mali,Gao,Bourem,Bourem,16.9531,-0.3543,10076
+2034,Mali,Tombouctou,Tombouctou,Bourem Inaly,16.6892,-2.8528,4136
+3641,Mali,Tombouctou,Dire,Dangha,16.466,-3.1359,9778
+2024,Mali,Mopti,Tenenkou,Diafarabé,14.1367,-5.0164,7692
+864,Mali,Segou,Niono,Diakawèrè,14.4384,-5.9996,17799
+865,Mali,Mopti,Bankass,Diallassagou,13.7377,-3.6265,10116
+866,Mali,Bamako,Bamako,Dibida,12.65,-8,780363
+867,Mali,Kayes,Diema,Diéma,14.539,-9.1927,15551
+3635,Mali,Mopti,Tenenkou,Diguiciré,14.6674,-5.0744,2132
+868,Mali,Koulikoro,Dioila,Dioïla,12.4822,-6.7911,28507
+2025,Mali,Mopti,Tenenkou,Diondiori,14.9158,-4.5948,6779
+869,Mali,Segou,Baroueli,Dioro,12.8292,-6.4965,1254
+870,Mali,Tombouctou,Dire,Diré,16.2652,-3.3971,27553
+2015,Mali,Gao,Gao,Djebok,16.3446,0.2783,2544
+871,Mali,Mopti,Djenne,Djenne,13.9045,-4.5599,48876
+872,Mali,Bamako,Bamako,Djikoroni,12.5997,-8.0139,1194478
+3636,Mali,Mopti,Douentza,Djoulouna,15.0075,-2.9478,36495
+873,Mali,Segou,Niono,Dogofri,14.8059,-6.0182,23437
+2035,Mali,Tombouctou,Goundam,Douekire,16.5743,-3.3718,4590
+2026,Mali,Mopti,Douentza,Douentza,14.9999,-2.9514,36002
+874,Mali,Segou,Bla,Dougouolo,12.9338,-5.5653,11073
+2521,Mali,Tombouctou,Goundam,Échelle,16.2721,-3.9371,11647
+875,Mali,Bamako,Bamako,Fadjiguila,12.65,-8,780363
+876,Mali,Bamako,Bamako,Faladié,12.5832,-7.9482,1005060
+877,Mali,Koulikoro,Koulikoro,Fana,13.1906,-7.6663,1308
+878,Mali,Segou,Segou,Fatiné,13.5704,-5.387,4725
+2016,Mali,Gao,Gao,Forgho,16.5061,-0.0738,15407
+248,Mali,Gao,Gao,Gao,16.2717,-0.0447,127268
+2027,Mali,Mopti,Youwarou,Gathi Loumo,15.4692,-4.6119,3651
+3640,Mali,Tombouctou,Gourma-Rharous,Gossi,15.8183,-1.3064,13077
+2036,Mali,Tombouctou,Niafunke,Gounanbougou,15.9469,-3.5843,3760
+2037,Mali,Tombouctou,Goundam,Goundam,16.4161,-3.6621,15268
+2038,Mali,Tombouctou,Gourma-Rharous,Gourma Rharous,16.8814,-1.924,15309
+2017,Mali,Gao,Gao,Haoussa Foulane,15.993,0.1329,6709
+2028,Mali,Mopti,Douentza,Hombori,15.2825,-1.6988,8083
+3646,Mali,Koulikoro,Kangaba,Kangaba,11.9397,-8.4112,10483
+1682,Mali,Koulikoro,Kati,Kati,12.7454,-8.0738,123902
+249,Mali,Kayes,Kayes,Kayes Centre,14.4417,-11.4341,244716
+879,Mali,Kayes,Kayes,Kayes N'Dy,14.4417,-11.4341,244716
+880,Mali,Kayes,Kayes,Kayes Plateau,14.4417,-11.4341,244716
+3644,Mali,Kayes,Kayes,Kéniéba,14.4827,-11.1232,3474
+250,Mali,Kidal,Kidal,Kidal,18.4411,1.4078,27584
+1819,Mali,Sikasso,Yorosso,Kiffosso,12.4997,-4.9013,5827
+2029,Mali,Mopti,Douentza,Kikara,15.0028,-2.9517,36133
+881,Mali,Kayes,Kita,Kita,13.0349,-9.4895,73289
+1814,Mali,Koulikoro,Kolokani,Kolokani,13.5756,-8.0317,16074
+3645,Mali,Sikasso,Kolondieba,Kolondièba,11.079,-6.8771,18109
+1817,Mali,Mopti,Koro,Koro,14.0647,-3.0796,23260
+251,Mali,Koulikoro,Koulikoro,Koulikoro Ba,12.8876,-7.5442,51868
+882,Mali,Koulikoro,Koulikoro,Koulikoro Gare,12.8876,-7.5442,51868
+883,Mali,Mopti,Bankass,Koulogon,13.7377,-3.6265,10116
+884,Mali,Sikasso,Bougouni,Koumantou,11.4072,-6.8468,14361
+1812,Mali,Koulikoro,Kangaba,Kouremalé,11.9527,-8.7825,6691
+1818,Mali,Segou,Niono,Kourouma,14.6458,-6.0006,17474
+885,Mali,Sikasso,Yorosso,Koury,12.1832,-4.803,25020
+886,Mali,Sikasso,Koutiala,Koutiala,12.3917,-5.4642,245239
+887,Mali,Bamako,Bamako,Lafiabougou,12.637,-8.0441,535796
+888,Mali,Tombouctou,Niafunke,Lére,15.7184,-4.9013,17529
+889,Mali,Sikasso,Kadiolo,Loulouni,10.9167,-5.6667,2191
+911,Mali,Segou,Macina,Macina,13.9951,-5.7337,3447
+890,Mali,Bamako,Bamako,Magnambougou,12.6184,-7.9488,895406
+891,Mali,Bamako,Bamako,Medine,12.65,-8,780363
+2018,Mali,Gao,Menaka,Menaka,15.9154,2.4002,12634
+892,Mali,Segou,Macina,Monimpébougou,14.1475,-5.5217,4739
+252,Mali,Mopti,Mopti,Mopti Digue,14.4891,-4.1928,84455
+893,Mali,Mopti,Mopti,Mopti Guangal,14.4891,-4.1928,84455
+894,Mali,Sikasso,Koutiala,M'Pèssoba,12.6726,-5.7156,14395
+895,Mali,Koulikoro,Nara,Nara,15.1688,-7.2847,22667
+3631,Mali,Mopti,Douentza,N'gouma,15.6377,-3.3723,6213
+2039,Mali,Tombouctou,Niafunke,Niafunké,15.9322,-3.9815,16222
+896,Mali,Bamako,Bamako,Niamakoro,12.5811,-7.9596,1156545
+253,Mali,Bamako,Bamako,Niarela,12.65,-8,780363
+897,Mali,Segou,Niono,Niono,14.2526,-5.993,71214
+898,Mali,Kayes,Nioro,Nioro,15.2293,-9.5928,39636
+3632,Mali,Gao,Gao,N'tillit,15.5226,-0.4772,1520
+2019,Mali,Gao,Bourem,Ouani,16.7154,-0.2643,7658
+2020,Mali,Gao,Ansongo,Ouattagouna,15.1826,0.7201,5522
+1813,Mali,Koulikoro,Kati,Ouelessebougou,11.9891,-7.9119,28964
+899,Mali,Bamako,Bamako,Ouolofobougou,12.65,-8.0167,706068
+900,Mali,Segou,San,San,13.3033,-4.8956,75759
+2040,Mali,Tombouctou,Dire,Sareyamou,16.0881,-3.2377,4916
+901,Mali,Segou,Segou,Ségou Centre,13.4496,-6.2657,140116
+902,Mali,Segou,Segou,Ségou Château,13.4317,-6.2157,174903
+903,Mali,Segou,Niono,Shiango,14.3985,-5.9753,28213
+256,Mali,Sikasso,Sikasso,Sikasso Centre,11.3135,-5.6697,277030
+904,Mali,Sikasso,Sikasso,Sikasso Médine,11.3135,-5.6697,277030
+905,Mali,Koulikoro,Koulikoro,Sirakorola,13.2862,-7.5681,8300
+906,Mali,Bamako,Bamako,Sogoniko,12.6064,-7.9645,1173797
+907,Mali,Segou,Niono,Sokolo,14.7328,-6.1219,14370
+2021,Mali,Gao,Bourem,Taboye,16.7154,-0.2643,7663
+2022,Mali,Gao,Bourem,Temera,17.0005,-0.9529,8404
+2031,Mali,Mopti,Tenenkou,Tenenkou,14.4545,-4.9178,19000
+2023,Mali,Kidal,Tessalit,Tessalit,20.1973,1.017,1239
+2520,Mali,Kidal,Kidal,Tin essako,18.4413,1.4157,27541
+2032,Mali,Mopti,Tenenkou,Toguere Coumbe,14.9204,-4.5923,6794
+255,Mali,Tombouctou,Tombouctou,Tombouctou,16.7705,-3.0056,93047
+908,Mali,Tombouctou,Goundam,Tonka,16.1289,-3.7478,16747
+909,Mali,Segou,Bla,Touna,13.1173,-5.8303,12690
+1815,Mali,Sikasso,Yanfolila,Yanfolila,11.1773,-8.1546,24552
+4105,Mali,Kayes,Yelimane,Yélimané,15.118,-10.5755,12078
+1816,Mali,Sikasso,Yorosso,Yorosso,12.3555,-4.779,8817
+1932,Mali,Mopti,Youwarou,Youwarou,15.3769,-4.258,14076
+910,Mali,Sikasso,Sikasso,Zangasso,11.5782,-6.0273,1752
+695,Mauritania,Hodh Ech Chargi,Amourj,Adel Bagrou,15.5345,-7.0316,6714
+1611,Mauritania,Hodh El Gharbi,Aioun,Aioun,16.7,-9.6,18069
+1612,Mauritania,Brakna,Aleg,Aleg,17.0516,-13.9115,22643
+696,Mauritania,Adrar,Aoujeft,Aoujeft,19.9622,-13.0594,359
+1613,Mauritania,Adrar,Atar,Atar,20.5109,-13.0498,21745
+1614,Mauritania,Assaba,Barkeol,Barkéol,16.6404,-12.4985,3715
+689,Mauritania,Brakna,Boghe,Boghé,16.5951,-14.2599,14995
+1615,Mauritania,Guidimakha,Selibaby,Djougountourou,14.77,-12.2509,5185
+1616,Mauritania,Gorgol,Kaedi,Kaedi,16.1465,-13.5047,34026
+1357,Mauritania,Assaba,Kankossa,Kankossa,15.9389,-11.527,14122
+1617,Mauritania,Assaba,Kiffa,Kiffa,16.6171,-11.4039,30891
+1618,Mauritania,Gorgol,Kaedi,Lexeiba1,16.2158,-13.1449,6194
+1619,Mauritania,Gorgol,Maghama,Maghama,15.5092,-12.8501,11554
+690,Mauritania,Brakna,Maghta Lahjar,Magta-lahjar,17.52,-13.1,8169
+1620,Mauritania,Brakna,M'Bagne,Mbagne,16.1518,-13.7765,9445
+1621,Mauritania,Gorgol,M'Bout,Mbout,16.0229,-12.5795,12497
+691,Mauritania,Trarza,Mederdra,Mederdra,16.8964,-15.7561,184
+692,Mauritania,Tagant,Moudjeria,Moudjeria,17.8736,-12.3318,1516
+1623,Mauritania,Trarza,Keur Macene,Ndiago,16.1713,-16.5004,348
+1624,Mauritania,Hodh Ech Chargi,Nema,Nema,16.6162,-7.2535,31102
+1625,Mauritania,Dakhlet-Nouadhibou,Nouadhibou,Nouadhibou,20.9127,-17.0488,98053
+693,Mauritania,Nouakchott,Nouakchott,Nouakchott,18.1191,-16.0224,278352
+1626,Mauritania,Adrar,Ouadane,Ouadane,20.9277,-11.6214,1008
+1627,Mauritania,Guidimakha,Ould Yenge,Ould Yenge,15.52,-11.72,6828
+1628,Mauritania,Trarza,Rosso,Rosso,16.5128,-15.805,11066
+1629,Mauritania,Guidimakha,Selibaby,Selibaby,15.1589,-12.1829,41029
+1630,Mauritania,Nouakchott,Nouakchott,Socogim,18.1,-15.95,790439
+1632,Mauritania,Tagant,Tidjikja,Tidjikja,18.555,-11.4256,5136
+1396,Mauritania,Hodh El Gharbi,Tintane,Tintane,16.38,-10.17,29974
+694,Mauritania,Gorgol,Kaedi,Toufoundé-Civé,15.65,-13.2167,1708
+1635,Mauritania,Hodh El Gharbi,Tintane,Twil,15.52,-10.13,4906
+1636,Mauritania,Hodh Ech Chargi,Bassikounou,Vassala,15.5571,-5.516,30984
+1637,Mauritania,Guidimakha,Selibaby,Wompou,15.131,-12.7256,2397
+1638,Mauritania,Tiris-Zemmour,Zoueratt,Zoueiratt,22.6883,-12.4592,14433
+325,Mozambique,Zambezia,Alto_Molocue,Alto Molócuè,-15.6311,37.6883,34147
+6767,Mozambique,Cabo_Delgado,Ancuabe,Ancuabe (rural),-12.9612,39.8351,13124
+326,Mozambique,Tete,Angonia,Angónia,-14.7235,34.3642,31557
+2723,Mozambique,Cabo_Delgado,Balama,Balama,-13.3465,38.5702,33149
+2727,Mozambique,Manica,Barue,Báruè,-17.9511,33.0639,402
+316,Mozambique,Sofala,Cidade_Da_Beira,Beira,-19.8436,34.8389,177048
+2724,Mozambique,Maputo,Matutuine,Bela Vista,-26.3432,32.6736,5170
+2725,Mozambique,Maputo,Boane,Boane,-26.0409,32.3259,21857
+2726,Mozambique,Sofala,Buzi,Buzi,-19.8876,34.5921,11411
+6659,Mozambique,Tete,Cahora_Bassa,Cahora bassa (rural),-15.7218,32.6571,6171
+2728,Mozambique,Sofala,Caia,Caia,-17.8297,35.3427,46305
+2729,Mozambique,Tete,Changara,Changara,-16.9583,32.9167,4914
+6660,Mozambique,Tete,Changara,Changara (rural),-16.6136,33.3293,882
+6661,Mozambique,Sofala,Chemba,Chemba (rural),-17.1825,34.8896,8848
+6662,Mozambique,Sofala,Chibabava,Chibabava (rural),-20.3421,33.7938,2920
+2730,Mozambique,Gaza,Chibuto,Chibuto,-24.6882,33.5321,83207
+1837,Mozambique,Gaza,Mapai,Chicualacuala Mapai,-22.7346,32.0598,9121
+6756,Mozambique,Gaza,Chigubo,Chigubo (rural),-22.8388,33.4524,1
+6663,Mozambique,Niassa,Chimbonila,Chimbonila (rural),-13.4749,35.2369,4043
+327,Mozambique,Manica,Cidade_De_Chimoio,Chimoio,-19.1164,33.4833,326840
+6664,Mozambique,Cabo_Delgado,Chiure,Chiure (rural),-13.5188,39.6144,1237
+317,Mozambique,Gaza,Chokwe,Chokwe,-24.5333,32.9833,63899
+2731,Mozambique,Maputo,Cidade_Da_Matola,Cidade da Matola,-25.9366,32.4914,459975
+328,Mozambique,Niassa,Cuamba,Cuamba,-14.8447,36.6069,57718
+6665,Mozambique,Tete,Doa,Doa (rural),-16.6487,34.5719,144
+2734,Mozambique,Inhambane,Funhalouro,Funhalouro,-23.0891,34.3848,9583
+2735,Mozambique,Manica,Gondola,Gondola,-19.0943,33.6554,53478
+318,Mozambique,Sofala,Gorongosa,Gorongoza,-18.6756,34.0728,34872
+2736,Mozambique,Inhambane,Govuro,Govuro,-21.2667,34.9167,16
+6666,Mozambique,Inhambane,Govuro,Govuro (rural),-21.174,34.7991,248
+329,Mozambique,Inhambane,Cidade_De_Inhambane,Inhambane,-23.865,35.3833,59366
+2737,Mozambique,Inhambane,Inharrime,Inharrime,-24.4684,35.019,29904
+2738,Mozambique,Inhambane,Inhassoro,Inhassoro,-21.5356,35.2008,17607
+6667,Mozambique,Zambezia,Inhassunge,Inhassunge (rural),-18.0618,36.7514,12875
+6668,Mozambique,Maputo City,Cidade_De_Maputo,KaMavota,-25.9231,32.5418,657260
+6669,Mozambique,Maputo City,Cidade_De_Maputo,KaNyaka,-26.0345,32.9107,5102
+6670,Mozambique,Maputo City,Cidade_De_Maputo,KaTembe,-25.9936,32.5461,89500
+6671,Mozambique,Niassa,Lago,Lago(superficie) (rural),-12.7415,34.8824,535
+319,Mozambique,Niassa,Cidade_De_Lichinga,Lichinga,-13.3128,35.2406,232741
+2739,Mozambique,Inhambane,Mabote,Mabote,-22.0396,34.133,6223
+6672,Mozambique,Inhambane,Mabote,Mabote (rural),-22.0561,34.1453,6621
+2740,Mozambique,Niassa,Mecula,Macanga,-11.9383,37.8141,1
+6673,Mozambique,Sofala,Machanga,Machanga (rural),-20.9802,34.9814,20094
+6674,Mozambique,Manica,Machaze,Machaze (rural),-20.9971,33.3159,2689
+6675,Mozambique,Manica,Macossa,Macossa (rural),-17.7014,33.4497,8010
+2741,Mozambique,Nampula,Malema,Malema,-14.9478,37.4142,32159
+6676,Mozambique,Nampula,Malema,Malema (rural),-14.9116,37.3747,6843
+2742,Mozambique,Niassa,Mandimba,Mandimba,-14.3518,35.6505,47425
+6677,Mozambique,Gaza,Mandlakaze,Mandlakaze (rural),-24.6185,34.0274,1679
+2743,Mozambique,Maputo,Manhiça,Manhica,-25.3,32.8096,6371
+320,Mozambique,Manica,Manica,Manica,-18.9333,32.8771,47258
+321,Mozambique,Maputo City,Cidade_De_Maputo,Maputo,-25.9653,32.5892,542513
+6678,Mozambique,Tete,Marara,Marara (rural),-16.0406,33.2238,4664
+6679,Mozambique,Maputo,Marracuene,Marracuene (rural),-25.7366,32.6729,52075
+6680,Mozambique,Gaza,Massangena,Massangena (rural),-21.5419,32.8363,2111
+330,Mozambique,Inhambane,Massinga,Massinga,-23.0967,35.3378,3695
+6681,Mozambique,Gaza,Massingir,Massingir (rural),-24.2133,32.5755,1030
+331,Mozambique,Inhambane,Maxixe,Maxixe,-23.8597,35.3472,82115
+6682,Mozambique,Niassa,Mecanhelas,Mecanhelas (rural),-15.3263,36.0186,19699
+7776,Mozambique,Nampula,Muecate,Meconta (rural),-14.5736,39.5045,3358
+7547,Mozambique,Cabo_Delgado,Mecufi,Mecufi (rural),-13.1825,40.3336,218
+6683,Mozambique,Cabo_Delgado,Metuge,Metuge (rural),-12.9722,40.3828,22407
+324,Mozambique,Zambezia,Milange,Milange,-16.0986,35.77,70801
+6684,Mozambique,Zambezia,Milange,Milange (rural),-16.1063,35.7523,74454
+2746,Mozambique,Maputo,Moamba,Moamba,-25.6063,32.2444,15890
+332,Mozambique,Zambezia,Mocuba,Mocuba,-16.8375,36.9856,104981
+6685,Mozambique,Zambezia,Mocuba,Mocuba (rural),-16.7037,37.1036,7010
+6686,Mozambique,Nampula,Monapo,Monapo (rural),-14.5506,40.1848,2041
+333,Mozambique,Cabo_Delgado,Montepuez,Montepuez,-13.1256,38.9997,95099
+6687,Mozambique,Zambezia,Morrumbala,Morrumbala (rural),-17.0779,35.5516,3426
+2747,Mozambique,Inhambane,Morrumbene,Morrumbene,-23.6577,35.3445,22202
+6688,Mozambique,Manica,Mossurize,Mossurize (rural),-20.5639,32.7526,7898
+6689,Mozambique,Nampula,Muecate,Muecate (rural),-14.9027,39.6346,15979
+6690,Mozambique,Niassa,Muembe,Muembe (rural),-13.0879,35.531,4035
+2748,Mozambique,Nampula,Murrupula,Murrupula,-15.4583,38.6773,38879
+334,Mozambique,Tete,Mutarara,Mutarara,-17.44,35.0739,23484
+6691,Mozambique,Tete,Mutarara,Mutarara (rural),-17.3036,35.1534,9792
+335,Mozambique,Nampula,Nacala-A-Velha,Nacala,-14.5536,40.625,21743
+6692,Mozambique,Nampula,Nacala-A-Velha,Nacala-Velha (rural),-14.5985,40.6122,7420
+2749,Mozambique,Maputo,Namaacha,Namaacha,-25.9833,32.0177,18378
+6693,Mozambique,Maputo,Namaacha,Namaacha (rural),-25.9758,32.0151,18556
+6694,Mozambique,Zambezia,Namacurra,Namacurra (rural),-17.4945,37.0337,41502
+322,Mozambique,Nampula,Monapo,Nampula,-14.8944,40.28,57431
+2750,Mozambique,Cabo_Delgado,Namuno,Namuno,-13.6184,38.8155,24554
+6695,Mozambique,Cabo_Delgado,Namuno,Namuno (rural),-13.6267,38.8179,23930
+336,Mozambique,Sofala,Nhamatanda,Nhamatanda,-19.2692,34.2128,49975
+6696,Mozambique,Zambezia,Nicoadala,Nicoadala (rural),-17.5914,36.7716,34625
+2751,Mozambique,Inhambane,Panda,Panda,-24.0629,34.7291,10808
+6697,Mozambique,Inhambane,Panda,Panda (rural),-24.0601,34.7352,10298
+323,Mozambique,Cabo_Delgado,Cidade_De_Pemba,Pemba,-12.9608,40.5078,156798
+337,Mozambique,Zambezia,Cidade_De_Quelimane,Quelimane,-17.8786,36.8883,221678
+6698,Mozambique,Nampula,Rapale,Rapale (rural),-15.1164,39.046,11650
+338,Mozambique,Nampula,Ribaue,Ribaue,-15.0494,38.2814,10647
+6699,Mozambique,Nampula,Ribaue,Ribaue (rural),-15.0334,38.2016,4080
+6700,Mozambique,Niassa,Sanga,Sanga (rural),-12.9465,35.3102,1354
+339,Mozambique,Tete,Cidade_De_Tete,Tete,-16.1564,33.5867,208174
+2753,Mozambique,Inhambane,Vilankulo,Vilanculos,-21.9985,35.321,59180
+340,Mozambique,Gaza,Cidade_De_Xai-Xai,Xai Xai,-25.0519,33.6442,92042
+2634,Namibia,Omaheke,Gobabis,Gobabis,-22.433,18.967,26592
+2635,Namibia,Zambezi,Kongola,Katima,-17.631,24.178,839
+2638,Namibia,Karas,Keetmanshoop Urban,Keetmanshoop,-26.579,18.133,22419
+2637,Namibia,Hardap,Mariental Urban,Mariental,-24.633,17.967,15627
+2639,Namibia,Oshana,Oshakati East,Oshakati,-17.784,15.699,43051
+2633,Namibia,Otjozondjupa,Otjiwarongo,Otjiwarongo,-20.464,16.653,38774
+2640,Namibia,Erongo,Swakopmund,Swakopmund,-22.683,14.533,64621
+2636,Namibia,Khomas,Windhoek East,Windhoek,-22.57,17.084,100918
+543,Niger,Tillaberi,Abala,Abala,14.9369,3.4336,14830
+544,Niger,Tahoua,Abalak,Abalak,15.4509,6.2793,67339
+545,Niger,Agadez,Aderbissinat,Aderbissinat,15.6275,7.8945,18181
+546,Niger,Agadez,Tchighozerine,Agadez Commune,16.9733,7.9911,120677
+548,Niger,Agadez,Arlit,Arlit,18.7369,7.3853,76198
+549,Niger,Tillaberi,Ayerou,Ayorou,14.7307,0.9174,27383
+550,Niger,Tahoua,Illela,Badaguichiri,14.5245,5.3676,30377
+551,Niger,Zinder,Tanout,Bakin Birgi,14.2558,8.7949,17929
+626,Niger,Tillaberi,Tagazar,Balayara,13.7838,2.9523,22650
+553,Niger,Tillaberi,Bankillare,Bankilare,14.5765,0.7267,9012
+554,Niger,Dosso,Boboye,Birnin Gaoure,13.0817,2.911,24232
+555,Niger,Tillaberi,Tillaberi,Bonfeba,14.3801,1.2102,10702
+556,Niger,Niamey,Niamey,Bonkaney,13.5167,2.1167,534230
+557,Niger,Tahoua,Bouza,Bouza,14.4229,6.0428,32978
+558,Niger,Maradi,Guidan Roumji,Chadakori,13.6757,6.9891,18060
+1281,Niger,Diffa,Diffa,Chetimari,13.1821,12.4223,14837
+628,Niger,Maradi,Dakoro,Dakoro,14.5,6.75,38844
+560,Niger,Maradi,Madarounfa,Dan Issa,13.2048,7.2575,23648
+561,Niger,Maradi,Dakoro,Dan-Goulbi,13.9799,6.5543,7474
+562,Niger,Diffa,Diffa,Diffa Commune,13.3154,12.6113,46495
+564,Niger,Dosso,Doutchi,Dogon Kiria,14.0605,4.3536,9614
+565,Niger,Dosso,Doutchi,Dogondoutchi,13.6393,4.0287,50988
+566,Niger,Zinder,Mirriah,Dole,13.8049,8.9884,452107
+567,Niger,Dosso,Dosso,Dosso Commune,13.049,3.1937,90454
+568,Niger,Zinder,Dungass,Dungass,13.0615,9.3434,18869
+572,Niger,Dosso,Loga,Falwel,13.6432,3.2558,14989
+573,Niger,Tillaberi,Filingue,Filingue,14.3521,3.3168,18953
+574,Niger,Tahoua,Malbaza,Galmi,13.963,5.6728,38907
+575,Niger,Maradi,Tessaoua,Garare,13.7974,7.9874,35237
+576,Niger,Tahoua,Keita,Garhanga,14.5578,5.7617,8129
+577,Niger,Dosso,Gaya,Gaya,11.8843,3.4492,64716
+578,Niger,Tillaberi,Gotheye,Gotheye,13.8612,1.5661,18039
+579,Niger,Diffa,Goudoumaria,Goudoumaria,13.7109,11.1885,8167
+580,Niger,Zinder,Goure,Goure,13.9835,10.2704,13864
+581,Niger,Maradi,Guidan Roumji,Guidan Roumdji,13.6576,6.6957,43120
+582,Niger,Zinder,Goure,Guidiguir,13.6685,9.8313,8993
+583,Niger,Zinder,Mirriah,Guidimouni,13.6929,9.5124,7500
+584,Niger,Niamey,Niamey,Harobanda,13.5167,2.1167,534230
+585,Niger,Agadez,InGall,Ingall,16.7878,6.9342,10150
+586,Niger,Tahoua,Madaoua,Jataka,13.77,6.17,19170
+587,Niger,Maradi,Mayahi,Kanembakache,13.9553,7.6712,24941
+588,Niger,Tahoua,Tchintabara,Kaou,15.6,5.38,7884
+589,Niger,Tahoua,Bouza,Karofane,14.3137,6.1527,20438
+590,Niger,Niamey,Niamey,Katako,13.5167,2.1167,534230
+591,Niger,Zinder,Goure,Kazoe,14.2176,9.9709,7925
+592,Niger,Tahoua,Keita,Keita,14.7551,5.7749,25391
+593,Niger,Tillaberi,Kollo,Kirtachi,12.7936,2.4776,9220
+594,Niger,Tahoua,Konni,Konni,13.7937,5.2506,97735
+595,Niger,Maradi,Dakoro,Kornaka,14.1026,6.9011,13116
+596,Niger,Zinder,Takieta,Koundoumaoua,13.6649,8.3601,12748
+597,Niger,Dosso,Loga,Loga,13.6132,3.2358,17175
+598,Niger,Zinder,Magaria,Magaria,13.1772,8.4963,15545
+599,Niger,Maradi,Tessaoua,Maidjirgui,13.7387,8.1349,12642
+600,Niger,Diffa,Maine Soroa,Maine Soroa,13.2114,12.0241,20646
+601,Niger,Tillaberi,Ouallam,Mangaize,14.6827,1.9538,8731
+602,Niger,Maradi,Madarounfa,Maradi Commune,13.5,7.1017,482014
+603,Niger,Zinder,Kantché,Matameye,13.4231,8.4748,23372
+604,Niger,Maradi,Mayahi,Mayahi,13.9553,7.6712,24941
+605,Niger,Dosso,Dosso,Mokko,13.1764,3.272,12079
+629,Niger,Diffa,Diffa,Nguel Kolo,13.3167,12.6167,46764
+606,Niger,Diffa,N'guigmi,Nguigmi,14.2495,13.1092,34366
+607,Niger,Tillaberi,Ouallam,Ouallam,14.3188,2.0866,11934
+608,Niger,Tahoua,Madaoua,Ourno,14.2996,6.4542,16868
+609,Niger,Niamey,Niamey,Petit Marche,13.5167,2.1167,534230
+610,Niger,Maradi,Dakoro,Sabon Machi,13.9899,6.5943,4179
+611,Niger,Zinder,Magaria,Sassoumbroum,13.1172,8.4863,26043
+612,Niger,Zinder,Goure,Soubdou,13.7919,10.5344,5657
+613,Niger,Tahoua,Tahoua,Tahoua Commune,14.8888,5.2692,156938
+615,Niger,Zinder,Tanout,Tanout,14.9709,8.8879,32041
+616,Niger,Maradi,Aguie,Tchadoua,13.5464,7.4461,44623
+617,Niger,Tahoua,Tchintabara,Tchintabaraden,15.8969,5.7985,35758
+618,Niger,Tillaberi,Tera,Tera,14.0078,0.7531,27709
+619,Niger,Maradi,Tessaoua,Tessaoua,13.7574,7.9874,49912
+620,Niger,Tillaberi,Tillaberi,Tillaberi,14.2117,1.4531,34271
+627,Niger,Tillaberi,Tillaberi,Tillaberi Commune,14.2117,1.4531,34271
+622,Niger,Tillaberi,Torodi,Torodi,13.1192,1.7994,16212
+623,Niger,Tahoua,Madaoua,Tounfafi,14.2927,6.4165,18234
+624,Niger,Niamey,Niamey,Wadata,13.5167,2.1167,534230
+1463,Niger,Zinder,Mirriah,Zinder Commune,13.81,8.98,457000
+1967,Nigeria,Abia,Oboma Ngwa,Aba,5.1476,7.3567,333101
+2394,Nigeria,Borno,Konduga,Abba Gamaram,11.8582,13.1549,588609
+2388,Nigeria,Yobe,Karasuwa,Bade (Gashua),12.8687,11.0396,92569
+2385,Nigeria,Borno,Konduga,Baga Road,11.868,13.1233,165317
+3202,Nigeria,Borno,Konduga,Bama,11.5229,13.6892,84229
+6431,Nigeria,Borno,Konduga,Banki,11.5355,13.6977,80388
+3198,Nigeria,Yobe,Damaturu,Bayantasha,11.7443,11.9629,91840
+1968,Nigeria,Borno,Biu,Biu,10.6111,12.195,114926
+3073,Nigeria,Borno,Konduga,Bolori Stores,11.8526,13.1415,520631
+2384,Nigeria,Borno,Maiduguri,Budum,11.8497,13.1634,731592
+2386,Nigeria,Borno,Konduga,Bullunkutu,11.8298,13.0926,105245
+2401,Nigeria,Yobe,Borsari,Bursari,12.4967,11.4995,8356
+2395,Nigeria,Borno,Maiduguri,Custom,11.8507,13.1712,732942
+6439,Nigeria,Yobe,Fune,Damagum,11.6788,11.3383,55216
+1040,Nigeria,Borno,Mobbar,Damassack (CBM),13.01,12.56,4585
+1969,Nigeria,Yobe,Damaturu,Damaturu,11.7444,11.9611,91621
+2391,Nigeria,Yobe,Damaturu,Damaturu (Sunday Market),11.7398,11.9558,90387
+3177,Nigeria,Borno,Damboa,Damboa,11.1576,12.7598,121075
+1970,Nigeria,Katsina,Dandume,Dandume,11.4167,7.2,26956
+1976,Nigeria,Kano,Dawakin Tofa,Dawanau,12.0901,8.4291,136661
+3192,Nigeria,Borno,Mafa,Dikwa Central,12.0369,13.9131,102414
+3193,Nigeria,Borno,Maiduguri,Gamboru,11.8525,13.1709,714413
+2393,Nigeria,Yobe,Geidam,Geidam,12.8903,11.9212,40723
+1971,Nigeria,Kaduna,Giwa,Giwa,11.2802,7.4179,33148
+1972,Nigeria,Gombe,Akko,Gombe,10.2833,11.1667,224598
+2390,Nigeria,Yobe,Gujba,Gujba (Buni Yadi),11.2852,11.9995,46763
+1973,Nigeria,Jigawa,Kaugama,Gujungu,12.3623,9.5836,34773
+2400,Nigeria,Yobe,Gulani,Gulani (Tettaba),10.8139,11.7282,6922
+1974,Nigeria,Kebbi,Gwandu,Gwandu,12.4938,4.6423,29876
+3189,Nigeria,Borno,Gwoza,Gwoza Central,11.0872,13.6998,147200
+1975,Nigeria,Oyo,Ibadan North,Ibadan,7.402,3.9173,1196957
+1037,Nigeria,Sokoto,Gada,Illela (CBM),13.645,5.278,13299
+2399,Nigeria,Yobe,Jakusko,Jakusko,12.2019,10.8782,10232
+1038,Nigeria,Katsina,Jibia,Jibia (CBM),13.08,7.24,69753
+3184,Nigeria,Borno,Maiduguri,Kashuwan Shanu,11.8587,13.178,642436
+1977,Nigeria,Zamfara,Kaura Namoda,Kaura Namoda,12.5952,6.5863,154206
+3173,Nigeria,Borno,Konduga,Konduga,11.655,13.4197,9666
+2396,Nigeria,Borno,Maiduguri,Kusawam Shanu,11.8589,13.176,643875
+1978,Nigeria,Lagos,Kosofe,Lagos,6.6122,3.4019,941729
+8021,Nigeria,Yobe,Machina,Machina Central,12.9176,9.9001,6385
+3175,Nigeria,Adamawa,Madagali,Madagali,10.8898,13.6274,55356
+6423,Nigeria,Borno,Mafa,Mafa,11.9236,13.6009,29715
+1039,Nigeria,Katsina,Mai'Adua,Mai Adoua (CBM),13.18,8.23,53018
+1041,Nigeria,Jigawa,Maigatari,Mai Gatari (CBM),12.78,9.44,57255
+1979,Nigeria,Borno,Maiduguri,Maiduguri,11.8311,13.151,768436
+3188,Nigeria,Adamawa,Michika,Michika,10.572,13.5296,9345
+2397,Nigeria,Borno,Maiduguri,Monday,11.8346,13.1524,778136
+3171,Nigeria,Borno,Guzamala,Monguno,12.6722,13.6184,63223
+1980,Nigeria,Adamawa,Hong,Mubi,10.2676,13.2644,164338
+2387,Nigeria,Yobe,Nguru,Nguru,12.873,10.4456,118698
+1981,Nigeria,Yobe,Potiskum,Potiskum,11.7072,11.0825,265672
+6432,Nigeria,Borno,Gwoza,Pulka,11.2277,13.7809,55575
+1982,Nigeria,Kaduna,Lere,Saminaka,10.4165,8.6814,94144
+6879,Nigeria,Borno,Shani,Shani Main Market,10.2227,12.052,25051
+2398,Nigeria,Borno,Maiduguri,Tashan Bama,11.811,13.1821,743185
+2392,Nigeria,Yobe,Yunusari,Yunusari,13.1498,11.5402,7928
+2389,Nigeria,Yobe,Yusufari,Yusufari,13.0627,11.1714,8866
+2630,Republic of Moldova,Tighina,Causeni,Causeni,46.642,29.409,18198
+2631,Republic of Moldova,Chisinau,Chisinau,Chisinau,47.027,28.842,331635
+1046,Rwanda,Northern Province,Gakenke,Base,-1.65,29.8747,43722
+1383,Rwanda,Eastern Province,Bugesera,Batiment,-2.1456,30.0914,51015
+1045,Rwanda,Western Province,Rutsiro,Birambo,-1.918,29.4497,38015
+2373,Rwanda,Eastern Province,Gatsibo,Bubare,-1.5951,30.2545,61519
+1047,Rwanda,Western Province,Nyamasheke,Bugarama,-2.3321,29.2128,44118
+1400,Rwanda,Southern Province,Ruhango,Buhanda,-2.2291,29.6617,49707
+1560,Rwanda,Western Province,Nyamasheke,Bumazi,-2.45,29,48923
+1049,Rwanda,Western Province,Nyamasheke,Bushenge,-2.4268,29.0021,55354
+1050,Rwanda,Southern Province,Huye,Butare,-2.6038,29.7431,109706
+1051,Rwanda,Northern Province,Musanze,Byangabo,-1.559,29.5494,71774
+1052,Rwanda,Northern Province,Gicumbi,Byumba,-1.5775,30.0625,94342
+1053,Rwanda,Western Province,Rutsiro,Congo - Nil,-1.9577,29.3843,44833
+1491,Rwanda,Northern Province,Gicumbi,Gacurabwenge,-1.5815,30.0674,92837
+1054,Rwanda,Kigali City,Kicukiro,Gahanga,-1.9769,30.1058,418395
+1055,Rwanda,Western Province,Rutsiro,Gakeli,-1.9464,29.4846,40160
+1056,Rwanda,Northern Province,Gakenke,Gakenke,-1.6483,29.7999,46412
+1057,Rwanda,Southern Province,Nyamagabe,Gasarenda,-2.506,29.4813,51794
+1058,Rwanda,Northern Province,Rulindo,Gaseke,-1.6155,29.9248,52122
+1059,Rwanda,Southern Province,Kamonyi,Gashyushya,-2.045,29.8419,50383
+1060,Rwanda,Eastern Province,Kirehe,Gatore,-2.2779,30.5868,44500
+2380,Rwanda,Southern Province,Gisagara,Gatunda,-2.7415,29.8454,36679
+2356,Rwanda,Northern Province,Gicumbi,Gicumbi,-1.5769,30.0682,92004
+2355,Rwanda,Northern Province,Gicumbi,Gihembe (Camp),-1.5975,30.0765,91101
+1062,Rwanda,Southern Province,Nyamagabe,Gikongoro,-2.464,29.5739,72275
+7389,Rwanda,Southern Province,Gisagara,Gisagara,-2.5972,29.8381,37977
+1063,Rwanda,Western Province,Administrative unit not available,Gisenyi,-1.7028,29.2564,193462
+1401,Rwanda,Southern Province,Huye,Huye,-2.5805,29.716,78641
+1065,Rwanda,Southern Province,Nyamagabe,Kabacuzi,-2.4738,29.5819,73607
+1066,Rwanda,Eastern Province,Kayonza,Kabarondo,-2.0172,30.5486,50251
+1067,Rwanda,Western Province,Ngororero,Kabaya,-1.747,29.5431,55468
+2363,Rwanda,Eastern Province,Kirehe,Kabeza,-2.3068,30.8348,18701
+1068,Rwanda,Southern Province,Gisagara,Kabuga,-2.6883,29.855,49388
+2357,Rwanda,Northern Province,Gicumbi,Kageyo,-1.6047,30.08,86819
+1070,Rwanda,Western Province,Rusizi,Kamembe,-2.4798,28.9022,65072
+1484,Rwanda,Southern Province,Huye,Karambi,-2.5064,29.6126,57243
+1402,Rwanda,Northern Province,Gakenke,Karenge,-1.6407,29.8157,45955
+2377,Rwanda,Western Province,Karongi,Karongi,-2.0691,29.3508,36262
+1072,Rwanda,Southern Province,Kamonyi,Kayenzi,-1.8986,29.85,41579
+1073,Rwanda,Southern Province,Gisagara,Kibirizi,-2.6503,29.7817,65874
+1074,Rwanda,Eastern Province,Ngoma,Kibungo,-2.1644,30.5419,56948
+1487,Rwanda,Western Province,Karongi,Kibuye (Karongi),-2.0556,29.3497,33971
+1075,Rwanda,Kigali City,Kicukiro,Kicukiro,-1.9769,30.1058,418395
+1076,Rwanda,Kigali City,Nyarugenge,Kigali,-1.9536,30.0606,617808
+2359,Rwanda,Southern Province,Nyamagabe,Kigeme,-2.4855,29.5234,52971
+2371,Rwanda,Southern Province,Nyamagabe,Kigeme (Camp),-2.4826,29.5227,52203
+2364,Rwanda,Eastern Province,Kirehe,Kigufi,-2.2377,30.8047,34973
+1403,Rwanda,Eastern Province,Gatsibo,Kimironko,-1.7528,30.345,52221
+1077,Rwanda,Kigali City,Nyarugenge,Kimisagara,-1.9536,30.0606,617808
+1404,Rwanda,Eastern Province,Bugesera,Kinazi,-2.1434,30.0935,51361
+1078,Rwanda,Western Province,Nyamasheke,Kirambo,-2.3155,29.1415,49337
+1079,Rwanda,Eastern Province,Gatsibo,Kiramuruzi,-1.8015,30.3989,57508
+2379,Rwanda,Western Province,Karongi,Kivuruga,-2.1587,29.3882,40122
+2361,Rwanda,Eastern Province,Kirehe,Kiyanzi,-2.3548,30.7616,34228
+1485,Rwanda,Southern Province,Huye,Kizi,-2.5297,29.653,42492
+2376,Rwanda,Western Province,Karongi,Kiziba (Camp),-2.1298,29.3552,41752
+1080,Rwanda,Western Province,Rubavu,Kora,-1.5989,29.3822,91097
+2368,Rwanda,Eastern Province,Kirehe,Mahama (Camp),-2.3068,30.8394,16350
+1081,Rwanda,Western Province,Rubavu,Mahoko,-1.7,29.3333,134265
+1561,Rwanda,Eastern Province,Nyagatare,Matimba,-1.1137,30.4271,52738
+1486,Rwanda,Southern Province,Nyaruguru,Miko,-2.6718,29.6081,35522
+2378,Rwanda,Western Province,Karongi,Mubuga,-2.1375,29.3136,42369
+2374,Rwanda,Eastern Province,Gatsibo,Mugera,-1.6043,30.2785,60278
+1405,Rwanda,Southern Province,Kamonyi,Mugina,-2.1028,29.9525,52011
+2381,Rwanda,Southern Province,Gisagara,Mugombwa,-2.6775,29.8474,44260
+2367,Rwanda,Southern Province,Gisagara,Mugombwa (Camp),-2.675,29.8496,45879
+1406,Rwanda,Southern Province,Huye,Muhanga,-2.4309,29.6753,39786
+1489,Rwanda,Northern Province,Burera,Muhondo,-1.5985,29.8771,39532
+1084,Rwanda,Western Province,Nyabihu,Mukamira,-1.6145,29.5126,66406
+1085,Rwanda,Northern Province,Gicumbi,Mukarange,-1.5281,30.0786,40565
+1086,Rwanda,Kigali City,Nyarugenge,Mulindi,-1.9536,30.0606,617730
+2365,Rwanda,Eastern Province,Kirehe,Munini,-2.3071,30.8248,27982
+1087,Rwanda,Northern Province,Musanze,Musanze,-1.5013,29.609,137889
+1088,Rwanda,Eastern Province,Rwamagana,Musha,-1.9158,30.3419,52822
+1089,Rwanda,Southern Province,Nyanza,Ndago,-2.4167,29.8833,46138
+2362,Rwanda,Eastern Province,Kirehe,Nganda,-2.3244,30.59,38021
+7312,Rwanda,Eastern Province,Gatsibo,Ngarama,-1.5397,30.2415,52758
+1407,Rwanda,Western Province,Nyabihu,Ngororero,-1.6458,29.6196,46471
+1488,Rwanda,Northern Province,Musanze,Nkora,-1.5245,29.67,112852
+1408,Rwanda,Southern Province,Huye,Nkoto,-2.5623,29.6645,38998
+1490,Rwanda,Eastern Province,Rwamagana,Ntunga,-1.9574,30.3547,52410
+2375,Rwanda,Eastern Province,Gatsibo,Ntungaruze,-1.5958,30.272,63207
+2372,Rwanda,Eastern Province,Gatsibo,Nyabiheke (Camp),-1.5954,30.2593,60213
+1091,Rwanda,Kigali City,Nyarugenge,Nyabugogo,-1.9536,30.0606,617808
+8119,Rwanda,Eastern Province,Gatsibo,Nyagahanga,-1.6135,30.2212,42384
+1092,Rwanda,Western Province,Rutsiro,Nyagahanika,-1.799,29.3285,60727
+1093,Rwanda,Eastern Province,Nyagatare,Nyagatare,-1.2983,30.3219,59005
+1095,Rwanda,Eastern Province,Kirehe,Nyakarambi,-2.2741,30.6759,46656
+1096,Rwanda,Eastern Province,Bugesera,Nyamata,-2.2075,30.2436,26931
+1097,Rwanda,Kigali City,Nyarugenge,Nyamirambo,-1.9403,30.0653,613813
+2360,Rwanda,Eastern Province,Kirehe,Nyamugari,-2.2759,30.7667,36189
+1098,Rwanda,Southern Province,Huye,Nyanza,-2.5817,29.7217,81474
+1885,Rwanda,Kigali City,Nyarugenge,Nyarugenge,-1.9567,30.0636,628896
+1100,Rwanda,Western Province,Nyabihu,Rambura,-1.6757,29.5166,55726
+1101,Rwanda,Western Province,Rubavu,Rubavu,-1.6825,29.2969,204417
+8118,Rwanda,Western Province,Karongi,Rubengera,-2.0604,29.4081,68009
+1102,Rwanda,Northern Province,Rulindo,Rugarama,-1.6279,29.9304,53444
+1103,Rwanda,Southern Province,Huye,Rugogwe,-2.4912,29.7252,46426
+1409,Rwanda,Northern Province,Gakenke,Ruhango,-1.6455,29.7199,39045
+1104,Rwanda,Northern Province,Musanze,Ruhengeri,-1.5042,29.6358,147791
+1105,Rwanda,Eastern Province,Bugesera,Ruhuha,-2.1456,30.0914,51015
+1106,Rwanda,Northern Province,Gicumbi,Rukomo,-1.629,30.1039,53914
+1107,Rwanda,Northern Province,Gakenke,Rushashi,-1.739,29.8693,32415
+2366,Rwanda,Eastern Province,Kirehe,Rushonga,-2.1928,30.8347,17405
+1562,Rwanda,Northern Province,Rulindo,Rusine,-1.8081,30.1253,44766
+1410,Rwanda,Eastern Province,Kirehe,Rusumo,-2.2731,30.7092,42496
+2358,Rwanda,Northern Province,Gicumbi,Ruyaga,-1.5906,30.0776,90861
+1109,Rwanda,Eastern Province,Gatsibo,Rwagitima,-1.798,30.4158,55105
+1110,Rwanda,Eastern Province,Rwamagana,Rwamagana,-1.9487,30.4347,73024
+1411,Rwanda,Western Province,Nyabihu,Vunga,-1.6871,29.6284,50848
+405,Senegal,Tambacounda,Bakel,Bakel,14.9024,-12.4594,20034
+406,Senegal,Diourbel,Bambey,Bambey,14.7007,-16.4591,61311
+407,Senegal,Ziguinchor,Bignona,Bignona,12.8103,-16.2264,35372
+698,Senegal,Kaffrine,Birkelane,Birkelane,14.1282,-15.7469,20472
+408,Senegal,Dakar,Dakar,Castors,14.7264,-17.4486,1244341
+409,Senegal,Saint Louis,Dagana,Dagana,16.4767,-15.6,7468
+410,Senegal,Dakar,Dakar,Dakar,14.6836,-17.45,703181
+411,Senegal,Fatick,Fatick,Diakhao,14.4667,-16.3,15293
+699,Senegal,Kaffrine,Birkelane,Diama Gadio,13.7862,-15.422,15842
+412,Senegal,Kolda,Kolda,Diaobe,12.7,-14.4,2760
+453,Senegal,Kaffrine,Kaffrine,Dioli Mandakh,13.9833,-15.3333,7886
+413,Senegal,Diourbel,Diourbel,Diourbel,14.6512,-16.2335,147718
+454,Senegal,Saint Louis,Podor,Dodel,16.4855,-14.4285,14000
+414,Senegal,Fatick,Fatick,Fatick,14.3346,-16.4045,47361
+1397,Senegal,Saint Louis,Podor,Galoya,16.07,-13.8488,13300
+415,Senegal,Fatick,Fatick,Gossas,14.4972,-16.2342,12084
+416,Senegal,Louga,Louga,Gouille Mbeuth,15.6743,-16.0303,10219
+457,Senegal,Dakar,Dakar,Gueule Tapee,14.6842,-17.4578,726446
+417,Senegal,Kaffrine,Kaffrine,Kaffrine,14.0999,-15.5512,60950
+418,Senegal,Kaolack,Kaolack,Kaolack,14.1649,-16.0744,274129
+419,Senegal,Kedougou,Kedougou,Kedougou,12.4833,-11.95,1877
+420,Senegal,Fatick,Foundiougne,Keur I. Yacine,13.868,-16.243,11462
+421,Senegal,Kolda,Kolda,Kolda,12.8833,-14.95,108509
+422,Senegal,Kaffrine,Koungheul,Koungueul,13.9833,-14.8,30602
+423,Senegal,Tambacounda,Koumpentoum,Kouthiaba,14.1833,-14.4667,4526
+424,Senegal,Louga,Louga,Louga,15.6187,-16.2244,106213
+425,Senegal,Kaffrine,Birkelane,Mabo,13.9167,-15.6833,13663
+1543,Senegal,Kedougou,Kedougou,Mako,12.8555,-12.3506,5766
+426,Senegal,Matam,Matam,Matam,15.6175,-13.3303,39901
+427,Senegal,Thies,Mbour,Mbafaye,14.5667,-16.7833,9943
+428,Senegal,Fatick,Gossas,Mbar,14.5381,-15.7587,11382
+429,Senegal,Tambacounda,Koumpentoum,Mereto,13.8167,-14.45,4930
+1544,Senegal,Fatick,Foundiougne,Missirah,13.6804,-16.5013,4946
+430,Senegal,Saint Louis,Saint Louis,Mpal,15.9139,-16.2599,15633
+431,Senegal,Louga,Kebemer,Ndiagne,15.1028,-15.9642,2916
+432,Senegal,Diourbel,Diourbel,Ndindy,14.8833,-16.2167,12001
+697,Senegal,Kaolack,Kaolack,N'Doffane,13.9192,-15.9259,25986
+451,Senegal,Kaolack,Nioro Du Rip,Ndrame Escale,13.8,-16.1667,15855
+433,Senegal,Matam,Kanel,Orkodiere,15.2821,-12.9611,18087
+434,Senegal,Matam,Matam,Ourossogui,15.6,-13.3167,35746
+435,Senegal,Ziguinchor,Oussouye,Oussouye,12.485,-16.5469,10915
+436,Senegal,Fatick,Foundiougne,Passy,13.9833,-16.2667,30597
+437,Senegal,Kaolack,Nioro Du Rip,Porokhane,13.7,-15.8333,29533
+5234,Senegal,Saint Louis,Dagana,Ross Béthio,16.2781,-16.1401,18120
+1398,Senegal,Saint Louis,Dagana,Rosso,16.5,-15.8167,13366
+438,Senegal,Louga,Kebemer,Sagatta,15.2758,-16.1739,8871
+440,Senegal,Saint Louis,Saint Louis,Saint-Louis,16.0246,-16.4895,162053
+455,Senegal,Ziguinchor,Ziguinchor,Saint-Maur,12.5833,-16.2719,185810
+1542,Senegal,Kedougou,Salemata,Salémata,12.6342,-12.8199,7566
+700,Senegal,Diourbel,Bambey,Sandjara,14.7,-16.4333,52897
+439,Senegal,Kolda,Kolda,Sare Yoba,12.7658,-15.1075,11002
+452,Senegal,Sedhiou,Sedhiou,Sedhiou,12.7081,-15.5569,40555
+441,Senegal,Tambacounda,Tambacounda,Tambacounda,13.7539,-13.7586,4582
+442,Senegal,Dakar,Pikine,Thiaroye,14.7425,-17.3794,1262710
+443,Senegal,Thies,Thies,Thies,14.7915,-16.9256,288365
+444,Senegal,Saint Louis,Podor,Thille Boubacar,16.5167,-15.0833,20932
+445,Senegal,Thies,Tivaoune,Thilmakha,15.0301,-16.2502,10339
+446,Senegal,Matam,Matam,Thiodaye,15.9922,-13.6638,23235
+447,Senegal,Dakar,Dakar,Tilene,14.685,-17.4573,737114
+448,Senegal,Diourbel,Mbacke,Touba,14.85,-15.8833,530367
+5233,Senegal,Fatick,Foundiougne,Touba Mourid,13.8013,-16.3278,12691
+449,Senegal,Thies,Thies,Touba Toul,14.8167,-16.6667,33729
+456,Senegal,Matam,Ranerou,Velingara,15,-14.6667,2129
+450,Senegal,Ziguinchor,Ziguinchor,Zigiunchor,12.5833,-16.2719,185810
+341,Sierra Leone,Southern,Bonthe,Bo,7.5403,-12.26,4003
+1776,Sierra Leone,Northern,Bombali,Bombali,9.2476,-12.1633,6658
+1774,Sierra Leone,Southern,Bonthe,Bonthe,7.5257,-12.504,14724
+1772,Sierra Leone,Western Area,Western Urban,Freetown,8.4657,-13.2317,877903
+344,Sierra Leone,Eastern,Kailahun,Kailahun,8.2833,-10.5667,42504
+1789,Sierra Leone,North Western,Kambia,Kambia,9.1167,-12.9167,43238
+342,Sierra Leone,Eastern,Kenema,Kenema,7.8767,-11.1875,251349
+1773,Sierra Leone,Northern,Koinadugu,Koinadugu,9.5169,-11.3636,3146
+1788,Sierra Leone,Eastern,Kono,Kono,8.646,-10.9754,107867
+1775,Sierra Leone,Southern,Moyamba,Moyamba,8.1621,-12.4352,14832
+345,Sierra Leone,North Western,Port Loko,Port Loko,8.7667,-12.7833,42991
+350,Sierra Leone,Southern,Pujehun,Pujehun,7.3581,-11.7208,33504
+1777,Sierra Leone,Northern,Tonkolili,Tonkolili,8.9804,-11.7948,5839
+2107,Somalia,Shabelle Hoose,Afgooye,Afgooye,2.1416,45.1187,17145
+2106,Somalia,Juba Hoose,Afmadow,Afmadow,0.5149,42.073,13040
+2110,Somalia,Bay,Baydhaba,Baidoa,3.1172,43.6469,121112
+6634,Somalia,Banadir,Banadir,Bakaara,2.048,45.32,1030380
+2109,Somalia,Shabelle Dhexe,Balcad,Balcad,2.3593,45.3896,22803
+6614,Somalia,Gedo,Belet Xaawo,Belet Xaawo,3.7807,41.8943,3901
+1894,Somalia,Hiraan,Belet Weyne,Beletweyne,4.7358,45.2036,72575
+1412,Somalia,Woqooyi Galbeed,Berbera,Berbera,10.4425,45.0147,73798
+1413,Somalia,Awdal,Borama,Borama,9.9387,43.1839,181964
+1414,Somalia,Bari,Bossaso,Bossaso,11.26,49.18,238325
+2570,Somalia,Juba Dhexe,Bu'aale,Buale,1.08,42.58,5972
+2099,Somalia,Hiraan,Bulo Burto,Buloburto,3.8519,45.5651,19353
+1415,Somalia,Togdheer,Burco,Burco,9.5275,45.5375,109578
+6599,Somalia,Nugaal,Burtinle,Burtinle,7.6416,47.831,12076
+6604,Somalia,Galgaduud,Cabudwaaq,Cabudwaaq,6.2418,46.3072,806
+6605,Somalia,Galgaduud,Cadaado,Cadaado,6.1457,46.6271,22312
+6611,Somalia,Shabelle Dhexe,Cadale,Cadale,2.7568,46.319,2037
+6622,Somalia,Bakool,Ceel Barde,Ceel Barde,4.8282,43.6599,8203
+6616,Somalia,Gedo,Ceel Waaq,Ceel Waaq,2.7877,40.9983,12340
+1416,Somalia,Sanaag,Ceerigaabo,Ceerigaabo,10.6218,47.3681,24084
+2100,Somalia,Galgaduud,Dhuusamarreeb,Dhuusamarreeb,5.5376,46.3867,17958
+2575,Somalia,Bay,Diinsoor,Dinsoor,2.41,42.98,18054
+2102,Somalia,Gedo,Doolow,Doolow,4.1636,42.0762,6631
+2098,Somalia,Nugaal,Eyl,Eyl,7.9794,49.8177,13731
+1417,Somalia,Mudug,Gaalkacyo,Gaalkacyo,6.7727,47.4243,74983
+1418,Somalia,Nugaal,Garoowe,Garowe,8.4,48.48,74328
+1419,Somalia,Woqooyi Galbeed,Hargeysa,Hargeysa,9.5597,44.0668,381494
+6602,Somalia,Mudug,Hobyo,Hobyo,5.3474,48.5262,4450
+6608,Somalia,Hiraan,Jalalaqsi,Jalalaqsi,3.3834,45.5969,21788
+2097,Somalia,Mudug,Jariiban,Jariiban,7.2134,48.851,11380
+2108,Somalia,Shabelle Dhexe,Jowhar,Jowhar,2.7809,45.4968,54101
+2104,Somalia,Banadir,Banadir,Karaan,2.0652,45.39,931820
+2105,Somalia,Juba Hoose,Kismaayo,Kismayo,-0.3603,42.5463,206450
+2590,Somalia,Sool,Laas Caanood,Laas Caanood,8.48,47.36,37629
+6618,Somalia,Gedo,Luuq,Luuq,3.8,42.5446,19518
+4631,Somalia,Shabelle Hoose,Marka,Marka (Shabelle Hoose),1.71,44.76,97606
+2096,Somalia,Togdheer,Owdweyne,Owdweyne,9.407,45.0636,2080
+6621,Somalia,Bay,Qansax Dheere,Qansax Dheere,2.8712,43.0043,15116
+1420,Somalia,Bari,Qardho,Qardho,9.5031,49.0883,38618
+2597,Somalia,Shabelle Hoose,Qoryooley,Qorioley,1.78,44.53,56055
+6625,Somalia,Bakool,Rab Dhuure,Rab Dhuure,4.3505,43.1636,3205
+6592,Somalia,Sool,Taleex,Taleex,9.1484,48.4208,6733
+6593,Somalia,Sool,Xudun,Xudun,9.1542,47.4754,5823
+2103,Somalia,Bakool,Xudur,Xudur,4.123,43.8901,9892
+6930,South Sudan,Warrap,Twic,Abyei,9.3455,28.2759,96
+6081,South Sudan,Jonglei,Akobo,Akobo,7.7921,33.0057,34719
+3026,South Sudan,Unity,Abiemnhom,Aniet,9.5686,28.9758,1
+1384,South Sudan,Northern Bahr el Ghazal,Aweil Centre,Aweil Town,8.7428,27.41,12769
+1385,South Sudan,Unity,Rubkona,Bentiu,9.2333,29.8333,7157
+1386,South Sudan,Jonglei,Bor South,Bor,6.21,31.57,74201
+3027,South Sudan,Upper Nile,Maban,Bunj,9.96,33.7264,8138
+5867,South Sudan,Northern Bahr el Ghazal,Aweil North,Gokmachar,9.218,26.8667,5984
+6092,South Sudan,Central Equatoria,Juba,Gorom,4.4526,31.2639,692
+1391,South Sudan,Western Bahr el Ghazal,Wau,Jau,7.7011,27.9897,75622
+3030,South Sudan,Eastern Equatoria,Kapoeta South,Kapoeta South,4.7667,33.5944,111027
+7431,South Sudan,Upper Nile,Fashoda,Kodok,9.8903,32.1075,10020
+1388,South Sudan,Central Equatoria,Juba,Konyokonyo,4.846,31.6012,98701
+1387,South Sudan,Warrap,Gogrial West,Kuajok,8.4717,28.1239,2662
+3031,South Sudan,Western Equatoria,Yambio,Makpandu,4.7399,28.6798,3035
+1389,South Sudan,Upper Nile,Malakal,Malakal,9.5334,31.6605,113024
+7851,South Sudan,Northern Bahr el Ghazal,Aweil South,Malek Alel,8.598,27.5918,4562
+3029,South Sudan,Upper Nile,Melut,Melut,10.4469,32.2089,8695
+2241,South Sudan,Lakes,Awerial,Minkaman,6.0499,31.5151,7412
+5866,South Sudan,Northern Bahr el Ghazal,Aweil West,Nyamlel,9.12,26.9975,9545
+7429,South Sudan,Jonglei,Fangak,Old Fangak,9.0671,30.8812,8061
+7219,South Sudan,Jonglei,Pibor,Pibor,6.8017,33.1307,9214
+3025,South Sudan,Unity,Rubkona,Rubkona,9.2872,29.7881,14469
+1390,South Sudan,Lakes,Rumbek Centre,Rumbek,6.8,29.6833,61801
+3028,South Sudan,Upper Nile,Renk,Suk Shabi,11.7416,32.815,67980
+6348,South Sudan,Warrap,Tonj South,Tonj,7.2675,28.679,10604
+1786,South Sudan,Eastern Equatoria,Torit,Torit,4.4102,32.574,204093
+5865,South Sudan,Northern Bahr el Ghazal,Aweil East,Wanjok,9.0117,27.5698,7802
+2240,South Sudan,Warrap,Twic,Wunrok,8.9901,28.3048,8809
+2239,South Sudan,Western Equatoria,Yambio,Yambio,4.5508,28.4167,37761
+2057,South Sudan,Unity,Pariang,Yida,10.1141,29.9781,21
+7857,South Sudan,Jonglei,Uror,Yuai,7.9112,31.8894,16292
+1025,Sudan,North Darfur,El Fasher,Al Fashir,13.6333,25.35,175158
+1026,Sudan,Blue Nile,Damazin,Damazin,11.7891,34.3592,103205
+2577,Sudan,Northern,Dongola,Dongola,19.17,30.47,38300
+9030,Sudan,Nile,Eldamar,Ed Damer,17.5799,33.9697,51109
+1027,Sudan,Eastern Darfur,Ed Daein,Eddein,11.4333,26.15,89553
+1823,Sudan,West Kordofan,El Salam,El Fula,11.7315,28.3579,12859
+2580,Sudan,Gedaref,Al Gedaref Rural,El Gedarif,14.04,35.38,283289
+1028,Sudan,West Darfur,El Geneina,El Geneina,13.45,22.45,86769
+1029,Sudan,North Kordofan,Shiekan,El Obeid,13.1883,30.2186,270387
+1030,Sudan,South Kordofan,Kadugli,Kadugli,11.0167,29.7167,9874
+1031,Sudan,Kassala,Kassala,Kassala,15.457,36.4001,274319
+2588,Sudan,Khartoum,Jebal Aulya,Khartoum,15.5126,32.5436,513662
+1032,Sudan,White Nile,Kosti,Kosti,13.1667,32.6667,186315
+1033,Sudan,South Darfur,Nyala,Nyala,12.05,24.8833,251980
+1034,Sudan,Red Sea,Port Sudan,Port Sudan,19.6158,37.2164,297271
+9031,Sudan,Sennar,Sinjja,Singa,13.1447,33.9279,69696
+5640,Sudan,Al Gezira,Wad Madani El Kobra,Wad Medani,14.4005,33.5233,249835
+1824,Sudan,Central Darfur,Zalingei,Zalingi,12.9,23.48,21114
+1949,Syrian Arab Republic,Aleppo,Afrin,Afrin,36.4527,36.8169,3549
+1144,Syrian Arab Republic,Aleppo,Al Bab,Al Bab,36.3725,37.5178,71476
+2679,Syrian Arab Republic,Dar'a,Dar'a,Al Balad,32.605,36.0964,78891
+2244,Syrian Arab Republic,Quneitra,Al Fiq,Al Fiq,32.8761,35.8771,2723
+2691,Syrian Arab Republic,Aleppo,Jebel Saman,Al Hamdaneya,36.1715,37.1068,580199
+2690,Syrian Arab Republic,Quneitra,Quneitra,Al Kom,33.2039,35.9474,44011
+2682,Syrian Arab Republic,Homs,Al Makhrim,Al Makhrim,34.8522,37.0049,7102
+2522,Syrian Arab Republic,Homs,Homs,Al Malaab,34.7303,36.7168,416772
+1548,Syrian Arab Republic,Deir-ez-Zor,Al Mayadin,Al Mayadin,35.0167,40.45,61830
+2680,Syrian Arab Republic,Damascus,Damascus,Al Midan,33.4933,36.2981,1201950
+2678,Syrian Arab Republic,Ar-Raqqa,Ath-Thawrah,Al Tabqah,35.837,38.543,69581
+1930,Syrian Arab Republic,Homs,Homs,Al Waer,34.7421,36.676,251953
+1546,Syrian Arab Republic,Aleppo,Jebel Saman,Al-Cha'ar,36.207,37.1815,759860
+1142,Syrian Arab Republic,Aleppo,Jebel Saman,Aleppo,36.2028,37.1586,904076
+1124,Syrian Arab Republic,Al-Hasakeh,Al-Hasakeh,Al-Hasakeh,36.4817,40.7562,156962
+1127,Syrian Arab Republic,Ar-Raqqa,Ar-Raqqa,Ar-Raqqa,35.95,39.0167,137865
+1927,Syrian Arab Republic,Homs,Ar-Rastan,Ar-Rastan,34.9168,36.7333,62051
+2675,Syrian Arab Republic,Aleppo,As-Safira,As-Safira,36.0792,37.3728,59969
+1948,Syrian Arab Republic,Hama,As-Salamiyeh,As-Salamiyeh,35.0179,37.0712,48428
+1119,Syrian Arab Republic,Dar'a,As-Sanamayn,As-Sanamayn,33.0735,36.183,32033
+2683,Syrian Arab Republic,Hama,As-Suqaylabiyah,As-Suqaylabiyah,35.3629,36.3965,33720
+1559,Syrian Arab Republic,As-Sweida,As-Sweida,As-Sweida,32.7,36.5667,67530
+2676,Syrian Arab Republic,Aleppo,Jebel Saman,Atareb,36.1394,36.8235,21116
+1549,Syrian Arab Republic,Rural Damascus,At Tall,At-Tall,33.5977,36.3003,89947
+1926,Syrian Arab Republic,Aleppo,A'zaz,A'zaz,36.5859,37.0457,30852
+1131,Syrian Arab Republic,Tartous,Banyas,Banias,35.1833,35.95,42954
+1550,Syrian Arab Republic,Idleb,Idleb,Bennsh,35.9582,36.7119,39924
+2785,Syrian Arab Republic,Deir-ez-Zor,Abu Kamal,Bu Kamal,34.4604,40.9056,56637
+5079,Syrian Arab Republic,Dar'a,Dar'a,Busra al Sham,32.5166,36.4745,23422
+1563,Syrian Arab Republic,Damascus,Damascus,Damascus,33.5,36.3,1225242
+1118,Syrian Arab Republic,Dar'a,Dar'a,Dar'a,32.6217,36.1087,91850
+2242,Syrian Arab Republic,Dar'a,Dar'a,Dar'a (XB),32.609,36.1151,84533
+1121,Syrian Arab Republic,Deir-ez-Zor,Deir-ez-Zor,Deir-ez-Zor,35.3357,40.1538,148615
+2677,Syrian Arab Republic,Aleppo,Al Bab,Der Hafir,36.1564,37.7037,31857
+1117,Syrian Arab Republic,Rural Damascus,Duma,Duma,33.5833,36.4,159449
+2238,Syrian Arab Republic,Rural Damascus,Duma,Eastern Ghouta,33.571,36.4074,196125
+2689,Syrian Arab Republic,Ar-Raqqa,Tell Abiad,Ein Issa,36.39,38.8604,7574
+2684,Syrian Arab Republic,Rural Damascus,Rural Damascus,Ein Terma,33.5108,36.3443,1009727
+1551,Syrian Arab Republic,Homs,Homs,Ekrema,34.7058,36.7165,359495
+1116,Syrian Arab Republic,Rural Damascus,Darayya,Hajar Aswad,33.4635,36.3044,868925
+1136,Syrian Arab Republic,Hama,Hama,Hama,35.1333,36.75,198232
+2706,Syrian Arab Republic,Idleb,Harim,Harem,36.2133,36.518,13623
+2685,Syrian Arab Republic,Homs,Tall Kalakh,Hawash,34.7578,36.3205,26670
+1135,Syrian Arab Republic,Lattakia,Al-Haffa,Hiffeh,35.5833,36.0333,11939
+1139,Syrian Arab Republic,Homs,Homs,Homs,34.7333,36.7167,412404
+2237,Syrian Arab Republic,Dar'a,Izra',Hrak,32.7518,36.2644,30119
+1931,Syrian Arab Republic,Homs,Homs,Hula,34.8969,36.4957,39800
+1547,Syrian Arab Republic,Idleb,Idleb,Idleb,35.931,36.6331,72686
+1929,Syrian Arab Republic,Homs,Homs,Inshaat,34.7242,36.6985,388469
+2523,Syrian Arab Republic,Dar'a,Izra',Izr'a,32.8549,36.2722,26875
+1134,Syrian Arab Republic,Lattakia,Jablah,Jablah,35.3614,35.9264,60636
+1924,Syrian Arab Republic,Homs,Homs,Jandar,34.4921,36.778,3035
+1354,Syrian Arab Republic,Rural Damascus,Rural Damascus,Jaramana,33.4833,36.35,742968
+5931,Syrian Arab Republic,Rural Damascus,Qatana,Jdaideh,33.4382,36.1638,81364
+4612,Syrian Arab Republic,Idleb,Jisr-Ash-Shugur,Jisr al shughur,35.8196,36.3056,37544
+2243,Syrian Arab Republic,Dar'a,Dar'a,Jizeh,32.5686,36.3225,18139
+1554,Syrian Arab Republic,Quneitra,Quneitra,Khan Arnaba,33.1842,35.8906,32642
+2681,Syrian Arab Republic,Rural Damascus,Rural Damascus,Kisweh,33.3559,36.2501,63737
+1133,Syrian Arab Republic,Lattakia,Lattakia,Lattakia,35.5167,35.7833,269076
+5255,Syrian Arab Republic,Al-Hasakeh,Al-Malikeyyeh,Maabada,37.0174,41.9563,26560
+5253,Syrian Arab Republic,Ar-Raqqa,Ar-Raqqa,Maadan,35.761,39.5918,21796
+2784,Syrian Arab Republic,Aleppo,Menbij,Maskanah,35.9678,38.0318,18884
+1137,Syrian Arab Republic,Hama,Masyaf,Masyaf,35.0592,36.3421,32941
+1143,Syrian Arab Republic,Aleppo,Menbij,Menbij,36.5267,37.9564,112453
+1545,Syrian Arab Republic,Aleppo,Jebel Saman,Moghambo,36.2195,37.1253,768960
+1138,Syrian Arab Republic,Hama,Muhradah,Muhradah,35.2478,36.5809,50038
+1555,Syrian Arab Republic,Dar'a,Dar'a,Mzeireb,32.7088,36.026,41572
+2686,Syrian Arab Republic,Dar'a,Izra',Nawa,32.8855,36.0377,48718
+1925,Syrian Arab Republic,Aleppo,A'zaz,Nubul,36.3617,37.009,40401
+5252,Syrian Arab Republic,As-Sweida,Salkhad,Qarraya,32.5431,36.5981,6330
+1897,Syrian Arab Republic,Homs,Homs,Qaryatein,34.2304,37.239,10516
+1125,Syrian Arab Republic,Al-Hasakeh,Quamishli,Quamishli,37.0524,41.2414,153914
+1115,Syrian Arab Republic,Rural Damascus,Rural Damascus,Qudsiya,33.55,36.2167,223596
+5929,Syrian Arab Republic,Lattakia,Al-Qardaha,Qurdaha,35.456,36.0554,23792
+5278,Syrian Arab Republic,Deir-ez-Zor,Al Mayadin,Quriyeh,34.9611,40.519,49188
+1557,Syrian Arab Republic,Quneitra,Quneitra,Rafid,32.9559,35.902,5974
+1553,Syrian Arab Republic,Tartous,Safita,Rural Safita,34.8759,36.2573,17290
+5254,Syrian Arab Republic,Ar-Raqqa,Ar-Raqqa,Sabkha,35.8144,39.2655,11217
+1132,Syrian Arab Republic,Tartous,Safita,Safita,34.8167,36.1167,43309
+5251,Syrian Arab Republic,As-Sweida,Salkhad,Salkhad,32.4854,36.7108,9768
+2687,Syrian Arab Republic,Rural Damascus,Rural Damascus,Saqba,33.5165,36.3798,534136
+5644,Syrian Arab Republic,Idleb,Harim,Sarmada,36.1868,36.7259,29731
+2524,Syrian Arab Republic,Quneitra,Al Fiq,Sayda,32.8752,35.8787,2961
+5257,Syrian Arab Republic,Deir-ez-Zor,Al Mayadin,Sbeikhan,34.8554,40.6012,35009
+5928,Syrian Arab Republic,Idleb,Al Ma'ra,Senjar,35.5892,37.0038,5656
+1556,Syrian Arab Republic,As-Sweida,Shahba,Shahba,32.8523,36.6408,13318
+5932,Syrian Arab Republic,Tartous,Sheikh Badr,Sheikh Badr,34.991,36.0791,17704
+1112,Syrian Arab Republic,Damascus,Damascus,Sheikh Sa'ad,33.5,36.3,1225149
+5258,Syrian Arab Republic,Deir-ez-Zor,Deir-ez-Zor,Shmetiyeh,35.4725,39.939,9703
+1558,Syrian Arab Republic,Damascus,Damascus,Shrebishat,33.5069,36.2967,1186435
+5930,Syrian Arab Republic,Quneitra,Quneitra,Sweiseh,32.9956,35.9307,11773
+1928,Syrian Arab Republic,Homs,Ar-Rastan,Talbiseh,34.8438,36.7301,59492
+1130,Syrian Arab Republic,Tartous,Tartous,Tartous,34.89,35.8891,100338
+5259,Syrian Arab Republic,Deir-ez-Zor,Deir-ez-Zor,Tebni,35.6057,39.8228,12668
+1129,Syrian Arab Republic,Ar-Raqqa,Tell Abiad,Tell Abiad,36.6969,38.9565,24904
+5256,Syrian Arab Republic,Al-Hasakeh,Al-Hasakeh,Tell Tamer,36.654,40.3716,25879
+1113,Syrian Arab Republic,Damascus,Damascus,Zablatani,33.5,36.3,1225242
+2660,Togo,Maritime,Vo,Amegnran,6.467,1.567,31097
+2663,Togo,Plateaux,Ogou,Anie,7.761,1.192,77186
+2661,Togo,Savanes,Oti,Cinkassé,10.3234,0.3578,1415
+2664,Togo,Kara,Kozah,Kara,9.549,1.191,106993
+2659,Togo,Savanes,Tone,Korbongou,10.937,0.303,35192
+2662,Togo,Maritime,Golfe,Lomé,6.123,1.226,311514
+2053,Turkey,Ankara,Kecioren,Ankara,39.9334,32.8597,830422
+10253,Turkey,Ankara,Kecioren,Ankara (national average),39.9334,32.8597,830422
+2054,Turkey,Istanbul,Eminonu,Istanbul,41.0126,28.9667,988281
+2055,Turkey,Izmir,Konak,Izmir,38.4237,27.1428,362298
+6416,Uganda,Adjumani,Adjumani,Adjumani (refugee settlement),3.337,31.7805,48818
+6148,Uganda,Arua,Arua Municipality,Arua,3.0244,30.9108,209882
+6404,Uganda,Yumbe,Aringa,Bidibidi (refugee settlement),3.3622,31.352,26952
+2665,Uganda,Busia,Samia-bugwe,Busia,0.467,34.09,118641
+6292,Uganda,Kabarole,Fort Portal Municipality,Fort Portal,0.6576,30.2789,100515
+262,Uganda,Gulu,Gulu Municipality,Gulu,2.7667,32.3056,204268
+6151,Uganda,Hoima,Bugahya,Hoima,1.4305,31.3523,97487
+259,Uganda,Iganga,Kigulu,Iganga,0.6092,33.4686,157622
+6415,Uganda,Arua,Terego,Imvepi (refugee settlement),3.228,31.2779,15622
+260,Uganda,Jinja,Jinja Municipality,Jinja,0.4244,33.2042,134502
+2345,Uganda,Kaabong,Dodoth,Kaabong,3.539,34.1201,25172
+2692,Uganda,Kabale,Kabale Municipality,Kabale,-1.25,29.99,83216
+261,Uganda,Kween,Kween,Kapchorwa,1.3828,34.5244,38649
+7957,Uganda,Kaabong,Dodoth,Karenga,3.5688,33.695,10055
+2346,Uganda,Amudat,Upe,Karita,1.5447,34.8324,5993
+6149,Uganda,Kasese,Busongora,Kasese,0.1698,30.07,104374
+257,Uganda,Kyankwanzi,Kiboga,Kiboga,0.9161,31.7742,39575
+6409,Uganda,Kiryandongo,Kibanda,Kiryandongo (refugee settlement),1.9358,32.211,12795
+2344,Uganda,Kotido,Jie,Kotido,3.0048,34.1129,31237
+6407,Uganda,Kyegegwa,Kyaka,Kyaka II (refugee settlement),0.3571,31.0891,43266
+6413,Uganda,Hoima,Buhaguzi,Kyangwali (refugee settlement),1.1602,30.7507,35090
+263,Uganda,Lira,Lira Municipality,Lira,2.235,32.9097,162844
+6408,Uganda,Koboko,Koboko,Lobule (refugee settlement),3.3884,31.0346,40572
+2343,Uganda,Abim,Labwor,Makaratin,2.7133,33.6428,25923
+6770,Uganda,Masaka,Masaka Municipality,Masaka,-0.3469,31.7393,150825
+2693,Uganda,Masindi,Buruli M,Masindi,1.69,31.71,78703
+2348,Uganda,Mbale,Mbale Municipality,Mbale,1.0709,34.179,242588
+264,Uganda,Mbarara,Mbarara Municipality,Mbarara,-0.6057,30.6486,154419
+6147,Uganda,Moroto,Moroto Municipality,Moroto,2.5325,34.6543,47032
+6769,Uganda,Mukono,Mukono,Mukono,0.3566,32.7523,156574
+7854,Uganda,Nakapiripirit,Pian,Nabilatuk,2.0503,34.574,25734
+6412,Uganda,Isingiro,Bukanga,Nakivale (refugee settlement),-0.7808,30.9583,50242
+2347,Uganda,Nakapiripirit,Kadani,Namalu,1.7914,34.5984,22284
+7956,Uganda,Napak,Bokora,Napak,2.2192,34.2555,6429
+6411,Uganda,Isingiro,Bukanga,Oruchinga (refugee settlement),-0.9412,30.7619,22957
+258,Uganda,Kampala,Central Kampala,Owino,0.3228,32.5748,916587
+6406,Uganda,Lamwo,Lamwo,Palabek (refugee settlement),3.3377,32.4733,5410
+6405,Uganda,Moyo,Obongi,Palorinya (refugee settlement),3.4746,31.6282,3266
+6414,Uganda,Arua,Terego,Rhino Camp (refugee settlement),3.1735,31.3099,5729
+6410,Uganda,Kamwenge,Kibale,Rwamwanja (refugee settlement),0.3083,30.6761,54564
+2349,Uganda,Soroti,Soroti Municipality,Soroti,1.7145,33.6195,95693
+6150,Uganda,Tororo,Tororo Municipality,Tororo,0.6943,34.1795,83814
+6768,Uganda,Wakiso,Busiro,Wakiso,0.3958,32.4792,196194
+1858,Ukraine,Cherkaska,Cherkaska,Cherkasy,49.4444,32.0598,226104
+1859,Ukraine,Chernihivska,Chernihivska,Chernihiv,51.4982,31.2893,249919
+1860,Ukraine,Chernivetska,Chernivetska,Chernivtsi,48.2921,25.9358,247861
+1883,Ukraine,Avtonomna Respublika Krym,Simferopolska,Crimea,44.9521,34.1024,295008
+1861,Ukraine,Dnipropetrovska,Dniprovska,Dnipropetrovsk,48.4647,35.0462,316005
+1862,Ukraine,Donetska,Donetska,Donetsk,48.0159,37.8028,340907
+1863,Ukraine,Ivano-Frankivska,Ivano-Frankivska,Ivano-Frankivsk,48.9226,24.7111,264890
+1864,Ukraine,Kharkivska,Kharkivska,Kharkiv,49.9935,36.2304,579803
+1865,Ukraine,Khersonska,Khersonska,Kherson,46.6354,32.6169,224019
+1866,Ukraine,Khmelnytska,Khmelnytska,Khmelnytskiy,49.423,26.9871,261371
+1867,Ukraine,Kirovohradska,Kirovohradska,Kirovohrad,48.5079,32.2623,227534
+1884,Ukraine,Kyivska,Kyivska,Kyiv,50.4501,30.5234,552435
+1869,Ukraine,Kyivska,Kyivska,Kyiv city,50.4501,30.5234,552435
+1870,Ukraine,Luhanska,Luhanska,Luhansk,48.574,39.3078,270026
+1871,Ukraine,Lvivska,Lvivska,Lviv,49.8397,24.0297,552578
+1868,Ukraine,Sevastopol,Sevastopolska,m. Sevastopol,44.6166,33.5254,106453
+1872,Ukraine,Mykolaivska,Mykolaivska,Mykolaiv,46.975,31.9946,338071
+1873,Ukraine,Odeska,Odeska,Odesa,46.4825,30.7233,560021
+1874,Ukraine,Poltavska,Poltavska,Poltava,49.5883,34.5514,242243
+1875,Ukraine,Rivnenska,Rivnenska,Rivne,50.6199,26.2516,242050
+1876,Ukraine,Sumska,Sumska,Sumy,50.9077,34.7981,215162
+1877,Ukraine,Ternopilska,Ternopilska,Ternopyl,49.5535,25.5948,211847
+1878,Ukraine,Vinnytska,Vinnytska,Vinnytsya,49.2331,28.4682,328971
+1879,Ukraine,Volynska,Lutska,Volyn,50.7472,25.3254,210842
+1880,Ukraine,Zakarpatska,Uzhhorodska,Zakarpattya,48.6208,22.2879,130902
+1881,Ukraine,Zaporizka,Zaporizka,Zaporizhzhya,47.8388,35.1396,299587
+1882,Ukraine,Zhytomyrska,Zhytomyrska,Zhytomyr,50.2546,28.6587,214458
+80,United Republic of Tanzania,Arusha,Arusha Urban,Arusha (urban),-3.3667,36.6833,517397
+4538,United Republic of Tanzania,Arusha,Ngorongoro,Arusha Region,-2.97,35.9229,2300
+81,United Republic of Tanzania,Manyara,Babati Urban,Babati,-4.2167,35.75,73275
+9685,United Republic of Tanzania,Simiyu,Bariadi,Bariadi TC,-2.8009,33.984,73604
+82,United Republic of Tanzania,Kagera,Bukoba Urban,Bukoba,-1.3317,31.8122,152606
+83,United Republic of Tanzania,Dar-es-salaam,Ilala,Dar Es Salaam,-6.8,39.2833,1167462
+4539,United Republic of Tanzania,Dar-es-salaam,Temeke,Dar es Salaam Region,-6.8882,39.2634,1750087
+84,United Republic of Tanzania,Dodoma,Mpwapwa,Dodoma (Majengo),-7.2907,36.3404,1303
+4540,United Republic of Tanzania,Dodoma,Dodoma Urban,Dodoma Region,-5.9292,35.9223,5455
+1798,United Republic of Tanzania,Geita,Geita,Geita,-2.885,32.2314,143413
+4541,United Republic of Tanzania,Geita,Mbogwe,Geita Region,-3.3013,31.8994,18063
+2799,United Republic of Tanzania,Dar-es-salaam,Ilala,Ilala (Buguruni),-6.8355,39.2467,2498778
+4542,United Republic of Tanzania,Iringa,Iringa Rural,Iringa Region,-7.8033,35.476,5171
+85,United Republic of Tanzania,Iringa,Iringa Urban,Iringa Urban,-7.7667,35.7,172741
+4543,United Republic of Tanzania,Kagera,Muleba,Kagera Region,-1.8804,31.4539,15204
+4544,United Republic of Tanzania,Katavi,Mlele,Katavi Region,-6.4187,31.323,3913
+9686,United Republic of Tanzania,Pwani,Kibaha Urban,Kibaha TC,-6.7721,38.9757,79354
+2820,United Republic of Tanzania,Dodoma,Kongwa,Kibaigwa,-6.0783,36.6462,28243
+86,United Republic of Tanzania,Kigoma,Kigoma Municipal-Ujiji,Kigoma,-4.8769,29.6267,201607
+4546,United Republic of Tanzania,Kigoma,Kasulu,Kigoma Region,-4.7645,30.4028,3025
+4545,United Republic of Tanzania,Kilimanjaro,Mwanga,Kilimanjaro Region,-3.7627,37.6404,17700
+2800,United Republic of Tanzania,Dar-es-salaam,Kinondoni,Kinondoni (Tandale),-6.7993,39.2374,2027271
+87,United Republic of Tanzania,Lindi,Lindi Urban,Lindi,-10,39.7167,39424
+4547,United Republic of Tanzania,Lindi,Liwale,Lindi Region,-9.4807,38.4069,1
+4548,United Republic of Tanzania,Manyara,Simanjiro,Manyara Region,-4.5315,36.545,33
+4549,United Republic of Tanzania,Mara,Butiama,Mara Region,-1.7136,34.0776,8132
+4601,United Republic of Tanzania,Mbeya,Mbeya Urban,Mbeya (SIDO),-8.9124,33.4624,363048
+4550,United Republic of Tanzania,Mbeya,Chunya,Mbeya Region,-8.2282,33.3515,1437
+9761,United Republic of Tanzania,Mbeya,Mbozi,Mlowo,-9.0132,33.0037,58999
+89,United Republic of Tanzania,Morogoro,Morogoro Urban,Morogoro,-6.8167,37.6667,311685
+4551,United Republic of Tanzania,Morogoro,Kilombero,Morogoro Region,-7.9228,36.9891,9651
+90,United Republic of Tanzania,Kilimanjaro,Moshi Municipal,Moshi,-3.35,37.3333,250946
+1801,United Republic of Tanzania,Katavi,Mpanda Urban,Mpanda,-6.3478,31.0736,108926
+9647,United Republic of Tanzania,Katavi,Mlele,Mpimbwe DC,-7.1031,31.2363,12382
+91,United Republic of Tanzania,Mtwara,Mtwara Urban,Mtwara DC,-10.2667,40.1833,94138
+4552,United Republic of Tanzania,Mtwara,Masasi,Mtwara Region,-10.7778,39.1195,8590
+99,United Republic of Tanzania,Mara,Musoma Municipal,Musoma,-1.5,33.8,148041
+3798,United Republic of Tanzania,Dar-es-salaam,Kinondoni,Mwananyamala,-6.7858,39.2518,1580921
+88,United Republic of Tanzania,Mbeya,Mbeya Urban,Mwanjelwa,-8.9,33.45,335831
+92,United Republic of Tanzania,Mwanza,Nyamagana,Mwanza,-2.5167,32.9,477750
+4562,United Republic of Tanzania,Mwanza,Nyamagana,Mwanza Region,-2.517,32.91,527940
+9869,United Republic of Tanzania,Singida,Singida Urban,Namfua,-4.8297,34.7603,110616
+1800,United Republic of Tanzania,Njombe,Wanging'ombe,Njombe,-8.9148,34.6857,7673
+4553,United Republic of Tanzania,Njombe,Njombe Urban,Njombe Region,-9.4549,34.7144,3748
+4554,United Republic of Tanzania,Pwani,Kisarawe,Pwani Region,-7.2695,38.6619,195
+4555,United Republic of Tanzania,Rukwa,Nkasi,Rukwa Region,-7.952,31.3561,5803
+4556,United Republic of Tanzania,Ruvuma,Namtumbo,Ruvuma Region,-10.729,36.2472,90
+93,United Republic of Tanzania,Shinyanga,Shinyanga Urban,Shinyanga,-3.6667,33.4333,124724
+4557,United Republic of Tanzania,Shinyanga,Kahama,Shinyanga Region,-3.7543,32.9368,7190
+4558,United Republic of Tanzania,Simiyu,Meatu,Simiyu Region,-3.028,34.277,13935
+94,United Republic of Tanzania,Singida,Singida Urban,Singida,-4.8167,34.75,117197
+4559,United Republic of Tanzania,Singida,Manyoni,Singida Region,-5.7477,34.4962,16256
+95,United Republic of Tanzania,Ruvuma,Songea Urban,Songea,-10.6833,35.65,217814
+5663,United Republic of Tanzania,Mbeya,Chunya,Songwe Region,-8.4238,33.029,29585
+100,United Republic of Tanzania,Rukwa,Sumbawanga Urban,Sumbawanga,-7.9667,31.6167,167206
+6176,United Republic of Tanzania,Rukwa,Sumbawanga Urban,Sumbawanga (Katumba),-8.0692,31.6659,11987
+96,United Republic of Tanzania,Tabora,Tabora Urban,Tabora,-5.0167,32.8,178235
+4560,United Republic of Tanzania,Tabora,Sikonge,Tabora Region,-5.266,32.8202,1008
+5527,United Republic of Tanzania,Tanga,Tanga,Tanga,-5.0797,39.0998,228090
+97,United Republic of Tanzania,Tanga,Tanga,Tanga / Mgandini,-5.0738,39.1001,224286
+4561,United Republic of Tanzania,Tanga,Handeni,Tanga Region,-5.218,38.2819,1842
+2801,United Republic of Tanzania,Dar-es-salaam,Temeke,Temeke (Tandika),-6.8667,39.2558,1954285
+9760,United Republic of Tanzania,Dar-es-salaam,Kinondoni,Ubungo (Mbezi),-6.7865,39.1141,333228
+2004,West Bank,West Bank,Bethlehem,Bethlehem,31.7118,35.2024,236610
+2005,West Bank,West Bank,Hebron,Hebron,31.5236,35.0937,305569
+1996,West Bank,West Bank,Jenin,Jenin,32.4646,35.2939,99130
+2002,West Bank,West Bank,Jericho,Jericho,31.8593,35.4739,50022
+1998,West Bank,West Bank,Nablus,Nablus,32.2155,35.2454,156762
+1999,West Bank,West Bank,Qalqilya,Qalqiliya,32.1866,34.9756,48245
+2001,West Bank,West Bank,Ramallah and Albireh,Ramallah,31.9059,35.1929,269086
+1997,West Bank,West Bank,Tulkarm,Tulkarem,32.3166,35.0389,129872
+8216,West Bank,West Bank,Ramallah and Albireh,West Bank,31.9731,35.3299,16364
+1941,Yemen,Al Dhale'e,Ad Dhale'e,Addaleh Town,13.7031,44.7307,61675
+192,Yemen,Aden,Al Mualla,Aden City,12.7855,45.0187,317561
+1938,Yemen,Al Bayda,Al Bayda City,Al Bayda City,13.9825,45.5758,62694
+1935,Yemen,Al Maharah,Al Ghaydah,Al Ghaidha,16.2099,52.181,26879
+1939,Yemen,Lahj,Al  Hawtah,"Al Hawtah, main road",13.0566,44.8833,68525
+1946,Yemen,Al Jawf,Al Hazm,Al Hazum,16.1695,44.7782,38476
+1947,Yemen,Raymah,Al Jabin,Al Jabeen,14.7048,43.5986,17797
+195,Yemen,Al Hudaydah,Al Hawak,Alduhamih,14.7929,42.9481,384559
+2370,Yemen,Hajjah,Hajjah City,Alsuail,15.6961,43.6103,97583
+193,Yemen,Amran,Amran,Amran City,15.6583,43.9427,99276
+1936,Yemen,Shabwah,Ataq,Central Ataq,14.5294,46.8478,42946
+1943,Yemen,Dhamar,Dhamar City,Dhamar City,14.544,44.3949,132364
+194,Yemen,Hajjah,Haradh,Haradh Town,16.4062,43.0559,50644
+1942,Yemen,Ibb,Al Mashannah,Ibb City,13.9762,44.185,362986
+1944,Yemen,Sana'a,Jihanah,Jihana Almarkazi,15.2263,44.4811,24212
+1945,Yemen,Al Mahwit,Al Mahwait City,Mahweet City,15.4676,43.5435,106787
+1937,Yemen,Marib,Marib City,Marib City,15.4647,45.3265,31001
+1934,Yemen,Hadramaut,Al Mukalla City,Mukalla City,14.5312,49.134,93500
+196,Yemen,Sa'ada,Sa'adah,Sa'ada City,16.9437,43.7659,114620
+197,Yemen,Amanat Al Asimah,At Tahrir,Sana'a City,15.3482,44.1964,1683649
+1933,Yemen,Hadramaut,Sayun,Sayoun City,15.9456,48.7857,105435
+198,Yemen,Socotra,Hidaybu,Soqatra (Hudaibo),12.65,54.0333,30910
+199,Yemen,Taizz,Al Qahirah,Taiz City,13.58,44.02,763065
+1940,Yemen,Abyan,Zingibar,Zungubar City,13.1292,45.3776,61910
+9950,Zambia,Eastern,Katete,Azezele Kacheka,-14.1006,31.8794,8813
+9926,Zambia,Southern,Choma,Batoka,-16.7789,27.2399,7464
+10042,Zambia,Copperbelt,Mufulira,Buteko,-12.548,28.2448,120912
+393,Zambia,Eastern,Vubwi,Chadiza,-13.95,32.85,4970
+9899,Zambia,Eastern,Chadiza,Chadiza Market,-14.0615,32.4337,12903
+9998,Zambia,Muchiga,Shiwamg'andu,Chafilwa,-11.2238,31.826,1199
+1428,Zambia,Muchiga,Chama,Chama Square,-11.2175,33.1551,24059
+9934,Zambia,Copperbelt,Kalulushi,Chambishi Main,-12.6402,28.0636,31177
+9987,Zambia,Eastern,Lundazi,Chanyalubwe,-12.4343,32.9135,3920
+1429,Zambia,North-Western,Chavuma,Chavuma Main,-13.082,22.6889,12585
+10049,Zambia,Lusaka,Lusaka,Chazanga,-15.3666,28.2906,928870
+1430,Zambia,Central,Chibombo,Chibombo,-14.65,28.0667,7521
+10039,Zambia,Central,Chibombo,Chibombo Turn Off,-14.6875,28.1007,12383
+10018,Zambia,Copperbelt,Kalulushi,Chibuluma,-12.8212,28.0706,33882
+1431,Zambia,Luapula,Chiengi,Chiengi,-8.5199,28.9961,19783
+10008,Zambia,Muchiga,Mafinga,Chifungwe,-10.2597,33.3705,7135
+9907,Zambia,Southern,Chikankanta,Chikankata Mission,-16.2288,28.1419,8507
+10013,Zambia,Eastern,Mambwe,Chikowa,-13.4088,32.0852,2349
+9910,Zambia,Lusaka,Chilanga,Chilango Freedom Market,-15.5804,28.2696,75401
+9901,Zambia,Eastern,Chadiza,Chilenga,-14.1146,32.3668,4789
+1432,Zambia,Copperbelt,Chililabombwe,Chililabombwe,-12.3667,27.8333,66981
+10026,Zambia,Muchiga,Mpika,Chilonga,-12.0267,31.338,7782
+1433,Zambia,Northern,Chilubi,Chilubi,-11.1534,29.9036,2994
+9992,Zambia,Lusaka,Rufunsa,Chimusanya,-15.0816,29.5765,4263
+369,Zambia,Copperbelt,Chingola,Chingola,-12.5333,27.85,139510
+1434,Zambia,Muchiga,Chinsali,Chinsali,-10.55,32.0667,25040
+370,Zambia,Eastern,Chipata,Chipata,-13.6333,32.65,132261
+9941,Zambia,Eastern,Nyimba,Chipembe,-14.5306,30.9597,3971
+10063,Zambia,Central,Chisamba,Chipembi,-14.9333,28.5833,3235
+9922,Zambia,Lusaka,Chirundu,Chirundu Main Market,-16.03,28.8461,32363
+9923,Zambia,Central,Chisamba,Chisamba,-14.9793,28.3769,6037
+10025,Zambia,Southern,Monze,Chisekesi,-16.4386,27.4768,5457
+10046,Zambia,Copperbelt,Kitwe,Chisokone,-12.8152,28.2079,249904
+9980,Zambia,Lusaka,Luangwa,Chitope,-15.1879,30.221,4591
+9915,Zambia,Copperbelt,Chingola,Chiwempala,-12.5501,27.8441,125342
+9948,Zambia,Eastern,Chipata,Chiwoko,-13.9366,32.2271,9061
+371,Zambia,Southern,Choma,Choma,-16.8167,26.9833,109521
+1435,Zambia,Lusaka,Chongwe,Chongwe Main Market,-15.3307,28.6747,34071
+9973,Zambia,Southern,Livingstone,Dambwa Central,-17.8589,25.8438,140159
+10001,Zambia,Eastern,Chipata,Early Early,-13.5315,32.5539,19148
+9903,Zambia,Eastern,Lundazi,Egichickeni,-11.9552,33.1653,6839
+9904,Zambia,Eastern,Lundazi,Emmusa Town,-11.9914,33.1115,7002
+9920,Zambia,Eastern,Chipata,Feni,-13.7852,32.7439,8004
+9947,Zambia,Eastern,Chipata,Giveway Trading,-13.5059,32.4487,13518
+1436,Zambia,Southern,Gwembe,Gwembe,-16.4974,27.6022,6931
+9997,Zambia,Muchiga,Shiwamg'andu,Ilondola,-10.7171,31.7866,2451
+372,Zambia,Muchiga,Isoka,Isoka,-10.1333,32.6333,27230
+1437,Zambia,Central,Itezhi-tezhi,Itezhi Tezhi Modern Market,-15.7377,26.0334,12730
+10021,Zambia,Southern,Mazabuka,Kabobola,-15.8587,27.734,71764
+1438,Zambia,North-Western,Kabompo,Kabompo Musamba,-13.5947,24.2,19838
+9936,Zambia,Southern,Namwala,Kabulamwanda,-15.8692,26.8761,3778
+9914,Zambia,Copperbelt,Chingola,Kabuta Kapisha,-12.5249,27.9037,127842
+1439,Zambia,Central,Kabwe,Kabwe,-14.4357,28.4442,159856
+373,Zambia,Central,Kabwe,Kabwe Rural,-14.4333,28.45,159426
+374,Zambia,Central,Kabwe,Kabwe Urban,-14.4333,28.45,159426
+9916,Zambia,Copperbelt,Kalulushi,Kafubu Depo,-12.852,27.8763,2853
+9932,Zambia,Lusaka,Kafue,Kafue Estate Market,-15.7441,28.162,40533
+1462,Zambia,Western,Kalabo,Kalabo,-14.9961,22.6742,13805
+10020,Zambia,Southern,Mazabuka,Kaleya Station,-15.8922,27.6796,7745
+375,Zambia,Southern,Kalomo,Kalomo,-17.05,26.5,16607
+10067,Zambia,Southern,Choma,Kalukungu,-16.8357,26.9489,54020
+376,Zambia,Copperbelt,Kalulushi,Kalulushi Main,-12.8486,28.0574,38001
+10040,Zambia,Copperbelt,Mufulira,Kamuchanga,-12.5758,28.2454,116635
+10035,Zambia,North-Western,Solwezi,Kangwena,-12.361,27.2784,1596
+10028,Zambia,Copperbelt,Mpongwe,Kanyenda,-13.4368,28.2386,4908
+377,Zambia,Western,Kaoma,Kaoma,-14.797,24.7941,24373
+9918,Zambia,Eastern,Chipata,Kapata,-13.6336,32.6473,133334
+10010,Zambia,Muchiga,Mafinga,Kapembe,-10.2721,33.2949,2993
+1441,Zambia,Central,Kapiri Mposhi,Kapiri-Mposhi,-13.9652,28.6809,54636
+10024,Zambia,Western,Mongu,Kapulanga,-15.2546,23.1488,89470
+1442,Zambia,Northern,Kaputa,Kaputa,-8.4667,29.6667,33912
+378,Zambia,Northern,Kasama,Kasama,-10.2,31.2,120197
+10034,Zambia,North-Western,Solwezi,Kasapa,-12.3345,27.0637,3816
+379,Zambia,North-Western,Kasempa,Kasempa Main,-13.45,25.8333,22161
+9985,Zambia,Copperbelt,Lufwanyama,Katembula,-12.8547,27.6845,2552
+394,Zambia,Eastern,Katete,Katete,-14.0561,32.0458,45812
+10065,Zambia,Western,Sesheke,Katima Mulilo,-17.4669,24.2312,8385
+9978,Zambia,Western,Luampa,Katunda,-14.855,24.679,1363
+10000,Zambia,Eastern,Chipata,Kaulembe,-13.4792,32.7394,6615
+380,Zambia,Luapula,Kawambwa,Kawambwa,-9.7833,29.0833,26144
+1443,Zambia,Southern,Kazungula,Kazungula,-17.7951,25.2744,12467
+381,Zambia,Copperbelt,Kitwe,Kitwe,-12.8167,28.2,207236
+9946,Zambia,Eastern,Chipata,Kunda Trading,-13.832,32.2328,6515
+10047,Zambia,Lusaka,Lusaka,Lilanda,-15.3776,28.2418,751167
+9909,Zambia,Lusaka,Chilanga,Linda,-15.5309,28.2337,146505
+10051,Zambia,Central,Chibombo,Liteta,-14.7766,28.0559,7246
+382,Zambia,Southern,Livingstone,Livingstone,-17.85,25.8667,155095
+9976,Zambia,Western,Luampa,Luampa,-15.0541,24.4528,7136
+9995,Zambia,Lusaka,Rufunsa,Luangwa Bridge Market,-14.9854,30.2036,1670
+383,Zambia,Lusaka,Luangwa,Luangwa Zaro Market,-15.6214,30.4082,7376
+384,Zambia,Copperbelt,Luanshya,Luanshya,-13.1333,28.4,78936
+1444,Zambia,Copperbelt,Mpongwe,Lufwanyama,-13.4456,27.7516,453
+1445,Zambia,Western,Lukulu,Lukulu,-14.3833,23.25,27134
+9986,Zambia,Eastern,Lundazi,Lumezi,-12.5398,33.041,8796
+385,Zambia,Eastern,Lundazi,Lundazi,-12.2967,33.1686,40036
+1446,Zambia,Lusaka,Lusaka,Lusaka,-15.4167,28.2833,762385
+386,Zambia,Lusaka,Lusaka,Lusaka Rural,-15.4167,28.2833,762385
+387,Zambia,Lusaka,Lusaka,Lusaka Urban,-15.4167,28.2833,762385
+388,Zambia,Northern,Luwingu,Luwingu,-10.2667,29.9,16021
+9954,Zambia,Southern,Sinazongwe,Maamba,-17.3552,27.2247,17042
+10022,Zambia,Southern,Mazabuka,Magoye,-15.9682,27.6015,10905
+10032,Zambia,Western,Mulobezi,Malabwe,-16.8404,25.1104,1539
+9953,Zambia,Southern,Kazungula,Mambova,-17.7307,25.1942,2606
+1447,Zambia,Central,Chitambo,Mambwe,-13.0167,30.5833,966
+10012,Zambia,Eastern,Mambwe,Mambwe Main,-13.2946,32.0859,8094
+389,Zambia,Luapula,Mansa,Mansa,-11.2,28.8833,281581
+9917,Zambia,North-Western,Solwezi,Manyama Main,-12.313,25.8507,16511
+1448,Zambia,Copperbelt,Masaiti,Masaiti,-13.2667,28.4167,3298
+10016,Zambia,Copperbelt,Masaiti,Masangano,-13.2467,28.6768,4453
+9981,Zambia,Central,Mkushi,Masansa,-13.9421,29.3882,13699
+1440,Zambia,Lusaka,Kafue,Matanda Kafue,-15.7745,28.1768,45509
+9999,Zambia,Muchiga,Shiwamg'andu,Matumbo,-10.9615,32.0322,4898
+10006,Zambia,Eastern,Petauke,Mawanda,-14.0154,31.4662,14059
+390,Zambia,Southern,Mazabuka,Mazabuka,-15.8667,27.7667,71201
+391,Zambia,Northern,Mbala,Mbala,-8.8333,31.3833,35316
+9964,Zambia,Eastern,Vubwi,Mbande,-13.9557,32.8712,5364
+9979,Zambia,Western,Luampa,Mbanyutu,-14.9534,24.3433,4702
+9971,Zambia,Southern,Livingstone,Mbita,-17.8381,25.8777,133528
+9966,Zambia,Eastern,Vubwi,Mbozi,-14.0304,32.8297,8418
+10014,Zambia,Eastern,Mambwe,Mfuwe,-13.1109,31.799,10641
+9984,Zambia,Copperbelt,Luanshya,Mikomfwa,-13.1521,28.4273,77050
+1449,Zambia,Luapula,Samfya,Milenge,-11.958,29.4982,2947
+9991,Zambia,Eastern,Petauke,Minga,-14.3675,31.1849,3039
+10017,Zambia,Copperbelt,Masaiti,Mishikishi,-13.3852,28.6764,3873
+392,Zambia,Central,Mkushi,Mkushi Itala,-13.6145,29.3979,34792
+395,Zambia,Western,Mongu,Mongu,-15.2688,23.132,82429
+396,Zambia,Southern,Monze,Monze,-16.2833,27.4833,45899
+10037,Zambia,Western,Nalolo,Mouyo,-15.5729,23.2582,6354
+9993,Zambia,Lusaka,Rufunsa,Mpashya,-15.1089,29.7262,2684
+9982,Zambia,Copperbelt,Luanshya,Mpatamato,-13.1007,28.3266,18059
+10027,Zambia,Muchiga,Mpika,Mpepo,-11.0828,31.1103,3828
+10002,Zambia,Eastern,Lundazi,Mphamba,-12.3014,33.1556,38811
+397,Zambia,Muchiga,Mpika,Mpika,-11.8356,31.4542,56769
+1840,Zambia,Copperbelt,Mpongwe,Mpongwe,-13.512,28.1562,16425
+10029,Zambia,Copperbelt,Mpongwe,Mpongwe Ibenga,-13.356,28.4157,12577
+1450,Zambia,Northern,Mporokoso,Mporokoso,-9.3833,30.1333,19078
+1451,Zambia,Northern,Mpulungu,Mpulungu,-8.7667,31.1333,41965
+9940,Zambia,Eastern,Nyimba,Mtilizi,-14.4625,30.9504,3229
+9921,Zambia,Eastern,Chipata,Muchini,-13.6631,32.6539,99571
+9969,Zambia,Western,Limulunga,Mufanasiyi Limulunga,-15.129,23.1483,16600
+398,Zambia,Copperbelt,Mufulira,Mufulira,-12.55,28.2333,115148
+1452,Zambia,North-Western,Mufumbwe,Mufumbwe,-13.1381,25.0039,16757
+9924,Zambia,Central,Chitambo,Mukando,-13.0184,30.461,3477
+9955,Zambia,Southern,Kazungula,Mukuni,-17.9043,25.9395,4724
+10064,Zambia,Central,Serenje,Mulilima,-13.343,29.9533,3264
+10033,Zambia,Western,Mulobezi,Mulobezi,-16.7763,25.1709,2500
+399,Zambia,Central,Mumbwa,Mumbwa,-14.9833,27.0667,31475
+1453,Zambia,Northern,Mungwi,Mungwi,-10.1667,31.3833,11358
+9937,Zambia,Western,Nkeyema,Munkuye,-14.838,25.1549,4289
+9965,Zambia,Muchiga,Mpika,Mununga Quarry,-12.6739,31.0113,1232
+9927,Zambia,Southern,Gwembe,Munyumbwe,-16.6435,27.7751,8433
+10004,Zambia,Lusaka,Lusaka,Mutendere,-15.4008,28.3558,421429
+9945,Zambia,Eastern,Chipata,Mutenguleni,-13.7473,32.4647,12775
+10009,Zambia,Muchiga,Mafinga,Muyombe,-10.5753,33.4534,7341
+9989,Zambia,Southern,Pemba,Muzoka,-16.6769,27.3169,2932
+10036,Zambia,Western,Mwandi,Mwandi,-17.5153,24.8233,5342
+10003,Zambia,Eastern,Lundazi,Mwase Sub Centre,-12.41,33.3415,13630
+400,Zambia,Luapula,Mwense,Mwense,-10.3833,28.6833,15292
+9988,Zambia,Eastern,Lundazi,Mwimba,-12.6574,32.9417,3605
+401,Zambia,North-Western,Mwinilunga,Mwinilunga,-11.85,24.3667,1102
+9906,Zambia,Southern,Chikankanta,Naduba,-15.8718,28.286,3824
+9958,Zambia,Copperbelt,Kitwe,Nakadoli,-12.7725,28.1919,253416
+10044,Zambia,Southern,Mazabuka,Nakambala,-15.857,27.7511,75350
+1454,Zambia,Muchiga,Nakonde,Nakonde,-9.3333,32.7667,72626
+10066,Zambia,Lusaka,Shibuyunji,Namphundwe,-15.456,27.943,6072
+1455,Zambia,Southern,Namwala,Namwala,-15.75,26.45,10139
+9961,Zambia,Western,Sioma,Nangweshi,-16.3957,23.3254,4389
+9996,Zambia,Western,Shangombo,Natukoma,-16.3662,22.5839,1416
+402,Zambia,Luapula,Nchelenge,Nchelenge,-9.35,28.7333,47669
+1456,Zambia,Copperbelt,Ndola,Ndola,-12.9667,28.6333,251620
+403,Zambia,Copperbelt,Ndola,Ndola Rural,-12.9667,28.6333,251620
+9908,Zambia,Southern,Chikankanta,Nega Nega,-15.955,28.1254,7979
+9929,Zambia,Central,Kabwe,New Kasanda,-14.4454,28.4361,143004
+9970,Zambia,Southern,Livingstone,Ngwenya,-17.8272,25.8834,105257
+9939,Zambia,Western,Nkeyema,Nkeyema TBZ Market,-14.8848,25.3844,4188
+9900,Zambia,Eastern,Chadiza,Nsadzu,-14.0622,32.3396,5835
+9960,Zambia,Eastern,Sinda,Nyanje,-14.3954,31.7928,7365
+10019,Zambia,Copperbelt,Masaiti,Nyenyezi,-13.4963,28.661,2921
+1457,Zambia,Eastern,Nyimba,Nyimba,-14.5583,30.8179,13488
+9943,Zambia,Southern,Pemba,Pemba Main Market,-16.5224,27.356,6954
+404,Zambia,Eastern,Petauke,Petauke Main Market,-14.2551,31.3273,15676
+9983,Zambia,Copperbelt,Luanshya,Roan,-13.1309,28.372,33270
+518,Zambia,Luapula,Samfya,Samfya,-11.35,29.55,28790
+9919,Zambia,Eastern,Chipata,Saturday,-13.6432,32.6455,133767
+519,Zambia,Western,Senanga,Senanga Main Market,-16.1048,23.2999,18925
+9972,Zambia,Southern,Livingstone,Senkobo,-17.6264,25.941,2340
+520,Zambia,Central,Serenje,Serenje,-13.2313,30.2344,19786
+1458,Zambia,Western,Sesheke,Sesheke,-17.4758,24.2857,22366
+1459,Zambia,Western,Shangombo,Shang'ombo,-16.3198,22.0992,5623
+1842,Zambia,Lusaka,Shibuyunji,Shibuyunji,-15.4491,27.8294,8460
+1460,Zambia,Southern,Siavonga,Siavonga,-16.5333,28.7167,20697
+10031,Zambia,Western,Mulobezi,Sichili,-16.71,24.9566,3984
+9951,Zambia,Western,Sikongo,Sikongo,-15.0345,22.1623,2973
+10015,Zambia,North-Western,Manyinga,Sikufele,-13.4088,24.3318,24716
+9974,Zambia,Southern,Livingstone,Simonga,-17.8089,25.7169,4910
+9952,Zambia,Southern,Sinazongwe,Sinazeze,-17.1446,27.4071,9750
+1846,Zambia,Southern,Sinazongwe,Sinazongwe,-17.262,27.4599,6416
+1841,Zambia,Eastern,Sinda,Sinda,-14.214,31.7609,27850
+1847,Zambia,Western,Sioma,Sioma,-16.6048,23.5059,3773
+521,Zambia,North-Western,Solwezi,Solwezi,-12.1833,26.4,114139
+9913,Zambia,Copperbelt,Chingola,Twatasha,-12.5619,27.8419,105855
+10007,Zambia,Eastern,Petauke,Village 18,-13.9419,31.6296,11926
+9968,Zambia,Eastern,Vubwi,Vubwi,-14.0382,32.8662,9914
+9962,Zambia,Copperbelt,Kitwe,Wusakile,-12.8501,28.2161,176923
+1461,Zambia,North-Western,Zambezi,Zambezi,-13.5428,23.1135,27158
+9977,Zambia,Southern,Zimba,Zimba Main,-17.3194,26.2018,6563
+8845,Zimbabwe,Mashonaland West,Chinhoyi,Alaska,-17.3715,30.067,8421
+5486,Zimbabwe,Midlands,Kwekwe Urban,Amaveni,-18.9281,29.7845,66946
+5577,Zimbabwe,Mashonaland Central,Mbire,Angwa,-16.0613,30.1822,1
+5446,Zimbabwe,Midlands,Gweru Urban,Ascot Shopping Centre,-19.4352,29.7903,104762
+5469,Zimbabwe,Matabeleland South,Insiza,Avoca,-20.8161,29.5141,2834
+5770,Zimbabwe,Masvingo,Masvingo,Balmain,-20.0463,30.4874,6017
+8819,Zimbabwe,Mashonaland Central,Mazowe,Bare,-16.8845,31.1259,8733
+8860,Zimbabwe,Masvingo,Gutu,Basera,-19.6741,31.6003,4829
+2155,Zimbabwe,Matabeleland South,Matobo,Bazha,-20.5955,28.3323,1872
+5369,Zimbabwe,Matabeleland South,Beitbridge Urban,Beitbridge Urban,-22.2028,29.9925,45078
+5574,Zimbabwe,Matabeleland South,Matobo,Beula,-21.486,28.3948,1036
+5403,Zimbabwe,Masvingo,Bikita,Bhundu Shopping Centre,-19.9585,32.2471,1322
+713,Zimbabwe,Mashonaland Central,Bindura Urban,Bindura,-17.3019,31.3306,60012
+718,Zimbabwe,Matabeleland North,Binga,Binga,-17.6203,27.3414,4067
+5382,Zimbabwe,Masvingo,Bikita,Boora,-20.0575,31.8789,7278
+2147,Zimbabwe,Matabeleland South,Mangwe,Brunaperg,-21.1638,28.0288,2319
+8870,Zimbabwe,Matabeleland North,Bubi,Bubi Business Center,-19.6768,28.8425,6439
+5519,Zimbabwe,Matabeleland North,Tsholotsho,Bubude,-20.0078,27.8141,3649
+5389,Zimbabwe,Bulawayo,Bulawayo,Bulawayo,-20.1573,28.5797,235063
+8905,Zimbabwe,Midlands,Shurugwi,Chachacha,-19.7885,30.1191,7497
+5451,Zimbabwe,Harare,Harare,Chadcombe,-17.8596,31.0982,232507
+8888,Zimbabwe,Midlands,Chirumhanzu,Chaka,-19.5178,30.6951,4036
+8823,Zimbabwe,Mashonaland Central,Shamva,Chakonda,-17.153,31.5943,11281
+5762,Zimbabwe,Mashonaland East,Chikomba,Chambara,-18.8565,30.9948,3526
+5479,Zimbabwe,Mashonaland West,Kariba,Charara,-16.552,28.9637,1015
+8802,Zimbabwe,Manicaland,Chimanimani,Charleswood,-19.7898,32.9531,1961
+5357,Zimbabwe,Matabeleland South,Beitbridge,Chasvingo,-22.0545,30.5004,1520
+5732,Zimbabwe,Mashonaland Central,Mount Darwin,Chawanda,-16.619,31.6762,6620
+726,Zimbabwe,Manicaland,Chipinge Urban,Checheche,-20.1883,32.6236,37791
+5399,Zimbabwe,Mashonaland West,Chegutu Urban,Chegutu Urban,-18.1322,30.1454,64777
+8889,Zimbabwe,Midlands,Chirumhanzu,Chengwena,-19.8236,30.5448,2325
+5561,Zimbabwe,Masvingo,Chiredzi,Chibwedziva,-21.3515,31.7808,4352
+5578,Zimbabwe,Mashonaland Central,Mbire,Chidodo,-16.117,31.0323,2114
+5573,Zimbabwe,Mashonaland West,Kariba,Chidyzmugwamu,-17.1333,28.3618,2382
+8899,Zimbabwe,Midlands,Kwekwe,Chiguhune,-18.8489,29.0594,1900
+5381,Zimbabwe,Masvingo,Bikita,Chigumisirwa,-20.0889,31.8538,6164
+2169,Zimbabwe,Mashonaland Central,Mbire,Chikafa,-15.9732,30.3809,1
+5562,Zimbabwe,Masvingo,Chiredzi,Chikombedzi,-21.6796,31.3202,4415
+712,Zimbabwe,Mashonaland West,Chinhoyi,Chikonohono,-17.3667,30.2,80576
+5384,Zimbabwe,Masvingo,Bikita,Chikuku,-19.9906,31.8629,7976
+2172,Zimbabwe,Mashonaland Central,Rushinga,Chimhanda Business Centre,-16.6334,32.1352,6455
+5569,Zimbabwe,Masvingo,Chiredzi,Chingele,-21.4134,31.6231,3557
+5781,Zimbabwe,Masvingo,Masvingo,Chinhove,-20.4208,31.0857,4977
+5401,Zimbabwe,Mashonaland West,Chinhoyi,Chinhoyi CBD,-17.3592,30.1923,80324
+5531,Zimbabwe,Manicaland,Chipinge Urban,Chipinge Urban,-20.1976,32.623,37239
+5532,Zimbabwe,Masvingo,Chiredzi Urban,Chiredzi Urban,-21.0472,31.6734,37646
+5377,Zimbabwe,Masvingo,Bikita,Chiremwaremwa,-20.4651,31.8571,4107
+5385,Zimbabwe,Masvingo,Gutu,Chirorwe Business Centre (Gutu),-19.5345,31.5445,3452
+8872,Zimbabwe,Matabeleland North,Hwange,Chisuma,-18.0137,25.9542,1421
+8891,Zimbabwe,Midlands,Gokwe North,Chitekete,-17.5899,28.3662,5242
+720,Zimbabwe,Masvingo,Chivi,Chivi Growth Point,-20.3073,30.5102,8951
+8849,Zimbabwe,Mashonaland West,Mhondoro-Ngezi,Chizinga Township,-18.6251,30.6852,5539
+2174,Zimbabwe,Mashonaland Central,Rushinga,Chomutukutu Business Centre,-16.5381,32.2019,4374
+5692,Zimbabwe,Manicaland,Chipinge,Chusumbanje,-20.7674,32.2303,16388
+5463,Zimbabwe,Matabeleland North,Hwange Urban,Cindrella,-18.3354,26.4739,24046
+8837,Zimbabwe,Mashonaland East,Mutoko,Cornerstore,-17.5573,31.9879,3308
+5741,Zimbabwe,Matabeleland North,Hwange,Cross Dete,-18.4865,26.9195,3868
+5777,Zimbabwe,Masvingo,Masvingo,Daitai,-20.3353,31.087,4949
+5431,Zimbabwe,Mashonaland East,Goromonzi,Damofalls Park,-17.8453,31.2331,106277
+8827,Zimbabwe,Mashonaland East,Hwedza,Dendenyore,-18.6793,31.6879,5927
+8898,Zimbabwe,Midlands,Kwekwe,Dendera Business Centre,-18.6811,29.0881,2168
+5592,Zimbabwe,Midlands,Zvishavane,Dharu,-19.9639,30.0516,4033
+5581,Zimbabwe,Masvingo,Mwenezi,Dinhe,-21.196,30.5237,3173
+2138,Zimbabwe,Matabeleland South,Bulilima,Dombodema,-20.405,27.6284,1464
+5423,Zimbabwe,Harare,Epworth,Domboramwari,-17.9055,31.1456,221818
+709,Zimbabwe,Mashonaland East,Marondera Urban,Dombotombo,-18.1853,31.5519,75909
+2150,Zimbabwe,Matabeleland South,Mangwe,Empandeni,-20.6922,27.8952,2438
+5534,Zimbabwe,Harare,Harare,Epworth,-17.8153,31.0552,292351
+5694,Zimbabwe,Matabeleland South,Umzingwane,Esigodini,-20.2934,28.9378,4645
+8826,Zimbabwe,Mashonaland East,Hwedza,Fells,-18.475,31.4877,2458
+5473,Zimbabwe,Matabeleland South,Insiza,Filabusi,-20.5435,29.2754,5113
+5760,Zimbabwe,Manicaland,Chipinge,Formal,-20.1972,32.8338,3370
+5440,Zimbabwe,Midlands,Gweru,Gambiza Business Centre,-19.2677,29.9247,4266
+2139,Zimbabwe,Matabeleland South,Bulilima,Gampo,-20.0538,27.6552,2585
+5559,Zimbabwe,Masvingo,Chiredzi,Gezani,-22.1026,31.1468,2664
+8840,Zimbabwe,Mashonaland East,Seke,Gilstone,-18.0027,30.8809,2577
+8821,Zimbabwe,Mashonaland Central,Mazowe,Glendale,-17.3603,31.0619,14116
+5425,Zimbabwe,Midlands,Gokwe South Urban,Gokwe,-18.2203,28.9538,34715
+8907,Zimbabwe,Mashonaland East,Hwedza,Goneso,-18.9092,31.8582,3694
+5591,Zimbabwe,Matabeleland North,Nkayi,Gonye,-18.8975,28.7455,2688
+8864,Zimbabwe,Masvingo,Zaka,Gumbo Business Centre,-20.22,31.3975,7887
+5746,Zimbabwe,Midlands,Gweru,Gunde Shops,-19.1818,29.9928,4797
+5774,Zimbabwe,Masvingo,Masvingo,Guwa Business Centre,-20.6271,31.0552,4634
+717,Zimbabwe,Matabeleland South,Gwanda Urban,Gwanda town,-20.9362,29.007,22866
+8892,Zimbabwe,Midlands,Gokwe North,Gwebo,-17.8667,28.8607,4817
+5588,Zimbabwe,Midlands,Kwekwe,Gwelutshena,-18.9806,29.0455,3238
+5442,Zimbabwe,Midlands,Gweru Urban,Gweru Urban,-19.4542,29.8151,104407
+8820,Zimbabwe,Mashonaland Central,Mazowe,Gweshe,-17.2044,31.0475,17204
+5537,Zimbabwe,Harare,Harare,Harare South,-17.8153,31.0553,292308
+8810,Zimbabwe,Manicaland,Mutasa,Hauna,-18.4978,32.8506,15370
+2156,Zimbabwe,Matabeleland South,Matobo,Homestead,-21.2538,28.5461,1123
+5505,Zimbabwe,Mashonaland Central,Centenary,Hoya,-16.346,31.2985,4242
+5461,Zimbabwe,Matabeleland North,Hwange,Hwange,-18.2155,26.295,5
+730,Zimbabwe,Matabeleland North,Hwange Urban,Hwange Town Bus Terminus,-18.3667,26.4833,25766
+8828,Zimbabwe,Mashonaland East,Hwedza,Hwedza Centre,-18.6275,31.5718,7803
+2146,Zimbabwe,Matabeleland South,Mangwe,Ingwizi,-21.1197,27.8678,2979
+8903,Zimbabwe,Midlands,Mberengwa,Jeka Business Centre,-20.8463,29.9319,4150
+8865,Zimbabwe,Masvingo,Zaka,Jerera,-20.4061,31.4472,12322
+5516,Zimbabwe,Matabeleland North,Tsholotsho,Jimila,-19.4922,27.7388,2225
+5702,Zimbabwe,Matabeleland North,Lupane,Jotsholo,-18.7197,27.5575,1682
+5476,Zimbabwe,Mashonaland West,Kariba Urban,Jumbo,-16.5148,28.8501,20161
+8846,Zimbabwe,Mashonaland West,Kadoma Urban,Kadoma Urban,-18.3372,29.9171,79141
+8841,Zimbabwe,Mashonaland East,Uzumba Maramba Pfungwe,Kafura,-16.8568,32.2571,3877
+5450,Zimbabwe,Harare,Harare,Kamunhu Shopping Centre,-17.8372,31.1981,95178
+8894,Zimbabwe,Midlands,Gokwe South,Kana Mission,-18.5583,28.5197,4289
+2177,Zimbabwe,Mashonaland Central,Rushinga,Kasenzi Business Center,-16.5893,32.2457,2837
+2189,Zimbabwe,Mashonaland West,Kariba,Kasvisva,-17.232,28.4981,1363
+5524,Zimbabwe,Mashonaland East,Mudzi,Katiyo,-17.2213,32.8441,1942
+2165,Zimbabwe,Mashonaland East,Mudzi,Katoto,-16.9957,32.2788,3497
+2152,Zimbabwe,Matabeleland South,Matobo,Kezi,-20.9099,28.4659,2226
+2137,Zimbabwe,Matabeleland South,Bulilima,Khame,-19.9624,27.4482,2322
+2160,Zimbabwe,Mashonaland East,Mudzi,Kotwa,-16.9912,32.671,11120
+5487,Zimbabwe,Midlands,Kwekwe Urban,Kwekwe CBD,-18.9281,29.8069,100824
+5485,Zimbabwe,Midlands,Kwekwe Urban,Kwekwe Industries,-18.9208,29.8133,115625
+5558,Zimbabwe,Matabeleland North,Binga,Lubimbi,-18.0679,27.8265,2571
+5739,Zimbabwe,Matabeleland North,Hwange,Lukosi,-18.385,26.6266,2714
+5582,Zimbabwe,Masvingo,Mwenezi,Lundi,-20.8983,30.7774,6641
+5703,Zimbabwe,Matabeleland North,Lupane,Lupane North,-18.4494,27.867,1711
+5701,Zimbabwe,Matabeleland North,Lupane,Lupane Northeast,-18.8399,28.1192,2065
+5361,Zimbabwe,Matabeleland South,Beitbridge,Lutumba,-22.0866,30.1184,5897
+2182,Zimbabwe,Midlands,Zvishavane,Mabasa,-20.1493,30.0895,3616
+5575,Zimbabwe,Matabeleland South,Matobo,Mabonyane,-21.0366,28.2301,1541
+5489,Zimbabwe,Matabeleland South,Mangwe,Madabe,-20.7673,27.751,2536
+5409,Zimbabwe,Midlands,Zvishavane,Madamombe,-20.4895,30.3213,3432
+2136,Zimbabwe,Matabeleland South,Bulilima,Madlambudzi,-20.1514,27.4457,2481
+5464,Zimbabwe,Matabeleland North,Hwange Urban,Madumabisa,-18.3628,26.4289,6029
+5576,Zimbabwe,Matabeleland South,Matobo,Madwaleni,-20.9621,28.4291,2019
+8825,Zimbabwe,Mashonaland Central,Shamva,Madziva Town,-16.9826,31.4886,14505
+5404,Zimbabwe,Masvingo,Chiredzi,Magarage,-21.117,31.4128,1297
+5750,Zimbabwe,Manicaland,Chipinge,Mahenye,-21.2477,32.3922,1804
+5477,Zimbabwe,Mashonaland West,Kariba Urban,Mahombekombe,-16.5259,28.7784,16883
+8831,Zimbabwe,Mashonaland East,Marondera,Mahusekwa,-18.3118,31.1945,7510
+2168,Zimbabwe,Mashonaland Central,Mbire,Mahuwe,-16.3847,30.7358,6228
+2161,Zimbabwe,Mashonaland East,Mudzi,Makaha,-17.2816,32.616,6251
+8847,Zimbabwe,Mashonaland West,Kariba,Makande,-16.9134,28.9941,2927
+5747,Zimbabwe,Midlands,Gweru,Makepesi Business Centre,-19.3785,29.5675,6981
+8835,Zimbabwe,Mashonaland East,Mutoko,Makosa,-17.2831,32.4723,5936
+8808,Zimbabwe,Manicaland,Mutasa,Makunike,-18.544,32.7705,11022
+5742,Zimbabwe,Matabeleland North,Hwange,Makwa,-18.0943,26.6659,745
+5465,Zimbabwe,Matabeleland North,Hwange Urban,Makwika,-18.4166,26.4079,2660
+2148,Zimbabwe,Matabeleland South,Mangwe,Mambale,-21.4784,28.2821,2145
+5383,Zimbabwe,Masvingo,Bikita,Mamutse,-19.983,31.8939,7714
+8885,Zimbabwe,Matabeleland South,Gwanda,Manama Business Centre,-21.5477,29.0126,2229
+5437,Zimbabwe,Midlands,Gweru,Mangwande Business Centre,-19.3109,29.4476,4865
+2149,Zimbabwe,Matabeleland South,Mangwe,Maninji,-21.4042,28.0692,1481
+5554,Zimbabwe,Matabeleland North,Binga,Manjolo,-17.2588,28.0006,347
+8812,Zimbabwe,Manicaland,Nyanga,Manjoro,-18.1942,32.7023,5553
+8843,Zimbabwe,Mashonaland East,Uzumba Maramba Pfungwe,Manyika Business Centre,-17.3536,31.9045,6560
+5517,Zimbabwe,Matabeleland North,Tsholotsho,Mapane,-19.8195,27.4389,1710
+2151,Zimbabwe,Matabeleland South,Matobo,Maphisa,-21.069,28.4519,4412
+5583,Zimbabwe,Masvingo,Mwenezi,Maranda,-21.1506,30.3212,3139
+5584,Zimbabwe,Masvingo,Mwenezi,Marimuka,-21.1988,30.1474,4424
+5420,Zimbabwe,Masvingo,Chivi,Maringire Business Centre,-20.6136,30.7095,4635
+5538,Zimbabwe,Mashonaland East,Marondera Urban,Marondera CBD,-18.1853,31.5519,75909
+2144,Zimbabwe,Matabeleland South,Mangwe,Marula,-20.4769,28.0855,855
+2173,Zimbabwe,Mashonaland Central,Rushinga,Mary Mount Business Center,-16.651,32.4173,4768
+5593,Zimbabwe,Midlands,Zvishavane,Masarasara,-20.2215,29.9043,2800
+5514,Zimbabwe,Harare,Harare,Masasa Industrial,-17.8511,31.1439,204992
+8902,Zimbabwe,Midlands,Mberengwa,Masase Business Centre,-20.9757,29.6699,4254
+8809,Zimbabwe,Manicaland,Mutasa,Masere,-18.6033,32.7763,8750
+8842,Zimbabwe,Mashonaland East,Uzumba Maramba Pfungwe,Mashambanhaka,-17.2922,31.8216,6907
+5498,Zimbabwe,Masvingo,Masvingo,Mashava,-20.0358,30.4723,4517
+8832,Zimbabwe,Mashonaland East,Marondera,Masomera,-18.3786,31.7762,3118
+5539,Zimbabwe,Masvingo,Masvingo Urban,Masvingo Urban,-20.0701,30.8366,97675
+8901,Zimbabwe,Midlands,Mberengwa,Mataga Growth Point,-20.8459,30.1929,6928
+2183,Zimbabwe,Midlands,Zvishavane,Matenda,-19.9981,30.0561,3538
+8800,Zimbabwe,Midlands,Zvishavane,Matenda B/C,-20.014,30.0077,2223
+8818,Zimbabwe,Mashonaland Central,Bindura,Matepatepa,-17.2224,31.1572,2913
+5585,Zimbabwe,Masvingo,Mwenezi,Matibi,-20.7521,30.4849,4443
+5571,Zimbabwe,Mashonaland West,Kariba,Mayovhe Business Centre,-17.0231,28.1912,2077
+5579,Zimbabwe,Mashonaland West,Makonde,Mazambara (Makonde),-16.5154,30.3325,1
+708,Zimbabwe,Harare,Harare,Mbare,-17.8581,31.0372,295847
+5594,Zimbabwe,Midlands,Zvishavane,Mbilashaba,-20.2114,29.9736,3465
+5480,Zimbabwe,Midlands,Kwekwe Urban,Mbizo 1,-18.9056,29.8356,97961
+5483,Zimbabwe,Midlands,Kwekwe Urban,Mbizo 2,-18.9103,29.8369,101580
+5484,Zimbabwe,Midlands,Kwekwe Urban,Mbizo 4,-18.9024,29.8498,78515
+5482,Zimbabwe,Midlands,Kwekwe,Mbizo Extension,-18.5438,29.5017,3857
+5468,Zimbabwe,Matabeleland South,Insiza,Mbondweni,-20.6959,29.4752,2280
+5387,Zimbabwe,Masvingo,Zaka,Mbuyanehanda (Zaka),-20.2922,31.4448,6727
+5413,Zimbabwe,Masvingo,Chivi,Mhandamabwe,-20.1479,30.361,5186
+8848,Zimbabwe,Mashonaland West,Makonde,Mhangura,-17.0144,30.168,2226
+5493,Zimbabwe,Matabeleland South,Mangwe,Mkgampo (Makhubu),-21.175,27.9302,3089
+2190,Zimbabwe,Mashonaland West,Kariba,Mola,-16.9278,28.2975,4860
+5580,Zimbabwe,Mashonaland Central,Mbire,Monozi,-16.242,30.4313,4447
+731,Zimbabwe,Mashonaland Central,Mount Darwin,Mount Darwin,-16.7833,31.5833,15717
+5590,Zimbabwe,Matabeleland North,Nkayi,Mpumelelo,-19.067,28.7715,2721
+5445,Zimbabwe,Midlands,Gweru Urban,Mtapa,-19.4444,29.7977,117215
+8862,Zimbabwe,Masvingo,Masvingo,Muchakata,-20.4195,30.9254,8094
+5441,Zimbabwe,Midlands,Gweru,Muchakata Business Centre,-19.238,29.9494,4930
+5563,Zimbabwe,Masvingo,Chiredzi,Muhlanguleni,-21.532,31.4903,3386
+8904,Zimbabwe,Midlands,Shurugwi,Mukandapi,-19.8696,30.1943,3826
+5378,Zimbabwe,Masvingo,Bikita,Mukore,-20.1314,31.8352,6008
+5735,Zimbabwe,Mashonaland Central,Mount Darwin,Mukumbura,-16.2019,31.6881,5789
+5422,Zimbabwe,Harare,Harare,Munyuki,-17.8881,30.9879,271826
+728,Zimbabwe,Masvingo,Gutu,Mupandawana,-19.65,31.1667,14567
+727,Zimbabwe,Manicaland,Buhera,Murambinda,-19.3333,31.4333,6587
+5388,Zimbabwe,Manicaland,Buhera,Murambinda Growth Point,-19.2672,31.6554,12971
+711,Zimbabwe,Mashonaland East,Murehwa,Murehwa,-17.6432,31.784,20497
+8913,Zimbabwe,Mashonaland East,Murehwa,Murewa Highway Vendors,-17.6635,31.7899,20771
+8851,Zimbabwe,Mashonaland West,Zvimba,Murombedzi Growth Point,-17.707,30.2002,9909
+2187,Zimbabwe,Midlands,Zvishavane,Murowa,-20.5343,30.3801,3274
+5386,Zimbabwe,Masvingo,Bikita,Murwira,-19.9148,31.6461,5306
+8830,Zimbabwe,Mashonaland East,Marondera,Mushangwe,-18.3192,31.5956,2498
+2167,Zimbabwe,Mashonaland Central,Mbire,Mushumbi,-16.1727,30.5581,8544
+5772,Zimbabwe,Masvingo,Masvingo,Musvovi,-20.7045,31.0693,5429
+2184,Zimbabwe,Midlands,Zvishavane,Mutambi,-20.4677,30.2829,3629
+5501,Zimbabwe,Manicaland,Mutare Urban,Mutare CBD,-18.9755,32.6693,135432
+5704,Zimbabwe,Manicaland,Mutare,Mutare Rural Market 1,-19.2552,32.2583,7588
+5707,Zimbabwe,Manicaland,Mutare,Mutare Rural Market 4,-19.2665,32.5846,5969
+5708,Zimbabwe,Manicaland,Mutare,Mutare Rural Market 5,-19.0527,32.2215,3858
+5520,Zimbabwe,Mashonaland East,Uzumba Maramba Pfungwe,Mutata,-16.8909,32.1818,4348
+5522,Zimbabwe,Mashonaland Central,Shamva,Mutawatawa Growth Point,-17.1235,31.5854,8847
+8829,Zimbabwe,Mashonaland East,Marondera,Muteke,-18.0995,31.5519,1780
+5686,Zimbabwe,Manicaland,Chipinge,Mutema,-20.1363,32.3658,6943
+5570,Zimbabwe,Masvingo,Chiredzi,Muteyo,-20.9281,32.1124,5141
+8836,Zimbabwe,Mashonaland East,Mutoko,Mutoko Centre,-17.4048,32.2333,21884
+5452,Zimbabwe,Harare,Harare Rural,Mutsvubvu Shops,-17.9352,30.9901,177844
+5504,Zimbabwe,Mashonaland Central,Centenary,Muzarabani Centre,-16.3923,30.9949,5178
+5744,Zimbabwe,Matabeleland North,Hwange,Ndlovu,-18.1055,25.9825,1556
+2143,Zimbabwe,Mashonaland West,Kariba,Negande,-17.1303,28.3646,2427
+2188,Zimbabwe,Mashonaland West,Kariba,Negande business centre,-17.1889,28.1924,1421
+5775,Zimbabwe,Masvingo,Masvingo,Nemamwa,-20.2728,30.9118,11091
+2180,Zimbabwe,Matabeleland North,Tsholotsho,Nemane,-19.803,27.5349,2862
+5424,Zimbabwe,Midlands,Gokwe North,Nembudzia,-17.7144,29.0104,13694
+8859,Zimbabwe,Masvingo,Gutu,Nerupiri,-19.847,31.0338,4607
+2158,Zimbabwe,Masvingo,Mwenezi,Neshuro,-20.9459,30.6453,5884
+5518,Zimbabwe,Matabeleland North,Tsholotsho,Ngqoya,-19.8181,27.7984,4007
+5525,Zimbabwe,Mashonaland East,Uzumba Maramba Pfungwe,Nhakiwa,-17.3708,31.802,8651
+5768,Zimbabwe,Mashonaland East,Chikomba,Nharira,-19.0723,31.1597,4828
+5394,Zimbabwe,Bulawayo,Bulawayo,Njube,-20.1349,28.5306,187340
+716,Zimbabwe,Matabeleland North,Nkayi,Nkayi Growth Point,-18.9992,28.8983,6064
+5540,Zimbabwe,Mashonaland West,Norton,Norton,-17.8723,30.6939,66238
+8877,Zimbabwe,Matabeleland North,Umguza,Ntabazinduna,-20.0079,28.8419,4960
+2157,Zimbabwe,Matabeleland South,Matobo,Ntunjambili,-20.4448,28.6942,3257
+2164,Zimbabwe,Mashonaland East,Mudzi,Nyamande,-17.2222,32.716,4426
+8881,Zimbabwe,Matabeleland North,Umguza,Nyamandlovu Centre,-19.862,28.2716,2146
+2163,Zimbabwe,Mashonaland East,Mudzi,Nyamapanda,-16.9638,32.8566,5332
+2175,Zimbabwe,Mashonaland Central,Rushinga,Nyamatikiti Business Centre,-16.7381,32.1062,3187
+5475,Zimbabwe,Matabeleland North,Binga,Nyamhunga,-17.4652,28.0826,4183
+2166,Zimbabwe,Mashonaland East,Mudzi,Nyamukoho,-17.0733,32.3156,3401
+725,Zimbabwe,Manicaland,Chimanimani,Nyanyadzi,-19.7667,32.4167,13896
+8813,Zimbabwe,Manicaland,Nyanga,Nyarumburwe Shopping Centre,-18.2243,32.6409,1691
+2176,Zimbabwe,Mashonaland Central,Rushinga,Nyatsato Business center,-16.5701,32.3678,3056
+2142,Zimbabwe,Matabeleland South,Bulilima,Nyele,-20.2778,27.6865,2231
+5379,Zimbabwe,Masvingo,Bikita,Nyika Growth Point,-20.0122,31.6047,11909
+5709,Zimbabwe,Manicaland,Mutare,Odzi,-18.9596,32.3869,4668
+5376,Zimbabwe,Masvingo,Bikita,Old Mashoko,-20.49,31.7709,5131
+5396,Zimbabwe,Bulawayo,Bulawayo,Old Pumula Shops,-20.1427,28.4731,82861
+5734,Zimbabwe,Mashonaland Central,Mount Darwin,Pachanza,-16.473,31.7455,7118
+8875,Zimbabwe,Matabeleland North,Tsholotsho,Pumula,-19.6452,27.0617,696
+5449,Zimbabwe,Harare,Harare,Queensdale,-17.8562,31.0874,251721
+8852,Zimbabwe,Mashonaland West,Zvimba,Raffingora,-17.0373,30.4357,4180
+5508,Zimbabwe,Midlands,Redcliff,Redcliff,-19.0264,29.7759,33068
+5560,Zimbabwe,Masvingo,Chiredzi,Rupangwana,-21.0001,32.1496,9851
+5511,Zimbabwe,Manicaland,Rusape,Rusape,-18.5211,32.1369,43464
+2171,Zimbabwe,Mashonaland Central,Rushinga,Rushinga Growth Point,-16.6355,32.0207,9043
+5509,Zimbabwe,Midlands,Redcliff,Rutendo 5,-19.0025,29.7879,32967
+5545,Zimbabwe,Midlands,Redcliff,Rutendo 6,-19.0025,29.788,32959
+1905,Zimbabwe,Masvingo,Mwenezi,Rutenga,-21.2331,30.7312,5313
+5586,Zimbabwe,Masvingo,Mwenezi,Rutenga (Mwenenzi),-21.2392,30.7308,5386
+5546,Zimbabwe,Mashonaland East,Ruwa,Ruwa,-17.8985,31.2311,91951
+5767,Zimbabwe,Mashonaland East,Chikomba,Sadza,-18.9015,31.4508,4990
+2154,Zimbabwe,Matabeleland South,Matobo,Saint Joseph,-21.2491,28.2694,2055
+724,Zimbabwe,Manicaland,Mutare Urban,Sakubva,-18.9967,32.6437,150239
+2159,Zimbabwe,Masvingo,Mwenezi,Sarahuro,-20.988,30.547,4363
+5595,Zimbabwe,Midlands,Zvishavane,Sasula,-20.1891,30.055,2743
+5589,Zimbabwe,Matabeleland North,Nkayi,Sebhumane,-18.6697,28.4579,2613
+8811,Zimbabwe,Manicaland,Nyanga,Sedze,-18.1362,32.7362,4052
+8884,Zimbabwe,Matabeleland South,Gwanda,Selonga Business Centre,-21.3842,29.1731,2232
+5553,Zimbabwe,Matabeleland North,Binga,Siabuwa,-17.473,28.0507,5416
+5572,Zimbabwe,Mashonaland West,Kariba,Siakobvu Business Centre,-17.1297,28.3634,2409
+5438,Zimbabwe,Midlands,Gweru,Sikombingo,-19.2221,29.3631,4934
+5467,Zimbabwe,Matabeleland South,Insiza,Silalatshani,-20.7838,29.3174,2720
+5779,Zimbabwe,Masvingo,Masvingo,Sipambi,-20.3272,30.7265,3810
+2178,Zimbabwe,Matabeleland North,Tsholotsho,Siphepha,-19.2865,27.6585,2549
+5397,Zimbabwe,Bulawayo,Bulawayo,Sizinda Shopping Centre,-20.1727,28.5459,238034
+5474,Zimbabwe,Matabeleland South,Insiza,Skuta,-20.4618,29.6075,1417
+5434,Zimbabwe,Midlands,Gweru Urban,Sogwala,-19.4472,29.7478,62985
+2141,Zimbabwe,Matabeleland South,Bulilima,Somnene,-20.1493,27.9422,935
+5587,Zimbabwe,Masvingo,Mwenezi,Sovelele,-21.0042,29.9324,2916
+5521,Zimbabwe,Mashonaland East,Uzumba Maramba Pfungwe,Sowa,-16.9705,32.0533,4266
+8873,Zimbabwe,Matabeleland North,Lupane,St Luke's,-19.1082,27.9658,2487
+8883,Zimbabwe,Matabeleland South,Gwanda,Stanmore,-20.6602,29.0266,2534
+2162,Zimbabwe,Mashonaland East,Mudzi,Suswe,-17.1573,32.3948,4898
+5418,Zimbabwe,Masvingo,Chivi,Takavarasha,-20.3341,30.5546,5543
+5761,Zimbabwe,Manicaland,Chipinge,Tanganda,-20.1152,32.4497,4258
+8880,Zimbabwe,Matabeleland North,Umguza,Ticehurst,-19.8212,28.4698,1504
+2140,Zimbabwe,Matabeleland South,Bulilima,Tjankwa,-20.3775,27.8938,2671
+8906,Zimbabwe,Midlands,Shurugwi,Tongogara Business Centre,-19.7219,30.2074,4565
+5065,Zimbabwe,Manicaland,Chipinge,Tongogara Refugee Camp 2,-20.3494,32.3088,2926
+5507,Zimbabwe,Midlands,Redcliff,Torwood 1,-19.0113,29.7227,13491
+5544,Zimbabwe,Midlands,Redcliff,Torwood 2,-19.0114,29.7331,21081
+5398,Zimbabwe,Bulawayo,Bulawayo,Tshabalala Basic Shopping Centre,-20.1691,28.5262,201595
+2153,Zimbabwe,Matabeleland South,Matobo,Tshelanyemba,-21.3524,28.4889,2771
+2179,Zimbabwe,Matabeleland North,Tsholotsho,Tsholotsho Business Centre,-19.7656,27.7514,7527
+8850,Zimbabwe,Mashonaland West,Mhondoro-Ngezi,Turf,-18.6782,30.2781,8394
+2185,Zimbabwe,Midlands,Zvishavane,Vhugwi,-20.4752,30.1754,2848
+5552,Zimbabwe,Matabeleland North,Victoria Falls,Victoria Falls,-17.9345,25.8287,41076
+5738,Zimbabwe,Matabeleland South,Insiza,Vokola,-20.859,29.5496,2670
+8824,Zimbabwe,Mashonaland Central,Shamva,Wadzanai,-17.2976,31.5688,15285
+5364,Zimbabwe,Matabeleland South,Beitbridge,Zezani,-21.6055,29.4978,2205
+8897,Zimbabwe,Midlands,Kwekwe,Zhombe,-18.6757,29.3475,5628
+5780,Zimbabwe,Masvingo,Masvingo,Zimuto Siding,-19.8586,30.8596,2943
+8817,Zimbabwe,Mashonaland Central,Bindura,Zvevahera,-17.4068,31.3719,6138
+5766,Zimbabwe,Mashonaland East,Chikomba,Zvichemo,-19.0454,31.3456,4011
+2181,Zimbabwe,Midlands,Zvishavane Urban,Zvishavane Urban,-20.3159,30.0545,53491
