@@ -12,4 +12,4 @@ nigeria/
 __pycache__/
 .ipynb_checkpoints/
 shared_data/rwi/rwi_tif/*.tif
-shared_data/friction_surfaces/*.geotiff
+shared_data/friction_surfaces/
