@@ -10,6 +10,7 @@
 7. [License](#license)
 
 ## 1. Citing
+You can cite the following arXiv [publication](https://arxiv.org/abs/2505.07913)
 
 ## 2. Abstract
 
