@@ -53,7 +53,7 @@ We extract the following amenities:
 
 ### 4.2 WFP
 
-We use the WFP's [Prices](https://dataviz.vam.wfp.org/economic/prices?current_page=1&theme=10) and [Market assessment](https://dataviz.vam.wfp.org/economic/market-assessment?current_page=1&theme=30) data, downloaded from their sites for all african countries. You can find the data in `shared_data\markets_MFI_africa.csv` and `shared_data\markets_price_africa.csv`.
+We use the WFP's [Market price](https://dataviz.vam.wfp.org/economic/prices?current_page=1&theme=10) and [Market Functionality Index](https://dataviz.vam.wfp.org/economic/market-assessment?current_page=1&theme=30) data, downloaded from WFP's Economic Explorer for all african countries. You can find the data in `shared_data\markets_price_africa.csv` and `shared_data\markets_MFI_africa.csv` .
 
 ### 4.3 Worldpop
 
