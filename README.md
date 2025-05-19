@@ -10,7 +10,15 @@
 7. [License](#license)
 
 ## 1. Citing
-You can cite the following arXiv [publication](https://arxiv.org/abs/2505.07913)
+If you use our approach or code in this repository, please cite our paper: <br>
+Benassai-Dalmau, Robert, Vasiliki Voukelatou, Rossano Schifanella, Stefania Fiandrino, Daniela Paolotti, and Kyriaki Kalimeri. "Unequal Journeys to Food Markets: Continental-Scale Evidence from Open Data in Africa." arXiv preprint arXiv:2505.07913 (2025). [publication](https://arxiv.org/abs/2505.07913)
+
+`@article{benassai2025unequal,`<br/>
+  `title={Unequal Journeys to Food Markets: Continental-Scale Evidence from Open Data in Africa},` <br>
+  `author={Benassai-Dalmau, Robert and Voukelatou, Vasiliki and Schifanella, Rossano and Fiandrino, Stefania and Paolotti, Daniela and Kalimeri, Kyriaki},` <br>
+  `journal={arXiv preprint arXiv:2505.07913},` <br>
+  `year={2025}
+}`
 
 ## 2. Abstract
 
