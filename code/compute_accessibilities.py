@@ -72,7 +72,7 @@ def load_market_data(country_code:str, overlap_rad = 200):
     market_WFP_country= market_WFP.sjoin(country_borders)
     market_WFP_country.reset_index(inplace = True)
     
-    print(f'Number of markets fron WFP in {country_borders.iloc[0].ADM0_NAME}:', len(market_WFP_country))
+    print(f'Number of markets fron WFP in {country_code}:', len(market_WFP_country))
 
     # Now we merge the WFP and OSM datasets and set an overlap radious of 200m
     # go to UTM crs in both gdfs
@@ -170,13 +170,38 @@ def main(country_code, threshold, tmode):
         if len(points) == 1:
             centers = points
             clusters = np.array([[points[0][0],points[0][1],0]])
-        for i in range(2,len(points)):
+
+        print('computing centroids ...')
+        print(len(facility_gdf), 'points')
+        jump_start = int(len(points)*0.2)
+        if not jump_start%2:
+            jump_start+=1
+
+        first_try = True
+        for i in range(jump_start,len(points)):
             if not i%10:
                 print(i)
             valid, centers, clusters = centroids.validate_solution(ri, *centroids.create_clusters(i,points))
+            
             if valid:
                 print(i)
-                break
+                # if we overshot the number of clusters we iterate backwards until finding the last valid solution
+                if first_try:
+                    print('First try: number of clusters is less than 20 percent of points', i)
+                    first_try = False
+                    for i in range(jump_start, 2, -1):
+                        valid, centers_new, clusters_new = centroids.validate_solution(ri, *centroids.create_clusters(i,points))
+                        if valid:
+                            centers = centers_new
+                            clusters = clusters_new
+                        # if the result is not valid anymore we keep the last iteration
+                        else:
+                            break
+                # if it is valid and we are not in the first try we have finished
+                if not first_try:
+                    break
+            # if the result is not valid we keep iterating
+            first_try = False
         
         centroids_gdf, facility_gdf = centroids.create_centroids_gdf(facility_gdf, centers, clusters)
 
