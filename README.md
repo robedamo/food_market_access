@@ -10,7 +10,15 @@
 7. [License](#license)
 
 ## 1. Citing
-You can cite the following arXiv [publication](https://arxiv.org/abs/2505.07913)
+If you use our approach or code in this repository, please cite our paper: <br>
+Benassai-Dalmau, Robert, Vasiliki Voukelatou, Rossano Schifanella, Stefania Fiandrino, Daniela Paolotti, and Kyriaki Kalimeri. "Unequal Journeys to Food Markets: Continental-Scale Evidence from Open Data in Africa." arXiv preprint arXiv:2505.07913 (2025). [publication](https://arxiv.org/abs/2505.07913)
+
+`@article{benassai2025unequal,`<br/>
+  `title={Unequal Journeys to Food Markets: Continental-Scale Evidence from Open Data in Africa},` <br>
+  `author={Benassai-Dalmau, Robert and Voukelatou, Vasiliki and Schifanella, Rossano and Fiandrino, Stefania and Paolotti, Daniela and Kalimeri, Kyriaki},` <br>
+  `journal={arXiv preprint arXiv:2505.07913},` <br>
+  `year={2025}
+}`
 
 ## 2. Abstract
 
@@ -53,7 +61,7 @@ We extract the following amenities:
 
 ### 4.2 WFP
 
-We use the WFP's [Prices](https://dataviz.vam.wfp.org/economic/prices?current_page=1&theme=10) and [Market assessment](https://dataviz.vam.wfp.org/economic/market-assessment?current_page=1&theme=30) data, downloaded from their sites for all african countries. You can find the data in `shared_data\markets_MFI_africa.csv` and `shared_data\markets_price_africa.csv`.
+We use the WFP's [Market price](https://dataviz.vam.wfp.org/economic/prices?current_page=1&theme=10) and [Market Functionality Index](https://dataviz.vam.wfp.org/economic/market-assessment?current_page=1&theme=30) data, downloaded from WFP's Economic Explorer for all african countries. You can find the data in `shared_data\markets_price_africa.csv` and `shared_data\markets_MFI_africa.csv` .
 
 ### 4.3 Worldpop
 
