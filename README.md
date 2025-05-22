@@ -46,9 +46,9 @@ This project uses data from [OpenStreetMap (OSM)](https://www.geofabrik.de/geofa
 
 ### 4.1 OSM
 
-To extract the OSM data, we used [Geofabrik](https://download.geofabrik.de/)'s downoad server. In our case, we downoaded the african dataset in the `osm.pbf` format. You can find the bash extraction script in `shared_data/extract_countries.sh` for the African countries used in this work. If you wish to extract OSM data from any other country, download the corresponding Geofabrik file and the country boundaries. You can then use `shared_data/extract_general.sh` to extract the market data. 
+To extract the OSM data, we used [Geofabrik](https://download.geofabrik.de/)'s downoad server. In our case, we downoaded the african dataset in the `osm.pbf` format. You can find the bash extraction script in `shared_data/extract_countries.sh` for the **African countries** used in this work. If you wish to extract OSM data from **any other country**, download the corresponding **Geofabrik** file and the **country boundaries**. You can then use `shared_data/extract_general.sh` to extract the market data. 
 
-In both cases you will need the [`osmium`](https://osmcode.org/osmium-tool/) tool to extract the markets from the geofabrik file using the provided script. For the African countries, you will also need [`ogr2ogr`](https://gdal.org/en/stable/programs/ogr2ogr.html) from [gdal](https://gdal.org/en/stable/).
+In both cases you will need the [`osmium`](https://osmcode.org/osmium-tool/) tool to extract the markets from the geofabrik file using the provided script. For the African countries, you will also need [`ogr2ogr`](https://gdal.org/en/stable/programs/ogr2ogr.html) from [gdal](https://gdal.org/en/stable/) for the extraction of the borders from the GIS data from [Open Africa](https://open.africa/dataset/africa-shapefiles).
 
 We extract the following amenities:
 
@@ -78,13 +78,19 @@ For the analysis on the relation between rurality and market access we use a 30-
 
 ## 5. Usage
 
-1. Be sure to have the OSM market data for the country of study downoaded in `shared_data/africa_markets/markets/[COUNTRY ISO 3 CODE]_markets_shops.geojson`.
+1. Be sure to have the OSM market data for the country of study downoaded in `shared_data/africa_markets/markets/[COUNTRY ISO3 CODE]_markets_shops.geojson`. To download the data:
 
-2. Download the corresponding WFP price and market functionality index data in the `shared_data` folder e.g. `shared_data/markets_MFI_africa.csv` and `/shared_data/markets_price_africa.csv`. Update the path in the script if needed. If the country you are processing is in Africa, you can ignore this step.
+  1.1 Go to [Geofabrik](https://download.geofabrik.de/) and download the `.osm.pbf` file of the country of interest. Rename it as `[iso3 name].osm.pbf` and save it to the `shared_data` folder.
 
-3. download the Motorized and Walking-only Friction Surfaces from the [Malaria Atlas Project](https://malariaatlas.org/project-resources/accessibility-to-healthcare/) or this Dropbox [link](https://www.dropbox.com/scl/fo/pw2v7d9r83defz5i9vqix/AGclONfbO4FDRqDX_4wvSI8?rlkey=yaduklz0gwa143nu3eguxa3o9&st=w21lt95y&dl=0) and save them to `shared_data/friction_surfaces`.
+  1.2. Change the `COUNTRY` variable with the corresponding iso3 code in the script `shared_data/extract_general.sh`. Compile and run the bash script (make sure to have the `osmium` tool installed). This will return a file in `shared_data/africa_markets/markets/[iso3]_market_shops.geojson` which will be used by the main script.
 
-4. To call `compute_accessibilities.py`, you need to input three variables:
+2. Be sure to have the country borders in `shared_data/africa_markets/borders` named as `[iso3].geojson`. You can downoad them from your favourite site.
+
+3. Download the corresponding WFP price and market functionality index data in the `shared_data` folder e.g. `shared_data/markets_MFI_africa.csv` and `/shared_data/markets_price_africa.csv`. Update the path in the script `code/compute_accessibilities.py` if needed. If the country you are processing is in Africa, you can ignore this step.
+
+4. Download the Motorized and Walking-only Friction Surfaces from the [Malaria Atlas Project](https://malariaatlas.org/project-resources/accessibility-to-healthcare/) or this Dropbox [link](https://www.dropbox.com/scl/fo/pw2v7d9r83defz5i9vqix/AGclONfbO4FDRqDX_4wvSI8?rlkey=yaduklz0gwa143nu3eguxa3o9&st=w21lt95y&dl=0) and save them to `shared_data/friction_surfaces`.
+
+5. To call `compute_accessibilities.py`, you need to input three variables:
 - **country_code**: A string with the iso3 code of the country (e.g. `'eth'` for Ethiopia)
 - **threshold**: The travel time threshold (in minutes) for the cumulative accessibility in `str` format (e.g. `'30'`for 30 minutes)
 - **tmode**: transportation mode. Use `'moto'`for motorized or `'walk'`for walking-only.
@@ -96,21 +102,26 @@ The data in this repository allows computing the metrics for all African countri
 The file in `code/manuscript_plots.ipynb` reproduces all plots present in the paper.
 
 ## 6. Requirements
-```
-beautifulsoup4==4.13.4
-geopandas==0.14.0
-geopy==2.4.0
-matplotlib==3.7.1
-numpy==1.24.3
-pandas==1.5.3
-rasterio==1.3.9
-Requests==2.32.3
-scikit_learn==1.3.0
-scipy==1.10.1
-Shapely==2.1.0
-skimage==0.0
-tqdm==4.65.0
-```
+
+- Python version: 3.11.4
+
+- Python libraries:
+  ```
+  beautifulsoup4==4.13.4
+  geopandas==0.14.0
+  geopy==2.4.0
+  matplotlib==3.7.1
+  numpy==1.24.3
+  pandas==1.5.3
+  rasterio==1.3.9
+  Requests==2.32.3
+  scikit_learn==1.3.0
+  scipy==1.10.1
+  Shapely==2.1.0
+  skimage==0.0
+  tqdm==4.65.0
+  ```
+- Osmium tool for OSM data extraction
 
 ## 7. License
 This project is licensed under the [MIT License](https://mit-license.org/).
