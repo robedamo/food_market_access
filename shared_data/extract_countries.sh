@@ -7,7 +7,7 @@ AFRICA_PBF="../data/africa-latest.osm.pbf"
 SHAPEFILE="./africa_borders/afr_g2014_2013_0.shp"
 
 # Define the country code (in this case numeric coode for South Africa)
-COUNTRY="160"
+COUNTRY="eth"
 
 # Loop through each country and process
 echo "Processing ${COUNTRY}"

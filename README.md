@@ -46,7 +46,9 @@ This project uses data from [OpenStreetMap (OSM)](https://www.geofabrik.de/geofa
 
 ### 4.1 OSM
 
-To extract the OSM data, we used [Geofabrik](https://download.geofabrik.de/)'s downoad server. In our case, we downoaded the african dataset in the `osm.pbf` format. You can find the bash extraction script in `shared_data/extract_countries.sh`. You will need the [`osmium`](https://osmcode.org/osmium-tool/) tool to extract the markets from the geofabrik file using the provided script. You will also need [`ogr2ogr`](https://gdal.org/en/stable/programs/ogr2ogr.html) from [gdal](https://gdal.org/en/stable/).
+To extract the OSM data, we used [Geofabrik](https://download.geofabrik.de/)'s downoad server. In our case, we downoaded the african dataset in the `osm.pbf` format. You can find the bash extraction script in `shared_data/extract_countries.sh` for the African countries used in this work. If you wish to extract OSM data from any other country, download the corresponding Geofabrik file and the country boundaries. You can then use `shared_data/extract_general.sh` to extract the market data. 
+
+In both cases you will need the [`osmium`](https://osmcode.org/osmium-tool/) tool to extract the markets from the geofabrik file using the provided script. For the African countries, you will also need [`ogr2ogr`](https://gdal.org/en/stable/programs/ogr2ogr.html) from [gdal](https://gdal.org/en/stable/).
 
 We extract the following amenities:
 
@@ -75,19 +77,19 @@ We use the friction surfaces from the [Malaria Atlas Project](https://malariaatl
 For the analysis on the relation between rurality and market access we use a 30-arcsec raster from the [Urban-Rural Catchment Areas (URCA)](https://figshare.com/articles/dataset/Urban-rural_continuum/12579572) Project, with a 30-level classificaiton.
 
 ## 5. Usage
-First download the Walking-only and Motorized Friction Surfaces from the [Malaria Atlas Project](https://malariaatlas.org/project-resources/accessibility-to-healthcare/) or this Dropbox [link](https://www.dropbox.com/scl/fo/pw2v7d9r83defz5i9vqix/AGclONfbO4FDRqDX_4wvSI8?rlkey=yaduklz0gwa143nu3eguxa3o9&st=w21lt95y&dl=0)
-To call `compute_accessibilities.py`, you need to input three variables:
+
+1. Be sure to have the OSM market data for the country of study downoaded in `shared_data/africa_markets/markets/[COUNTRY ISO 3 CODE]_markets_shops.geojson`.
+
+2. Download the corresponding WFP price and market functionality index data in the `shared_data` folder e.g. `shared_data/markets_MFI_africa.csv` and `/shared_data/markets_price_africa.csv`. Update the path in the script if needed. If the country you are processing is in Africa, you can ignore this step.
+
+3. download the Motorized and Walking-only Friction Surfaces from the [Malaria Atlas Project](https://malariaatlas.org/project-resources/accessibility-to-healthcare/) or this Dropbox [link](https://www.dropbox.com/scl/fo/pw2v7d9r83defz5i9vqix/AGclONfbO4FDRqDX_4wvSI8?rlkey=yaduklz0gwa143nu3eguxa3o9&st=w21lt95y&dl=0) and save them to `shared_data/friction_surfaces`.
+
+4. To call `compute_accessibilities.py`, you need to input three variables:
 - **country_code**: A string with the iso3 code of the country (e.g. `'eth'` for Ethiopia)
 - **threshold**: The travel time threshold (in minutes) for the cumulative accessibility in `str` format (e.g. `'30'`for 30 minutes)
 - **tmode**: transportation mode. Use `'moto'`for motorized or `'walk'`for walking-only.
 
 e.g. `python compute_accessibilities.py 'eth' '30' 'moto'`
-
-Note that to run the code, four data files are needed:
-1. The market locations in `shared_data/africa_markets/markets/{iso3}_markets_shops.geojson` from OSM.
-2. The Market locations from WFP. For Africa `shared_data/markets_MFI_africa.csv` and `/shared_data/markets_price_africa.csv`.
-3. The borders of the country in `shared_data/africa_markets/borders/{iso3}.geojson`
-4. The Friction Surfaces (FS). In this case the global FS are in `shared_data/friction_surfaces`
 
 The data in this repository allows computing the metrics for all African countries. If you need to use the code for non-African countries download the required data (market locations from OSM and WFP and country borders). Make sure to put the new data in the right directories.
 
