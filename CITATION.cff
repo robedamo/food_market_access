@@ -1,0 +1,40 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite both the software and the paper below."
+title: "food_market_access: Continental-scale food market accessibility in Africa"
+abstract: "Pipeline for building travel-time surfaces from open geospatial data to estimate spatial accessibility to food markets across Africa."
+type: software
+license: MIT
+repository-code: "https://github.com/robedamo/food_market_access"
+authors:
+  - family-names: "Benassai-Dalmau"
+    given-names: "Robert"
+  - family-names: "Voukelatou"
+    given-names: "Vasiliki"
+  - family-names: "Schifanella"
+    given-names: "Rossano"
+  - family-names: "Fiandrino"
+    given-names: "Stefania"
+  - family-names: "Paolotti"
+    given-names: "Daniela"
+  - family-names: "Kalimeri"
+    given-names: "Kyriaki"
+    orcid: "https://orcid.org/0000-0001-8068-5916"
+preferred-citation:
+  type: article
+  title: "Continental-scale assessment of spatial food market accessibility in Africa using open geospatial data"
+  journal: "Scientific Reports"
+  year: 2026
+  doi: "10.1038/s41598-026-59806-y"
+  authors:
+    - family-names: "Benassai-Dalmau"
+      given-names: "Robert"
+    - family-names: "Voukelatou"
+      given-names: "Vasiliki"
+    - family-names: "Schifanella"
+      given-names: "Rossano"
+    - family-names: "Fiandrino"
+      given-names: "Stefania"
+    - family-names: "Paolotti"
+      given-names: "Daniela"
+    - family-names: "Kalimeri"
+      given-names: "Kyriaki"
